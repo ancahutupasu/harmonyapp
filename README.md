@@ -7,7 +7,7 @@
 - As a visitor and customer, I want to be able to see the services, in order to book the service I want.
 - As an administrator, I want to be able to add offers, in order to allow more people to enjoy a treatment.
 - As a visitor and Customer, I want to be able to see the price of each service, in order to to understand if I am ready to give that amount for service.
-- - As a visitor and customer, I want to be able to book a service or package, in order to get a time.
+- As a visitor and customer, I want to be able to book a service or package, in order to get a time.
 - As a visitor and Customer, I want to be able to see the information of the salon, in order to decide if i should book an appointment. 
 - As a visitor and customer, I want to be able to see the review, in order to see other people's opinions about the salon.
 - As an administrator, I want to be able to edit the content, in order to keep the customers updated.
