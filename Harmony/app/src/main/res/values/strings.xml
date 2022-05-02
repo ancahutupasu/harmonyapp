@@ -1,7 +1,5 @@
 <resources>
     <string name="app_name">Harmony</string>
-    <string name="signup">Signup</string>
-    <string name="email">email</string>
     <string name="password">password</string>
     <string name="refillpassword">password</string>
     <string name="logout">Logout</string>
@@ -14,4 +12,8 @@
     <string name="textview">TextView</string>
     <string name="person_information">Person Information</string>
     <string name="done">Done</string>
+    <string name="email">email</string>
+    <string name="signup">Signup</string>
+    <string name="hello_world">Hello World</string>
+    <string name="Password">Password</string>
 </resources>
