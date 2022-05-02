@@ -16,4 +16,7 @@
     <string name="signup">Signup</string>
     <string name="hello_world">Hello World</string>
     <string name="Password">Password</string>
+    <string name="person_information">Person Information</string>
+    <string name="mypoint">MyPoint</string>
+    <string name="Bookings_history">Bookings/ History</string>
 </resources>
