@@ -39,7 +39,7 @@
 
 
 
-Brif description:
+Brief description:
 - our app it is for an existing bussines, which offers body treatments (massage) in Horsens;
 - the owner asked for our help in making the application;
 - the app will be used by the owner of the bussiness, to make her life and customers easier;
