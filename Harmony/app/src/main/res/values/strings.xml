@@ -4,4 +4,12 @@
     <string name="email">email</string>
     <string name="password">password</string>
     <string name="refillpassword">password</string>
+    <string name="logout">Logout</string>
+    <string name="my_account">My Account</string>
+    <string name="personal_information">Personal information</string>
+    <string name="my_points">My Points</string>
+    <string name="bookings_history">Bookings / History</string>
+    <string name="reviews">Reviews</string>
+    <string name="subscriptions">Subscriptions</string>
+    <string name="textview">TextView</string>
 </resources>
