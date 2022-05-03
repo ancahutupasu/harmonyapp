@@ -1,15 +1,10 @@
 package com.example.harmony.model;
 
-
-import java.util.ArrayList;
-
-
 public class User {
 
     private String email, password, type;
     private UserDetails userDetails;
     private int points;
-
 
     public User(String email, String password) {
         this.email = email;
