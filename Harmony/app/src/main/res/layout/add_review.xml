@@ -5,14 +5,14 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context="">
+    >
 
 
     <TextView
         android:id="@+id/text_edit"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Add Review"
+        android:text="@string/add_review"
         android:textStyle="bold"
         android:textSize="16sp"
         android:textColor="@color/black"

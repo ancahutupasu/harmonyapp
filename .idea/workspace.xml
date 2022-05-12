@@ -5,7 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a1f926f4-fe09-4c4c-8de8-b7a9350f5db7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Harmony/app/build/generated/source/buildConfig/debug/com/example/harmony/BuildConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Harmony/app/src/main/java/com/example/harmony/MyAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Harmony/app/src/main/java/com/example/harmony/PersonInformation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Harmony/app/src/main/res/layout/activity_my_account.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Harmony/app/src/main/res/layout/activity_person_information.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Harmony/.gradle/7.2/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Harmony/.gradle/7.2/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Harmony/.gradle/7.2/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Harmony/.gradle/7.2/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Harmony/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Harmony/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Harmony/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Harmony/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Harmony/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Harmony/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Harmony/.idea/modules/app/Harmony.app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Harmony/.idea/modules/app/Harmony.app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Harmony/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Harmony/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Harmony/app/src/main/java/com/example/harmony/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/Harmony/app/src/main/java/com/example/harmony/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Harmony/app/src/main/java/com/example/harmony/SignUp.java" beforeDir="false" afterPath="$PROJECT_DIR$/Harmony/app/src/main/java/com/example/harmony/SignUp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Harmony/app/src/main/res/layout/activity_sign_up.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Harmony/app/src/main/res/layout/activity_sign_up.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Harmony/app/src/main/res/layout/myaccount.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Harmony/app/src/main/res/layout/myaccount.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Harmony/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Harmony/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Harmony/local.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Harmony/local.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

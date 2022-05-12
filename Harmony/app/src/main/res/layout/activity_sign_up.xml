@@ -100,7 +100,7 @@
         tools:ignore="LabelFor" />
 
     <Button
-        android:id="@+id/button4"
+        android:id="@+id/SignUp"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/signup"
@@ -111,11 +111,4 @@
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.614" />
 
-    <LinearLayout
-        android:layout_width="404dp"
-        android:layout_height="644dp"
-        android:orientation="horizontal"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        tools:layout_editor_absoluteX="3dp"></LinearLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>

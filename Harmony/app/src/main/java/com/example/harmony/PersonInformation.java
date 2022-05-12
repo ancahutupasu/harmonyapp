@@ -6,22 +6,17 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.widget.Button;
 
-public class SignUp extends AppCompatActivity {
+public class PersonInformation extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_sign_up);
+        setContentView(R.layout.activity_person_information);
 
-        Button button = findViewById(R.id.SignUp);
+        Button button = findViewById(R.id.Done);
         button.setOnClickListener(v -> {
-            Intent intent = new Intent(this,Login.class);
+            Intent intent = new Intent(this, MyAccount.class);
             startActivity(intent);
         });
-
-
-
-
-
     }
 }
