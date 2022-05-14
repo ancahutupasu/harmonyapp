@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.harmony">
-    <uses-permission android:name="android.permission.Internet"/>
+
+    <uses-permission android:name="android.permission.Internet" />
 
     <application
         android:allowBackup="true"
@@ -10,8 +11,6 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Harmony">
-
-
 
         <activity
             android:name=".MainPageActivity"
@@ -24,14 +23,23 @@
         </activity>
         <activity
             android:name=".Services"
-            android:exported="false">
-
-        </activity>
+            android:exported="false" />
         <activity
             android:name=".AboutUsActivity"
-            android:exported="false">
+            android:exported="false" />
+        <activity
+            android:name=".Package1"
+            android:exported="false" />
 
-        </activity>
+        <activity
+            android:name=".Package4"
+            android:exported="false" />
+        <activity
+            android:name=".Package3"
+            android:exported="false" />
+        <activity
+            android:name=".Package2"
+            android:exported="false" />
     </application>
 
 </manifest>
