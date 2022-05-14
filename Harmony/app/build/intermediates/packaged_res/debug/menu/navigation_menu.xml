@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:ignore="HardcodedText">
+    <item
+        android:id="@+id/miHome"
+        android:title="Home"/>
+    <item
+        android:id="@+id/miAbout"
+        android:enabled="true"
+        app:showAsAction="never"
+        android:title="About" />
+    <item
+
+
+        android:id="@+id/miServices"
+        android:enabled="true"
+        android:title="Services"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/miOffers"
+        android:title="Offer packages"/>
+    <item
+        android:id="@+id/miContact"
+        android:title="Contact us"/>
+    <item
+        android:id="@+id/miLifeStyle"
+        android:title="life style tricks"/>
+    <item
+        android:id="@+id/miReviews"
+        android:title="Reviews"/>
+    <item
+        android:id="@+id/miAccount"
+        android:title="Log in/ My account"/>
+</menu>
