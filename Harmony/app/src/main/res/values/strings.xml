@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">Harmony</string>
+    <string name="Password">password</string>
+    <string name="signup">signup</string>
+    <string name="add">add</string>
+    <string name="menu_home">menu_home</string>
+    <string name="nav_header_desc">nav_header</string>
+    <string name="navigation_drawer_close">navigation_drawer</string>
+
+
+    <!--to toggle the open close button
+        of the navigation drawer-->
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
 </resources>
