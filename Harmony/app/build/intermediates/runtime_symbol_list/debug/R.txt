@@ -3506,6 +3506,7 @@ int string reviews 0x7f0f00a7
 int string search_menu_title 0x7f0f00a8
 int string signup 0x7f0f00a9
 int string status_bar_notification_info_overflow 0x7f0f00aa
+int string submit 0x7f0f00ad
 int string subscriptions 0x7f0f00ab
 int string textview 0x7f0f00ac
 int style AlertDialog_AppCompat 0x7f100000

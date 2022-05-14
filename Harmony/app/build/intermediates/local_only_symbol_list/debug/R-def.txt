@@ -137,6 +137,7 @@ string person_information
 string register
 string reviews
 string signup
+string submit
 string subscriptions
 string textview
 style Theme.Harmony
