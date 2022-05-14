@@ -25,7 +25,7 @@ public class MainPageActivity extends AppCompatActivity {
     ViewPager mViewPager;
 
     // images array
-    int[] images = {R.drawable.ic_launcher_background, R.drawable.ic_launcher_foreground};
+    int[] images = {R.drawable.ic_launcher_background, R.drawable.ic_launcher_foreground, R.drawable.ic_action_name, R.drawable.imag2 };
 
     // Creating Object of ViewPagerAdapter
     ViewPagerAdapter mViewPagerAdapter;

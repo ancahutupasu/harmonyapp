@@ -16,16 +16,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.003">
-
-        <androidx.appcompat.widget.Toolbar
-            android:id="@+id/toolbar"
-            android:layout_width="match_parent"
-            android:layout_height="40dp"
-            android:background="?attr/colorPrimary"
-            android:minHeight="?attr/actionBarSize"
-            android:theme="?attr/actionBarTheme" />
-    </LinearLayout>
+        app:layout_constraintVertical_bias="0.003"/>
 
     <LinearLayout
         android:id="@+id/linearLayout2"
@@ -137,7 +128,7 @@
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.319">
 
-        <TextView
+        <Button
 
             android:id="@+id/editPackageAndPrice1"
             android:layout_width="match_parent"
@@ -145,7 +136,7 @@
             android:ems="10"
             android:inputType="textPersonName"
             android:minHeight="48dp"
-            android:text="Package nr 1...........kr.250"
+            android:text="Aroma therapy massage"
             android:textStyle="italic" />
     </LinearLayout>
 
@@ -160,14 +151,14 @@
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.466">
 
-        <TextView
+        <Button
             android:id="@+id/editPackageNr2"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:ems="10"
             android:inputType="textPersonName"
             android:minHeight="48dp"
-            android:text="Package nr 2 .........kr. 300"
+            android:text="De-Stress massage"
             android:textStyle="italic" />
     </LinearLayout>
 
@@ -182,14 +173,14 @@
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.607">
 
-        <TextView
+        <Button
             android:id="@+id/editPackageNr3"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:ems="10"
             android:inputType="textPersonName"
             android:minHeight="48dp"
-            android:text="Package nr 3.........kr. 350"
+            android:text="Anticelulitic bamboo stick"
             android:textStyle="italic" />
     </LinearLayout>
 
@@ -205,14 +196,14 @@
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.763">
 
-        <TextView
+        <Button
             android:id="@+id/editPackageNr4"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:ems="10"
             android:inputType="textPersonName"
             android:minHeight="48dp"
-            android:text="Package nr 4 .......kr. 200"
+            android:text="Hot chocolate butter and hot stone massage"
             android:textStyle="italic" />
     </LinearLayout>
 
@@ -222,7 +213,7 @@
         android:layout_width="171dp"
         android:layout_height="40dp"
         android:fontFamily="sans-serif-black"
-        android:text="Package/Offers"
+        android:text="Services"
         android:textSize="20sp"
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -247,7 +238,7 @@
         android:id="@+id/buttonback"
         android:layout_width="98dp"
         android:layout_height="54dp"
-        android:text="Back to Main"
+        android:text="Back "
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.105"

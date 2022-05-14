@@ -31,6 +31,44 @@ public class Services extends AppCompatActivity {
                 startActivity(intent);
             }
         });
+
+        Button button1 = findViewById(R.id.editPackageAndPrice1);
+        button1.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(getApplicationContext(), Package1.class);
+                startActivity(intent);
+            }
+        });
+
+
+        Button button2 = findViewById(R.id.editPackageNr2);
+        button2.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(getApplicationContext(), Package2.class);
+                startActivity(intent);
+            }
+        });
+
+        Button button3 = findViewById(R.id.editPackageNr3);
+        button3.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(getApplicationContext(), Package3.class);
+                startActivity(intent);
+            }
+        });
+
+        Button button4 = findViewById(R.id.editPackageNr4);
+        button4.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(getApplicationContext(), Package4.class);
+                startActivity(intent);
+            }
+        });
+
        // SearchView searchView = findViewById(R.id.searchView);
        /* ListView listView = findViewById(R.id.listView);
 
