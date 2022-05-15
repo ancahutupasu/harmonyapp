@@ -59,7 +59,7 @@
         app:layout_constraintVertical_bias="0.277">
 
         <Button
-            android:id="@+id/button4"
+            android:id="@+id/MyPoints"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="My Point" />
@@ -77,7 +77,7 @@
         app:layout_constraintVertical_bias="0.418">
 
         <Button
-            android:id="@+id/button6"
+            android:id="@+id/Bookings"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
@@ -96,7 +96,7 @@
         app:layout_constraintVertical_bias="0.558">
 
         <Button
-            android:id="@+id/button7"
+            android:id="@+id/Subscriptions"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Reviews" />
@@ -114,7 +114,7 @@
         app:layout_constraintVertical_bias="0.697">
 
         <Button
-            android:id="@+id/button8"
+            android:id="@+id/Reviews"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Subscriptions" />
@@ -133,7 +133,7 @@
         app:layout_constraintVertical_bias="0.883">
 
         <Button
-            android:id="@+id/button9"
+            android:id="@+id/Logout"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Logout" />
