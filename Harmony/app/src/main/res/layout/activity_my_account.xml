@@ -25,7 +25,7 @@
             android:layout_weight="1"
             android:ems="10"
             android:inputType="textPersonName"
-            android:text="myaccount"
+            android:text="@string/myaccount"
             android:autofillHints=""
             tools:ignore="LabelFor" />
     </LinearLayout>
@@ -47,7 +47,7 @@
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="person_information" />
+            android:text="@string/person_information" />
     </LinearLayout>
 
     <LinearLayout
@@ -66,7 +66,7 @@
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="my_points" />
+            android:text="@string/my_points" />
     </LinearLayout>
 
     <LinearLayout
@@ -84,7 +84,7 @@
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="bookings_history" />
+            android:text="@string/bookings_history" />
     </LinearLayout>
 
     <LinearLayout
@@ -102,7 +102,7 @@
             android:id="@+id/button14"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="reviews" />
+            android:text="@string/myreviews" />
     </LinearLayout>
 
     <LinearLayout
@@ -121,7 +121,7 @@
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="subscriptions" />
+            android:text="@string/subscriptions" />
     </LinearLayout>
 
     <Space
@@ -144,7 +144,7 @@
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="log_out" />
+            android:text="@string/log_out" />
     </LinearLayout>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
