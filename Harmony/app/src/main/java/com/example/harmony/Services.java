@@ -11,6 +11,7 @@ import android.view.View;
 import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
 import android.widget.Button;
+import android.widget.ImageView;
 import android.widget.ListView;
 import android.widget.Toast;
 
@@ -68,6 +69,19 @@ public class Services extends AppCompatActivity {
                 startActivity(intent);
             }
         });
+
+        //images
+        ImageView imageView1=(ImageView) findViewById(R.id.imageView3);
+        imageView1.setImageResource(R.mipmap.image3);
+        ImageView imageView2= (ImageView) findViewById(R.id.imageView4);
+        imageView2.setImageResource(R.mipmap.ic_launcher_foreground);
+        ImageView imageView3= (ImageView) findViewById(R.id.imageView5);
+        imageView3.setImageResource(R.mipmap.image8);
+        ImageView imageView4= (ImageView) findViewById(R.id.imageView6);
+        imageView4.setImageResource(R.mipmap.image7);
+
+
+
 
        // SearchView searchView = findViewById(R.id.searchView);
        /* ListView listView = findViewById(R.id.listView);

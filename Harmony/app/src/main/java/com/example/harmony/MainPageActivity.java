@@ -13,6 +13,7 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 import android.widget.Button;
+import android.widget.ImageView;
 import android.widget.Toast;
 
 public class MainPageActivity extends AppCompatActivity {
@@ -25,17 +26,19 @@ public class MainPageActivity extends AppCompatActivity {
     ViewPager mViewPager;
 
     // images array
-    int[] images = {R.drawable.ic_launcher_background, R.drawable.ic_launcher_foreground, R.drawable.ic_action_name, R.drawable.imag2, R.mipmap.ic_launcher};
+    int[] images = {R.mipmap.image6, R.mipmap.image7, R.mipmap.image5, R.mipmap.image8, R.mipmap.ic_launcher};
 
     // Creating Object of ViewPagerAdapter
     ViewPagerAdapter mViewPagerAdapter;
-
 
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main_page);
+
+       /* ImageView imageView1=(ImageView) findViewById(R.id.imageView3);
+        imageView1.setImageResource(R.mipmap.opening);*/
 
 
 

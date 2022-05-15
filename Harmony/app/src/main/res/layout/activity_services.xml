@@ -118,8 +118,8 @@
     </LinearLayout>
 
     <LinearLayout
-        android:layout_width="252dp"
-        android:layout_height="76dp"
+        android:layout_width="225dp"
+        android:layout_height="73dp"
         android:orientation="vertical"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -141,8 +141,8 @@
     </LinearLayout>
 
     <LinearLayout
-        android:layout_width="250dp"
-        android:layout_height="73dp"
+        android:layout_width="223dp"
+        android:layout_height="66dp"
         android:orientation="vertical"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -163,8 +163,8 @@
     </LinearLayout>
 
     <LinearLayout
-        android:layout_width="252dp"
-        android:layout_height="81dp"
+        android:layout_width="220dp"
+        android:layout_height="70dp"
         android:orientation="vertical"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -184,17 +184,18 @@
             android:textStyle="italic" />
     </LinearLayout>
 
+
     <LinearLayout
         android:id="@+id/linearLayout4"
-        android:layout_width="253dp"
-        android:layout_height="75dp"
+        android:layout_width="215dp"
+        android:layout_height="66dp"
         android:orientation="vertical"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.962"
+        app:layout_constraintHorizontal_bias="0.918"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.763">
+        app:layout_constraintVertical_bias="0.756">
 
         <Button
             android:id="@+id/editPackageNr4"
@@ -206,7 +207,6 @@
             android:text="Hot chocolate butter and hot stone massage"
             android:textStyle="italic" />
     </LinearLayout>
-
 
     <TextView
         android:id="@+id/textViewTitle"

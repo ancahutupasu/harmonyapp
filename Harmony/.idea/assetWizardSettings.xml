@@ -101,7 +101,7 @@
                                             <option name="values">
                                               <map>
                                                 <entry key="color" value="000000" />
-                                                <entry key="imagePath" value="C:\Users\alina\AndroidStudioProjects\Images\Images1.png" />
+                                                <entry key="imagePath" value="C:\Users\alina\AndroidStudioProjects\Images\Image4.png" />
                                               </map>
                                             </option>
                                           </PersistentState>
@@ -133,7 +133,7 @@
                                   </option>
                                   <option name="values">
                                     <map>
-                                      <entry key="foregroundLayerName" value="image3" />
+                                      <entry key="outputName" value="image8" />
                                     </map>
                                   </option>
                                 </PersistentState>
