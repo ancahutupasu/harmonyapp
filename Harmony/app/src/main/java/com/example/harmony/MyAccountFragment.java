@@ -9,15 +9,15 @@ import android.view.ViewGroup;
 import androidx.fragment.app.FragmentTransaction;
 
 public class MyAccountFragment extends Fragment {
-    //public View onCreateView(LayoutInflater inflater , ViewGroup container, Bundle savedInstanceState){
-       // View rootView = inflater.inflate(R.layout.account,false);
-       // return rootView;
+    /*public View onCreateView(LayoutInflater inflater , ViewGroup container, Bundle savedInstanceState){
+        View rootView = inflater.inflate(R.layout.account,false);
+        return rootView;
 
-   // FragmentTransaction transaction = getSupportFragmentManager().beginTransaction;
-    //transaction.replace(R.id.account,new MyAccountFragment()).commit();
-    //});
+    FragmentTransaction transaction = getSupportFragmentManager().beginTransaction;
+    transaction.replace(R.id.account,new MyAccountFragment()).commit();
+    });
 
-
+*/
 
 }
 

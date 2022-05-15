@@ -26,4 +26,6 @@
     <string name="subscriptions">Subsciptions</string>
     <string name="log_out">Log Out</string>
     <string name="done">Done</string>
+    <string name="hello">Hello</string>
+    <string name="button">Button</string>
 </resources>
