@@ -27,7 +27,7 @@ public class PersonInformationFragment extends Fragment {
     public View onCreateView(@NonNull LayoutInflater inflater, @Nullable ViewGroup container,
                              @Nullable Bundle savedInstanceState) {
 
-        View rootView=inflater.inflate(R.layout.fragment_personinformationfragment, container, false);
+        View rootView=inflater.inflate(R.layout.fragment_person_information, container, false);
 
         Button button1=(Button)rootView.findViewById(R.id.Done);
         button1.setOnClickListener(new View.OnClickListener() {
