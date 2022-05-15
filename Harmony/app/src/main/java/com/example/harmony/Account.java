@@ -1,5 +1,7 @@
 package com.example.harmony;
 
+import androidx.fragment.app.FragmentManager;
+import androidx.fragment.app.FragmentTransaction;
 import androidx.lifecycle.ViewModelProvider;
 
 import android.content.Intent;
@@ -29,6 +31,20 @@ public class Account extends Fragment {
                              @Nullable Bundle savedInstanceState) {
         View rootView=inflater.inflate(R.layout.fragment_fragment_account, container, false);
 
+        //FragmentTransaction fragmentTransaction= getSupportFragmentManager().beginTransaction();
+
+        //fragmentTransaction.add(R.id.container,new PersonInformationFragment());
+        //fragmentTransaction.commit();
+
+        Button button=(Button)rootView.findViewById(R.id.PersonInformation);
+        button.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                FragmentTransaction fr=getFragmentManager().beginTransaction();
+                fr.replace(R.id.container,new PersonInformationFragment());
+                fr.commit();
+            }
+        });
        // button= rootView.findViewById(R.id.PersonInformation);
        // button.setOnClickListener(new View.OnClickListener() {
            // @Override
@@ -39,6 +55,8 @@ public class Account extends Fragment {
         return rootView;
 
     }
+
+
 
 
     /*@Override
