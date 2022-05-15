@@ -11,6 +11,7 @@ drawable ic_action_name
 drawable ic_launcher_background
 drawable ic_launcher_foreground
 drawable imag2
+id Back
 id Done
 id ForgetPassword
 id Login
@@ -24,7 +25,6 @@ id btnBook1
 id btnBook2
 id btnBook3
 id btnBook4
-id button
 id button11
 id button12
 id button13
@@ -51,12 +51,15 @@ id editPackageAndPrice1
 id editPackageNr2
 id editPackageNr3
 id editPackageNr4
+id editTextPhone
 id editTextTextEmailAddress
 id editTextTextEmailAddress2
 id editTextTextEmailAddress3
+id editTextTextEmailAddress4
 id editTextTextPassword
 id editTextTextPassword3
 id editTextTextPassword4
+id editTextTextPersonName
 id editTextTextPersonName11
 id editTextTextPersonName12
 id editTextTextPersonName13
@@ -65,6 +68,10 @@ id editTextTextPersonName15
 id editTextTextPersonName16
 id editTextTextPersonName17
 id editTextTextPersonName18
+id editTextTextPersonName2
+id editTextTextPersonName3
+id editTextTextPersonName4
+id editTextTextPersonName5
 id email
 id imageView
 id imageView2
@@ -86,6 +93,12 @@ id linearLayout17
 id linearLayout18
 id linearLayout19
 id linearLayout2
+id linearLayout20
+id linearLayout21
+id linearLayout22
+id linearLayout23
+id linearLayout24
+id linearLayout25
 id linearLayout3
 id linearLayout4
 id linearLayout5
@@ -110,6 +123,7 @@ id radioButtonGiftCard
 id reviews
 id searchView
 id textView
+id textView10
 id textView14
 id textView2
 id textView3
@@ -118,6 +132,7 @@ id textView5
 id textView6
 id textView7
 id textView8
+id textView9
 id textViewPackage1
 id textViewPrice
 id textViewTitle
@@ -144,10 +159,10 @@ layout activity_sign_up
 layout fragment_add_reviews
 layout fragment_fragment_account
 layout fragment_my_cart
-layout fragment_person_information
 layout fragment_personinformationfragment
 layout fragment_reviews
 layout item
+layout personinformation
 layout review_list_item
 menu navigation_menu
 mipmap ic_launcher
