@@ -4,24 +4,24 @@
         "source": "C:\\Users\\Anca\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-39:\\drawable-hdpi\\ic_action_name.png"
     },
     {
-        "merged": "C:\\Users\\Anca\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-37:\\drawable-xhdpi_imag2.png.flat",
-        "source": "C:\\Users\\Anca\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-39:\\drawable-xhdpi\\imag2.png"
-    },
-    {
         "merged": "C:\\Users\\Anca\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-37:\\layout_fragment_my_cart.xml.flat",
         "source": "C:\\Users\\Anca\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-39:\\layout\\fragment_my_cart.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anca\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-37:\\drawable-xhdpi_imag2.png.flat",
+        "source": "C:\\Users\\Anca\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-39:\\drawable-xhdpi\\imag2.png"
     },
     {
         "merged": "C:\\Users\\Anca\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-37:\\layout_activity_forget_password_confirm.xml.flat",
         "source": "C:\\Users\\Anca\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-39:\\layout\\activity_forget_password_confirm.xml"
     },
     {
-        "merged": "C:\\Users\\Anca\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-37:\\layout_fragment_add_reviews.xml.flat",
-        "source": "C:\\Users\\Anca\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-39:\\layout\\fragment_add_reviews.xml"
-    },
-    {
         "merged": "C:\\Users\\Anca\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-37:\\drawable-mdpi_ic_action_name.png.flat",
         "source": "C:\\Users\\Anca\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-39:\\drawable-mdpi\\ic_action_name.png"
+    },
+    {
+        "merged": "C:\\Users\\Anca\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-37:\\layout_fragment_add_reviews.xml.flat",
+        "source": "C:\\Users\\Anca\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-39:\\layout\\fragment_add_reviews.xml"
     },
     {
         "merged": "C:\\Users\\Anca\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-37:\\drawable-hdpi_imag2.png.flat",
@@ -68,12 +68,12 @@
         "source": "C:\\Users\\Anca\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-39:\\layout\\activity_sign_up.xml"
     },
     {
-        "merged": "C:\\Users\\Anca\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-37:\\layout_activity_package2.xml.flat",
-        "source": "C:\\Users\\Anca\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-39:\\layout\\activity_package2.xml"
-    },
-    {
         "merged": "C:\\Users\\Anca\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-37:\\drawable-xhdpi_ic_action_name.png.flat",
         "source": "C:\\Users\\Anca\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-39:\\drawable-xhdpi\\ic_action_name.png"
+    },
+    {
+        "merged": "C:\\Users\\Anca\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-37:\\layout_activity_package2.xml.flat",
+        "source": "C:\\Users\\Anca\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-39:\\layout\\activity_package2.xml"
     },
     {
         "merged": "C:\\Users\\Anca\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-37:\\drawable-mdpi_imag2.png.flat",
@@ -86,6 +86,10 @@
     {
         "merged": "C:\\Users\\Anca\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-37:\\layout_activity_main.xml.flat",
         "source": "C:\\Users\\Anca\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-39:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-37:/layout_review_list_item.xml.flat",
+        "source": "com.example.harmony.app-main-39:/layout/review_list_item.xml"
     },
     {
         "merged": "C:\\Users\\Anca\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-37:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
@@ -140,10 +144,6 @@
         "source": "C:\\Users\\Anca\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-39:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.harmony.app-merged_res-37:/layout_activity_my_account.xml.flat",
-        "source": "com.example.harmony.app-main-39:/layout/activity_my_account.xml"
-    },
-    {
         "merged": "C:\\Users\\Anca\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-37:\\mipmap-xxhdpi_ic_launcher.webp.flat",
         "source": "C:\\Users\\Anca\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-39:\\mipmap-xxhdpi\\ic_launcher.webp"
     },
@@ -174,6 +174,10 @@
     {
         "merged": "C:\\Users\\Anca\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-37:\\layout_item.xml.flat",
         "source": "C:\\Users\\Anca\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-39:\\layout\\item.xml"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-37:/layout_fragment_person_information.xml.flat",
+        "source": "com.example.harmony.app-main-39:/layout/fragment_person_information.xml"
     },
     {
         "merged": "C:\\Users\\Anca\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-37:\\layout_activity_main_page.xml.flat",
