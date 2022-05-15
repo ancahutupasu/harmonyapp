@@ -13,8 +13,10 @@
     <string name="add">add</string>
     <string name="app_name">Harmony</string>
     <string name="bookings_history">Booking History</string>
+    <string name="button">Button</string>
     <string name="done">Done</string>
     <string name="email">email</string>
+    <string name="hello">Hello</string>
     <string name="hello_world">Hello World</string>
     <string name="log_out">Log Out</string>
     <string name="menu_home">menu_home</string>
