@@ -16,12 +16,12 @@
         "source": "C:\\Users\\Anca\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-39:\\layout\\activity_main.xml"
     },
     {
-        "merged": "C:\\Users\\Anca\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-37:\\layout_fragment_my_cart.xml.flat",
-        "source": "C:\\Users\\Anca\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-39:\\layout\\fragment_my_cart.xml"
-    },
-    {
         "merged": "C:\\Users\\Anca\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-37:\\drawable-xhdpi_imag2.png.flat",
         "source": "C:\\Users\\Anca\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-39:\\drawable-xhdpi\\imag2.png"
+    },
+    {
+        "merged": "C:\\Users\\Anca\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-37:\\layout_fragment_my_cart.xml.flat",
+        "source": "C:\\Users\\Anca\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-39:\\layout\\fragment_my_cart.xml"
     },
     {
         "merged": "C:\\Users\\Anca\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-37:\\layout_activity_forget_password_confirm.xml.flat",
