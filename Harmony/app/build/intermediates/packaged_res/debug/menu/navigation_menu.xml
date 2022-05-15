@@ -30,7 +30,8 @@
         android:title="life style tricks"/>
     <item
         android:id="@+id/miReviews"
-        android:title="Reviews"/>
+        android:title="Reviews"
+        tools:layout="@layout/fragment_reviews"/>
     <item
         android:id="@+id/miAccount"
         android:title="Log in/ My account"/>

@@ -12,8 +12,6 @@
         app:showAsAction="never"
         android:title="About" />
     <item
-
-
         android:id="@+id/miServices"
         android:enabled="true"
         android:title="Services"
