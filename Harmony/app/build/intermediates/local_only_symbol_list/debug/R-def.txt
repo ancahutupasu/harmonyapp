@@ -25,12 +25,6 @@ id btnBook2
 id btnBook3
 id btnBook4
 id button
-id button11
-id button12
-id button13
-id button14
-id button15
-id button16
 id button4
 id button5
 id button6
@@ -61,7 +55,6 @@ id editTextTextPersonName11
 id editTextTextPersonName12
 id editTextTextPersonName13
 id editTextTextPersonName14
-id editTextTextPersonName15
 id editTextTextPersonName16
 id editTextTextPersonName17
 id editTextTextPersonName18
