@@ -37,7 +37,7 @@
                                             <option name="values">
                                               <map>
                                                 <entry key="color" value="000000" />
-                                                <entry key="imagePath" value="C:\Users\alina\AndroidStudioProjects\Images\Images2.png" />
+                                                <entry key="imagePath" value="C:\Users\alina\AndroidStudioProjects\Images\—Pngtree—golden moon texture ramadan lantern_6111286.png" />
                                                 <entry key="opacityPercent" value="80" />
                                               </map>
                                             </option>
@@ -71,7 +71,7 @@
                                   <option name="values">
                                     <map>
                                       <entry key="assetType" value="IMAGE" />
-                                      <entry key="imageAsset" value="C:\Users\alina\AndroidStudioProjects\Images\Images2.png" />
+                                      <entry key="imageAsset" value="C:\Users\alina\AndroidStudioProjects\Images\—Pngtree—golden moon texture ramadan lantern_6111286.png" />
                                       <entry key="outputName" value="imag2" />
                                       <entry key="theme" value="CUSTOM" />
                                     </map>
@@ -101,6 +101,7 @@
                                             <option name="values">
                                               <map>
                                                 <entry key="color" value="000000" />
+                                                <entry key="imagePath" value="C:\Users\alina\AndroidStudioProjects\Images\Images1.png" />
                                               </map>
                                             </option>
                                           </PersistentState>
@@ -128,6 +129,11 @@
                                           </PersistentState>
                                         </value>
                                       </entry>
+                                    </map>
+                                  </option>
+                                  <option name="values">
+                                    <map>
+                                      <entry key="foregroundLayerName" value="image3" />
                                     </map>
                                   </option>
                                 </PersistentState>
@@ -296,11 +302,6 @@
                                 </PersistentState>
                               </value>
                             </entry>
-                          </map>
-                        </option>
-                        <option name="values">
-                          <map>
-                            <entry key="outputIconType" value="ACTIONBAR" />
                           </map>
                         </option>
                       </PersistentState>

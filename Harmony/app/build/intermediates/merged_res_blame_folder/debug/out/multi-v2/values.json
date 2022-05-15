@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.harmony.app-mergeDebugResources-35:/values/values.xml",
+            "outputFile": "com.example.harmony.app-mergeDebugResources-40:/values/values.xml",
             "map": [
                 {
                     "source": "C:\\Users\\alina\\.gradle\\caches\\transforms-3\\e76f2ae7ea6830628bd905c680133d53\\transformed\\play-services-maps-18.0.2\\res\\values\\values.xml",
@@ -357,6 +357,23 @@
                     }
                 },
                 {
+                    "source": "C:\\Users\\alina\\.gradle\\caches\\transforms-3\\fe43ef09601e6661b1b9cda3010ff85f\\transformed\\lifecycle-viewmodel-2.4.1\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "49",
+                        "endOffsets": "100"
+                    },
+                    "to": {
+                        "startLines": "1589",
+                        "startColumns": "4",
+                        "startOffsets": "96588",
+                        "endColumns": "49",
+                        "endOffsets": "96633"
+                    }
+                },
+                {
                     "source": "C:\\Users\\alina\\.gradle\\caches\\transforms-3\\3f01866c3eb0b5387e0f45d19136fe35\\transformed\\lifecycle-runtime-2.4.0\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2",
@@ -445,23 +462,6 @@
                         "startOffsets": "31021,48615,48662,48709,49453,49498,49706",
                         "endColumns": "41,46,46,46,44,44,41",
                         "endOffsets": "31058,48657,48704,48751,49493,49538,49743"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\alina\\.gradle\\caches\\transforms-3\\e988628139fdde72599a7fb0173533f5\\transformed\\lifecycle-viewmodel-2.3.1\\res\\values\\values.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "49",
-                        "endOffsets": "100"
-                    },
-                    "to": {
-                        "startLines": "1589",
-                        "startColumns": "4",
-                        "startOffsets": "96588",
-                        "endColumns": "49",
-                        "endOffsets": "96633"
                     }
                 },
                 {

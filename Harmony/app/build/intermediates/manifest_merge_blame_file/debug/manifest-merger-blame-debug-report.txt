@@ -46,7 +46,7 @@
 29    </queries>
 30
 31    <application
-31-->C:\Users\alina\AndroidStudioProjects\harmonyApp2\Harmony\app\src\main\AndroidManifest.xml:7:5-43:19
+31-->C:\Users\alina\AndroidStudioProjects\harmonyApp2\Harmony\app\src\main\AndroidManifest.xml:7:5-42:19
 32        android:allowBackup="true"
 32-->C:\Users\alina\AndroidStudioProjects\harmonyApp2\Harmony\app\src\main\AndroidManifest.xml:8:9-35
 33        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
@@ -64,34 +64,34 @@
 40        android:theme="@style/Theme.Harmony" >
 40-->C:\Users\alina\AndroidStudioProjects\harmonyApp2\Harmony\app\src\main\AndroidManifest.xml:13:9-45
 41        <activity
-41-->C:\Users\alina\AndroidStudioProjects\harmonyApp2\Harmony\app\src\main\AndroidManifest.xml:15:9-23:20
-42            android:name="com.example.harmony.MainPageActivity"
-42-->C:\Users\alina\AndroidStudioProjects\harmonyApp2\Harmony\app\src\main\AndroidManifest.xml:16:13-45
-43            android:exported="true" >
-43-->C:\Users\alina\AndroidStudioProjects\harmonyApp2\Harmony\app\src\main\AndroidManifest.xml:17:13-36
-44            <intent-filter>
-44-->C:\Users\alina\AndroidStudioProjects\harmonyApp2\Harmony\app\src\main\AndroidManifest.xml:18:13-22:29
-45                <action android:name="android.intent.action.MAIN" />
-45-->C:\Users\alina\AndroidStudioProjects\harmonyApp2\Harmony\app\src\main\AndroidManifest.xml:19:17-69
-45-->C:\Users\alina\AndroidStudioProjects\harmonyApp2\Harmony\app\src\main\AndroidManifest.xml:19:25-66
-46
-47                <category android:name="android.intent.category.LAUNCHER" />
-47-->C:\Users\alina\AndroidStudioProjects\harmonyApp2\Harmony\app\src\main\AndroidManifest.xml:21:17-77
-47-->C:\Users\alina\AndroidStudioProjects\harmonyApp2\Harmony\app\src\main\AndroidManifest.xml:21:27-74
-48            </intent-filter>
-49        </activity>
-50        <activity
-50-->C:\Users\alina\AndroidStudioProjects\harmonyApp2\Harmony\app\src\main\AndroidManifest.xml:24:9-26:40
-51            android:name="com.example.harmony.Services"
-51-->C:\Users\alina\AndroidStudioProjects\harmonyApp2\Harmony\app\src\main\AndroidManifest.xml:25:13-37
-52            android:exported="false" />
-52-->C:\Users\alina\AndroidStudioProjects\harmonyApp2\Harmony\app\src\main\AndroidManifest.xml:26:13-37
+41-->C:\Users\alina\AndroidStudioProjects\harmonyApp2\Harmony\app\src\main\AndroidManifest.xml:14:9-16:40
+42            android:name="com.example.harmony.Offers"
+42-->C:\Users\alina\AndroidStudioProjects\harmonyApp2\Harmony\app\src\main\AndroidManifest.xml:15:13-35
+43            android:exported="false" />
+43-->C:\Users\alina\AndroidStudioProjects\harmonyApp2\Harmony\app\src\main\AndroidManifest.xml:16:13-37
+44        <activity
+44-->C:\Users\alina\AndroidStudioProjects\harmonyApp2\Harmony\app\src\main\AndroidManifest.xml:17:9-25:20
+45            android:name="com.example.harmony.MainPageActivity"
+45-->C:\Users\alina\AndroidStudioProjects\harmonyApp2\Harmony\app\src\main\AndroidManifest.xml:18:13-45
+46            android:exported="true" >
+46-->C:\Users\alina\AndroidStudioProjects\harmonyApp2\Harmony\app\src\main\AndroidManifest.xml:19:13-36
+47            <intent-filter>
+47-->C:\Users\alina\AndroidStudioProjects\harmonyApp2\Harmony\app\src\main\AndroidManifest.xml:20:13-24:29
+48                <action android:name="android.intent.action.MAIN" />
+48-->C:\Users\alina\AndroidStudioProjects\harmonyApp2\Harmony\app\src\main\AndroidManifest.xml:21:17-69
+48-->C:\Users\alina\AndroidStudioProjects\harmonyApp2\Harmony\app\src\main\AndroidManifest.xml:21:25-66
+49
+50                <category android:name="android.intent.category.LAUNCHER" />
+50-->C:\Users\alina\AndroidStudioProjects\harmonyApp2\Harmony\app\src\main\AndroidManifest.xml:23:17-77
+50-->C:\Users\alina\AndroidStudioProjects\harmonyApp2\Harmony\app\src\main\AndroidManifest.xml:23:27-74
+51            </intent-filter>
+52        </activity>
 53        <activity
-53-->C:\Users\alina\AndroidStudioProjects\harmonyApp2\Harmony\app\src\main\AndroidManifest.xml:27:9-29:40
-54            android:name="com.example.harmony.AboutUsActivity"
-54-->C:\Users\alina\AndroidStudioProjects\harmonyApp2\Harmony\app\src\main\AndroidManifest.xml:28:13-44
+53-->C:\Users\alina\AndroidStudioProjects\harmonyApp2\Harmony\app\src\main\AndroidManifest.xml:26:9-28:40
+54            android:name="com.example.harmony.Services"
+54-->C:\Users\alina\AndroidStudioProjects\harmonyApp2\Harmony\app\src\main\AndroidManifest.xml:27:13-37
 55            android:exported="false" />
-55-->C:\Users\alina\AndroidStudioProjects\harmonyApp2\Harmony\app\src\main\AndroidManifest.xml:29:13-37
+55-->C:\Users\alina\AndroidStudioProjects\harmonyApp2\Harmony\app\src\main\AndroidManifest.xml:28:13-37
 56        <activity
 56-->C:\Users\alina\AndroidStudioProjects\harmonyApp2\Harmony\app\src\main\AndroidManifest.xml:30:9-32:40
 57            android:name="com.example.harmony.Package1"
@@ -99,23 +99,23 @@
 58            android:exported="false" />
 58-->C:\Users\alina\AndroidStudioProjects\harmonyApp2\Harmony\app\src\main\AndroidManifest.xml:32:13-37
 59        <activity
-59-->C:\Users\alina\AndroidStudioProjects\harmonyApp2\Harmony\app\src\main\AndroidManifest.xml:34:9-36:40
+59-->C:\Users\alina\AndroidStudioProjects\harmonyApp2\Harmony\app\src\main\AndroidManifest.xml:33:9-35:40
 60            android:name="com.example.harmony.Package4"
-60-->C:\Users\alina\AndroidStudioProjects\harmonyApp2\Harmony\app\src\main\AndroidManifest.xml:35:13-37
+60-->C:\Users\alina\AndroidStudioProjects\harmonyApp2\Harmony\app\src\main\AndroidManifest.xml:34:13-37
 61            android:exported="false" />
-61-->C:\Users\alina\AndroidStudioProjects\harmonyApp2\Harmony\app\src\main\AndroidManifest.xml:36:13-37
+61-->C:\Users\alina\AndroidStudioProjects\harmonyApp2\Harmony\app\src\main\AndroidManifest.xml:35:13-37
 62        <activity
-62-->C:\Users\alina\AndroidStudioProjects\harmonyApp2\Harmony\app\src\main\AndroidManifest.xml:37:9-39:40
+62-->C:\Users\alina\AndroidStudioProjects\harmonyApp2\Harmony\app\src\main\AndroidManifest.xml:36:9-38:40
 63            android:name="com.example.harmony.Package3"
-63-->C:\Users\alina\AndroidStudioProjects\harmonyApp2\Harmony\app\src\main\AndroidManifest.xml:38:13-37
+63-->C:\Users\alina\AndroidStudioProjects\harmonyApp2\Harmony\app\src\main\AndroidManifest.xml:37:13-37
 64            android:exported="false" />
-64-->C:\Users\alina\AndroidStudioProjects\harmonyApp2\Harmony\app\src\main\AndroidManifest.xml:39:13-37
+64-->C:\Users\alina\AndroidStudioProjects\harmonyApp2\Harmony\app\src\main\AndroidManifest.xml:38:13-37
 65        <activity
-65-->C:\Users\alina\AndroidStudioProjects\harmonyApp2\Harmony\app\src\main\AndroidManifest.xml:40:9-42:40
+65-->C:\Users\alina\AndroidStudioProjects\harmonyApp2\Harmony\app\src\main\AndroidManifest.xml:39:9-41:40
 66            android:name="com.example.harmony.Package2"
-66-->C:\Users\alina\AndroidStudioProjects\harmonyApp2\Harmony\app\src\main\AndroidManifest.xml:41:13-37
+66-->C:\Users\alina\AndroidStudioProjects\harmonyApp2\Harmony\app\src\main\AndroidManifest.xml:40:13-37
 67            android:exported="false" />
-67-->C:\Users\alina\AndroidStudioProjects\harmonyApp2\Harmony\app\src\main\AndroidManifest.xml:42:13-37
+67-->C:\Users\alina\AndroidStudioProjects\harmonyApp2\Harmony\app\src\main\AndroidManifest.xml:41:13-37
 68        <!-- Needs to be explicitly declared on P+ -->
 69        <uses-library
 69-->[com.google.android.gms:play-services-maps:18.0.2] C:\Users\alina\.gradle\caches\transforms-3\e76f2ae7ea6830628bd905c680133d53\transformed\play-services-maps-18.0.2\AndroidManifest.xml:39:9-41:40

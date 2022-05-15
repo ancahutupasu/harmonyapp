@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.harmony.app-mergeDebugResources-35:/values-v24/values-v24.xml",
+            "outputFile": "com.example.harmony.app-mergeDebugResources-40:/values-v24/values-v24.xml",
             "map": [
                 {
                     "source": "C:\\Users\\alina\\.gradle\\caches\\transforms-3\\01fd1806664e53fc91568c7d69104d55\\transformed\\media-1.4.1\\res\\values-v24\\values-v24.xml",

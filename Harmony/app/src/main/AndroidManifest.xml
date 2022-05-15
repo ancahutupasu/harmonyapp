@@ -11,7 +11,9 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Harmony">
-
+        <activity
+            android:name=".Offers"
+            android:exported="false" />
         <activity
             android:name=".MainPageActivity"
             android:exported="true">
@@ -24,13 +26,10 @@
         <activity
             android:name=".Services"
             android:exported="false" />
-        <activity
-            android:name=".AboutUsActivity"
-            android:exported="false" />
+
         <activity
             android:name=".Package1"
             android:exported="false" />
-
         <activity
             android:name=".Package4"
             android:exported="false" />

@@ -25,11 +25,10 @@ public class MainPageActivity extends AppCompatActivity {
     ViewPager mViewPager;
 
     // images array
-    int[] images = {R.drawable.ic_launcher_background, R.drawable.ic_launcher_foreground, R.drawable.ic_action_name, R.drawable.imag2 };
+    int[] images = {R.drawable.ic_launcher_background, R.drawable.ic_launcher_foreground, R.drawable.ic_action_name, R.drawable.imag2, R.mipmap.ic_launcher};
 
     // Creating Object of ViewPagerAdapter
     ViewPagerAdapter mViewPagerAdapter;
-
 
 
 
@@ -37,10 +36,6 @@ public class MainPageActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main_page);
-
-
-
-
 
 
 
@@ -117,13 +112,20 @@ public class MainPageActivity extends AppCompatActivity {
         }
         else
             if (id==R.id.miAbout){
-                Intent intent = new Intent(MainPageActivity.this, AboutUsActivity.class);
+                Intent intent = new Intent(MainPageActivity.this, aboutUsFragment.class);
                 startActivity(intent);
             return true;
         }
             else
             if (id==R.id.miHome) {
                 Intent intent = new Intent(MainPageActivity.this, MainPageActivity.class);
+                startActivity(intent);
+                return true;
+            }
+
+            else
+            if (id==R.id.miOffers) {
+                Intent intent = new Intent(MainPageActivity.this, Offers.class);
                 startActivity(intent);
                 return true;
             }
