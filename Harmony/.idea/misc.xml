@@ -3,7 +3,29 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Android project/harmonyapp/Harmony/app/src/main/res/layout/activity_about_us.xml" value="0.21603260869565216" />
+        <entry key="..\:/Android project/harmonyapp/Harmony/app/src/main/res/layout/activity_contact_us.xml" value="0.365625" />
+        <entry key="..\:/Android project/harmonyapp/Harmony/app/src/main/res/layout/activity_forget_password_confirm.xml" value="0.36666666666666664" />
+        <entry key="..\:/Android project/harmonyapp/Harmony/app/src/main/res/layout/activity_login.xml" value="0.36666666666666664" />
+        <entry key="..\:/Android project/harmonyapp/Harmony/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Android project/harmonyapp/Harmony/app/src/main/res/layout/activity_main_page.xml" value="0.36666666666666664" />
+        <entry key="..\:/Android project/harmonyapp/Harmony/app/src/main/res/layout/activity_my_account.xml" value="0.36666666666666664" />
+        <entry key="..\:/Android project/harmonyapp/Harmony/app/src/main/res/layout/activity_my_cart.xml" value="0.365625" />
+        <entry key="..\:/Android project/harmonyapp/Harmony/app/src/main/res/layout/activity_package1.xml" value="0.36666666666666664" />
+        <entry key="..\:/Android project/harmonyapp/Harmony/app/src/main/res/layout/activity_package2.xml" value="0.36666666666666664" />
+        <entry key="..\:/Android project/harmonyapp/Harmony/app/src/main/res/layout/activity_package3.xml" value="0.36666666666666664" />
+        <entry key="..\:/Android project/harmonyapp/Harmony/app/src/main/res/layout/activity_package4.xml" value="0.36666666666666664" />
+        <entry key="..\:/Android project/harmonyapp/Harmony/app/src/main/res/layout/activity_payment.xml" value="0.365625" />
+        <entry key="..\:/Android project/harmonyapp/Harmony/app/src/main/res/layout/activity_person_information.xml" value="0.36666666666666664" />
+        <entry key="..\:/Android project/harmonyapp/Harmony/app/src/main/res/layout/activity_services.xml" value="0.36666666666666664" />
+        <entry key="..\:/Android project/harmonyapp/Harmony/app/src/main/res/layout/activity_sign_up.xml" value="0.36666666666666664" />
+        <entry key="..\:/Android project/harmonyapp/Harmony/app/src/main/res/layout/activity_thank_you.xml" value="0.365625" />
+        <entry key="..\:/Android project/harmonyapp/Harmony/app/src/main/res/layout/item.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Anca/AndroidStudioProjects/harmonyapp/Harmony/app/src/main/res/layout/activity_forget_password_confirm.xml" value="0.10833333333333334" />
         <entry key="..\:/Users/Anca/AndroidStudioProjects/harmonyapp/Harmony/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Anca/AndroidStudioProjects/harmonyapp/Harmony/app/src/main/res/layout/activity_my_account.xml" value="0.10833333333333334" />
+        <entry key="..\:/Users/Anca/AndroidStudioProjects/harmonyapp/Harmony/app/src/main/res/layout/activity_person_information.xml" value="0.10833333333333334" />
+        <entry key="..\:/Users/Anca/AndroidStudioProjects/harmonyapp/Harmony/app/src/main/res/layout/activity_sign_up.xml" value="0.10833333333333334" />
         <entry key="..\:/Users/Anca/AndroidStudioProjects/harmonyapp/Harmony/app/src/main/res/layout/contact_us.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/Anca/AndroidStudioProjects/harmonyapp/Harmony/app/src/main/res/layout/my_cart.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/Anca/AndroidStudioProjects/harmonyapp/Harmony/app/src/main/res/layout/payment_method.xml" value="0.25416666666666665" />

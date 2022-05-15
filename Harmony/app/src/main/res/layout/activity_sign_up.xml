@@ -27,7 +27,7 @@
         android:layout_height="44dp"
         android:ems="10"
         android:inputType="textPersonName"
-        android:text="@string/email"
+        android:text="email"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="@+id/editTextTextEmailAddress2"
         app:layout_constraintHorizontal_bias="0.061"
