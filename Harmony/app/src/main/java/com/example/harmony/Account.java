@@ -45,6 +45,43 @@ public class Account extends Fragment {
                 fr.commit();
             }
         });
+        Button button1=(Button)rootView.findViewById(R.id.MyPoints);
+        button1.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                FragmentTransaction fr=getFragmentManager().beginTransaction();
+                fr.replace(R.id.container,new MyPoints());
+                fr.commit();
+            }
+        });
+
+        Button button2=(Button)rootView.findViewById(R.id.Bookings);
+        button2.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                FragmentTransaction fr=getFragmentManager().beginTransaction();
+                fr.replace(R.id.container,new BookingsFragment());
+                fr.commit();
+            }
+        });
+        Button button3=(Button)rootView.findViewById(R.id.Subscriptions);
+        button3.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                FragmentTransaction fr=getFragmentManager().beginTransaction();
+                fr.replace(R.id.container,new PersonInformationFragment());
+                fr.commit();
+            }
+        });
+        Button button4=(Button)rootView.findViewById(R.id.Logout);
+        button4.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                FragmentTransaction fr=getFragmentManager().beginTransaction();
+                fr.replace(R.id.container,new Account());
+                fr.commit();
+            }
+        });
        // button= rootView.findViewById(R.id.PersonInformation);
        // button.setOnClickListener(new View.OnClickListener() {
            // @Override
