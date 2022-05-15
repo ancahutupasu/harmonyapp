@@ -136,7 +136,6 @@ layout activity_login
 layout activity_main
 layout activity_main_page
 layout activity_my_account
-layout activity_my_cart
 layout activity_package1
 layout activity_package2
 layout activity_package3
@@ -146,6 +145,7 @@ layout activity_person_information
 layout activity_services
 layout activity_sign_up
 layout activity_thank_you
+layout fragment_my_cart
 layout item
 menu navigation_menu
 mipmap ic_launcher

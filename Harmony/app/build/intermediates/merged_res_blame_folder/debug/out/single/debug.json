@@ -68,6 +68,10 @@
         "source": "com.example.harmony.app-main-39:/mipmap-xxhdpi/ic_launcher_round.webp"
     },
     {
+        "merged": "com.example.harmony.app-merged_res-37:/layout_fragment_my_cart.xml.flat",
+        "source": "com.example.harmony.app-main-39:/layout/fragment_my_cart.xml"
+    },
+    {
         "merged": "com.example.harmony.app-merged_res-37:/layout_activity_person_information.xml.flat",
         "source": "com.example.harmony.app-main-39:/layout/activity_person_information.xml"
     },
@@ -122,10 +126,6 @@
     {
         "merged": "com.example.harmony.app-merged_res-37:/drawable-xxhdpi_imag2.png.flat",
         "source": "com.example.harmony.app-main-39:/drawable-xxhdpi/imag2.png"
-    },
-    {
-        "merged": "com.example.harmony.app-merged_res-37:/layout_activity_my_cart.xml.flat",
-        "source": "com.example.harmony.app-main-39:/layout/activity_my_cart.xml"
     },
     {
         "merged": "com.example.harmony.app-merged_res-37:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
