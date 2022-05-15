@@ -1,40 +1,40 @@
-com.example.harmony.app-media-1.4.1-0 /Users/shadow_asura/.gradle/caches/transforms-3/01fd1806664e53fc91568c7d69104d55/transformed/media-1.4.1/res
-com.example.harmony.app-navigation-common-2.4.2-1 /Users/shadow_asura/.gradle/caches/transforms-3/0594507675f2d449fb6337dc842c0f63/transformed/navigation-common-2.4.2/res
-com.example.harmony.app-cardview-1.0.0-2 /Users/shadow_asura/.gradle/caches/transforms-3/0751861119962ac0f78d2deaf3a4a68f/transformed/cardview-1.0.0/res
-com.example.harmony.app-recyclerview-1.1.0-3 /Users/shadow_asura/.gradle/caches/transforms-3/0a48c48e7ac9cdb1931530cff684f072/transformed/recyclerview-1.1.0/res
-com.example.harmony.app-material-1.5.0-4 /Users/shadow_asura/.gradle/caches/transforms-3/0b61725ab4c930b151c4488a893666fd/transformed/material-1.5.0/res
-com.example.harmony.app-navigation-fragment-2.4.2-5 /Users/shadow_asura/.gradle/caches/transforms-3/14734ce362f99ce69d76a47e3a30a4b0/transformed/navigation-fragment-2.4.2/res
-com.example.harmony.app-transition-1.4.1-6 /Users/shadow_asura/.gradle/caches/transforms-3/21488422dc9d5b3475e51d72277684aa/transformed/transition-1.4.1/res
-com.example.harmony.app-navigation-ui-2.4.2-7 /Users/shadow_asura/.gradle/caches/transforms-3/24b0c908384c5ff511c85904a371cc52/transformed/navigation-ui-2.4.2/res
-com.example.harmony.app-appcompat-resources-1.4.1-8 /Users/shadow_asura/.gradle/caches/transforms-3/329434754253c4a32eb8e86e58307e53/transformed/appcompat-resources-1.4.1/res
-com.example.harmony.app-appcompat-1.4.1-9 /Users/shadow_asura/.gradle/caches/transforms-3/3b1bc201b3bca652ca8cba6f27421397/transformed/appcompat-1.4.1/res
-com.example.harmony.app-fragment-ktx-1.4.1-10 /Users/shadow_asura/.gradle/caches/transforms-3/3d5b760b65d902252041b8747c6a631b/transformed/fragment-ktx-1.4.1/res
-com.example.harmony.app-lifecycle-runtime-2.4.0-11 /Users/shadow_asura/.gradle/caches/transforms-3/3f01866c3eb0b5387e0f45d19136fe35/transformed/lifecycle-runtime-2.4.0/res
-com.example.harmony.app-lifecycle-process-2.4.0-12 /Users/shadow_asura/.gradle/caches/transforms-3/45759b04922bc547a81513b82a38ba1e/transformed/lifecycle-process-2.4.0/res
-com.example.harmony.app-play-services-base-18.0.1-13 /Users/shadow_asura/.gradle/caches/transforms-3/554e56b7ca3c23393183273258feb399/transformed/play-services-base-18.0.1/res
-com.example.harmony.app-drawerlayout-1.1.1-14 /Users/shadow_asura/.gradle/caches/transforms-3/576bbfeb8ca3116493a5dde1a08f50b1/transformed/drawerlayout-1.1.1/res
-com.example.harmony.app-mediarouter-1.3.0-15 /Users/shadow_asura/.gradle/caches/transforms-3/6f2036dfea6ff32bc701af39915ab216/transformed/mediarouter-1.3.0/res
-com.example.harmony.app-slidingpanelayout-1.2.0-16 /Users/shadow_asura/.gradle/caches/transforms-3/703c8d04ed72d6a5a7a7d77064e28efe/transformed/slidingpanelayout-1.2.0/res
-com.example.harmony.app-savedstate-1.1.0-17 /Users/shadow_asura/.gradle/caches/transforms-3/7cb098df1fba835853ed83d598cf82cc/transformed/savedstate-1.1.0/res
-com.example.harmony.app-startup-runtime-1.0.0-18 /Users/shadow_asura/.gradle/caches/transforms-3/9fa37f10845b7601bfb72c090386483f/transformed/startup-runtime-1.0.0/res
-com.example.harmony.app-viewpager2-1.0.0-19 /Users/shadow_asura/.gradle/caches/transforms-3/b4968bffc4d4c41b057d435a194dfa3f/transformed/viewpager2-1.0.0/res
-com.example.harmony.app-constraintlayout-2.1.3-20 /Users/shadow_asura/.gradle/caches/transforms-3/d3afed95d73ad065506e7f132d41fe44/transformed/constraintlayout-2.1.3/res
-com.example.harmony.app-fragment-1.4.1-21 /Users/shadow_asura/.gradle/caches/transforms-3/d5147a1b407c30184f1baae347a3be8f/transformed/fragment-1.4.1/res
-com.example.harmony.app-core-1.7.0-22 /Users/shadow_asura/.gradle/caches/transforms-3/d8338c189490aee58604e111af57865f/transformed/core-1.7.0/res
-com.example.harmony.app-emoji2-1.0.0-23 /Users/shadow_asura/.gradle/caches/transforms-3/db233f3ba8947fb0f91cd701b83dfe6a/transformed/emoji2-1.0.0/res
-com.example.harmony.app-annotation-experimental-1.1.0-24 /Users/shadow_asura/.gradle/caches/transforms-3/e36aaea95b1e10850d139e7025f21ff0/transformed/annotation-experimental-1.1.0/res
-com.example.harmony.app-play-services-maps-18.0.2-25 /Users/shadow_asura/.gradle/caches/transforms-3/e76f2ae7ea6830628bd905c680133d53/transformed/play-services-maps-18.0.2/res
-com.example.harmony.app-lifecycle-viewmodel-2.3.1-26 /Users/shadow_asura/.gradle/caches/transforms-3/e988628139fdde72599a7fb0173533f5/transformed/lifecycle-viewmodel-2.3.1/res
-com.example.harmony.app-emoji2-views-helper-1.0.0-27 /Users/shadow_asura/.gradle/caches/transforms-3/ed826fb54ca96a616842741e739e9806/transformed/emoji2-views-helper-1.0.0/res
-com.example.harmony.app-navigation-runtime-2.4.2-28 /Users/shadow_asura/.gradle/caches/transforms-3/f37410cba56187002eec5e9343857eab/transformed/navigation-runtime-2.4.2/res
-com.example.harmony.app-play-services-basement-18.0.0-29 /Users/shadow_asura/.gradle/caches/transforms-3/f4edb30f12a4233ffb8ce3032d6469ff/transformed/play-services-basement-18.0.0/res
-com.example.harmony.app-window-1.0.0-30 /Users/shadow_asura/.gradle/caches/transforms-3/f65b5ca91da7c8c2dd021bd66811129e/transformed/window-1.0.0/res
-com.example.harmony.app-coordinatorlayout-1.1.0-31 /Users/shadow_asura/.gradle/caches/transforms-3/fafe20f33fc1f1973a5a6b5f88e11979/transformed/coordinatorlayout-1.1.0/res
-com.example.harmony.app-pngs-32 /Users/shadow_asura/StudioProjects/implementation/Harmony/app/build/generated/res/pngs/debug
-com.example.harmony.app-resValues-33 /Users/shadow_asura/StudioProjects/implementation/Harmony/app/build/generated/res/resValues/debug
-com.example.harmony.app-rs-34 /Users/shadow_asura/StudioProjects/implementation/Harmony/app/build/generated/res/rs/debug
-com.example.harmony.app-packageDebugResources-35 /Users/shadow_asura/StudioProjects/implementation/Harmony/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
-com.example.harmony.app-packageDebugResources-36 /Users/shadow_asura/StudioProjects/implementation/Harmony/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
-com.example.harmony.app-merged_res-37 /Users/shadow_asura/StudioProjects/implementation/Harmony/app/build/intermediates/merged_res/debug
-com.example.harmony.app-debug-38 /Users/shadow_asura/StudioProjects/implementation/Harmony/app/src/debug/res
-com.example.harmony.app-main-39 /Users/shadow_asura/StudioProjects/implementation/Harmony/app/src/main/res
+com.example.harmony.app-media-1.4.1-0 C:\Users\Anca\.gradle\caches\transforms-3\01fd1806664e53fc91568c7d69104d55\transformed\media-1.4.1\res
+com.example.harmony.app-navigation-common-2.4.2-1 C:\Users\Anca\.gradle\caches\transforms-3\0594507675f2d449fb6337dc842c0f63\transformed\navigation-common-2.4.2\res
+com.example.harmony.app-cardview-1.0.0-2 C:\Users\Anca\.gradle\caches\transforms-3\0751861119962ac0f78d2deaf3a4a68f\transformed\cardview-1.0.0\res
+com.example.harmony.app-recyclerview-1.1.0-3 C:\Users\Anca\.gradle\caches\transforms-3\0a48c48e7ac9cdb1931530cff684f072\transformed\recyclerview-1.1.0\res
+com.example.harmony.app-material-1.5.0-4 C:\Users\Anca\.gradle\caches\transforms-3\0b61725ab4c930b151c4488a893666fd\transformed\material-1.5.0\res
+com.example.harmony.app-navigation-fragment-2.4.2-5 C:\Users\Anca\.gradle\caches\transforms-3\14734ce362f99ce69d76a47e3a30a4b0\transformed\navigation-fragment-2.4.2\res
+com.example.harmony.app-transition-1.4.1-6 C:\Users\Anca\.gradle\caches\transforms-3\21488422dc9d5b3475e51d72277684aa\transformed\transition-1.4.1\res
+com.example.harmony.app-navigation-ui-2.4.2-7 C:\Users\Anca\.gradle\caches\transforms-3\24b0c908384c5ff511c85904a371cc52\transformed\navigation-ui-2.4.2\res
+com.example.harmony.app-appcompat-resources-1.4.1-8 C:\Users\Anca\.gradle\caches\transforms-3\329434754253c4a32eb8e86e58307e53\transformed\appcompat-resources-1.4.1\res
+com.example.harmony.app-appcompat-1.4.1-9 C:\Users\Anca\.gradle\caches\transforms-3\3b1bc201b3bca652ca8cba6f27421397\transformed\appcompat-1.4.1\res
+com.example.harmony.app-fragment-ktx-1.4.1-10 C:\Users\Anca\.gradle\caches\transforms-3\3d5b760b65d902252041b8747c6a631b\transformed\fragment-ktx-1.4.1\res
+com.example.harmony.app-lifecycle-runtime-2.4.0-11 C:\Users\Anca\.gradle\caches\transforms-3\3f01866c3eb0b5387e0f45d19136fe35\transformed\lifecycle-runtime-2.4.0\res
+com.example.harmony.app-lifecycle-process-2.4.0-12 C:\Users\Anca\.gradle\caches\transforms-3\45759b04922bc547a81513b82a38ba1e\transformed\lifecycle-process-2.4.0\res
+com.example.harmony.app-play-services-base-18.0.1-13 C:\Users\Anca\.gradle\caches\transforms-3\554e56b7ca3c23393183273258feb399\transformed\play-services-base-18.0.1\res
+com.example.harmony.app-drawerlayout-1.1.1-14 C:\Users\Anca\.gradle\caches\transforms-3\576bbfeb8ca3116493a5dde1a08f50b1\transformed\drawerlayout-1.1.1\res
+com.example.harmony.app-mediarouter-1.3.0-15 C:\Users\Anca\.gradle\caches\transforms-3\6f2036dfea6ff32bc701af39915ab216\transformed\mediarouter-1.3.0\res
+com.example.harmony.app-slidingpanelayout-1.2.0-16 C:\Users\Anca\.gradle\caches\transforms-3\703c8d04ed72d6a5a7a7d77064e28efe\transformed\slidingpanelayout-1.2.0\res
+com.example.harmony.app-savedstate-1.1.0-17 C:\Users\Anca\.gradle\caches\transforms-3\7cb098df1fba835853ed83d598cf82cc\transformed\savedstate-1.1.0\res
+com.example.harmony.app-startup-runtime-1.0.0-18 C:\Users\Anca\.gradle\caches\transforms-3\9fa37f10845b7601bfb72c090386483f\transformed\startup-runtime-1.0.0\res
+com.example.harmony.app-viewpager2-1.0.0-19 C:\Users\Anca\.gradle\caches\transforms-3\b4968bffc4d4c41b057d435a194dfa3f\transformed\viewpager2-1.0.0\res
+com.example.harmony.app-constraintlayout-2.1.3-20 C:\Users\Anca\.gradle\caches\transforms-3\d3afed95d73ad065506e7f132d41fe44\transformed\constraintlayout-2.1.3\res
+com.example.harmony.app-fragment-1.4.1-21 C:\Users\Anca\.gradle\caches\transforms-3\d5147a1b407c30184f1baae347a3be8f\transformed\fragment-1.4.1\res
+com.example.harmony.app-core-1.7.0-22 C:\Users\Anca\.gradle\caches\transforms-3\d8338c189490aee58604e111af57865f\transformed\core-1.7.0\res
+com.example.harmony.app-emoji2-1.0.0-23 C:\Users\Anca\.gradle\caches\transforms-3\db233f3ba8947fb0f91cd701b83dfe6a\transformed\emoji2-1.0.0\res
+com.example.harmony.app-annotation-experimental-1.1.0-24 C:\Users\Anca\.gradle\caches\transforms-3\e36aaea95b1e10850d139e7025f21ff0\transformed\annotation-experimental-1.1.0\res
+com.example.harmony.app-play-services-maps-18.0.2-25 C:\Users\Anca\.gradle\caches\transforms-3\e76f2ae7ea6830628bd905c680133d53\transformed\play-services-maps-18.0.2\res
+com.example.harmony.app-lifecycle-viewmodel-2.3.1-26 C:\Users\Anca\.gradle\caches\transforms-3\e988628139fdde72599a7fb0173533f5\transformed\lifecycle-viewmodel-2.3.1\res
+com.example.harmony.app-emoji2-views-helper-1.0.0-27 C:\Users\Anca\.gradle\caches\transforms-3\ed826fb54ca96a616842741e739e9806\transformed\emoji2-views-helper-1.0.0\res
+com.example.harmony.app-navigation-runtime-2.4.2-28 C:\Users\Anca\.gradle\caches\transforms-3\f37410cba56187002eec5e9343857eab\transformed\navigation-runtime-2.4.2\res
+com.example.harmony.app-play-services-basement-18.0.0-29 C:\Users\Anca\.gradle\caches\transforms-3\f4edb30f12a4233ffb8ce3032d6469ff\transformed\play-services-basement-18.0.0\res
+com.example.harmony.app-window-1.0.0-30 C:\Users\Anca\.gradle\caches\transforms-3\f65b5ca91da7c8c2dd021bd66811129e\transformed\window-1.0.0\res
+com.example.harmony.app-coordinatorlayout-1.1.0-31 C:\Users\Anca\.gradle\caches\transforms-3\fafe20f33fc1f1973a5a6b5f88e11979\transformed\coordinatorlayout-1.1.0\res
+com.example.harmony.app-pngs-32 D:\Android project\harmonyapp\Harmony\app\build\generated\res\pngs\debug
+com.example.harmony.app-resValues-33 D:\Android project\harmonyapp\Harmony\app\build\generated\res\resValues\debug
+com.example.harmony.app-rs-34 D:\Android project\harmonyapp\Harmony\app\build\generated\res\rs\debug
+com.example.harmony.app-packageDebugResources-35 D:\Android project\harmonyapp\Harmony\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.harmony.app-packageDebugResources-36 D:\Android project\harmonyapp\Harmony\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.harmony.app-merged_res-37 D:\Android project\harmonyapp\Harmony\app\build\intermediates\merged_res\debug
+com.example.harmony.app-debug-38 D:\Android project\harmonyapp\Harmony\app\src\debug\res
+com.example.harmony.app-main-39 D:\Android project\harmonyapp\Harmony\app\src\main\res

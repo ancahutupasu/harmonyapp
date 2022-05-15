@@ -12,8 +12,6 @@
         app:showAsAction="never"
         android:title="About" />
     <item
-
-
         android:id="@+id/miServices"
         android:enabled="true"
         android:title="Services"
@@ -30,8 +28,7 @@
         android:title="life style tricks"/>
     <item
         android:id="@+id/miReviews"
-        android:title="Reviews"
-        tools:layout="@layout/fragment_reviews"/>
+        android:title="Reviews"/>
     <item
         android:id="@+id/miAccount"
         android:title="Log in/ My account"/>
