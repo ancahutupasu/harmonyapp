@@ -1,4 +1,4 @@
-package com.example.harmony;
+package com.example.harmony.ui.my_cart;
 
 import androidx.lifecycle.ViewModelProvider;
 
@@ -12,12 +12,14 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-public class MyCartFragment extends Fragment {
+import com.example.harmony.R;
+
+public class MyCart extends Fragment {
 
     private MyCartViewModel mViewModel;
 
-    public static MyCartFragment newInstance() {
-        return new MyCartFragment();
+    public static MyCart newInstance() {
+        return new MyCart();
     }
 
     @Override

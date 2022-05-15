@@ -13,11 +13,11 @@ public class MyAccount extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_my_account);
 
-        Button button = findViewById(R.id.button11);
+       /* Button button = findViewById(R.id.button11);
         button.setOnClickListener(v -> {
             Intent intent = new Intent(this, PersonInformation.class);
             startActivity(intent);
-        });
+        });*/
 
 
     }
