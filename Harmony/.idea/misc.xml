@@ -33,14 +33,9 @@
         <entry key="..\:/Users/alina/AndroidStudioProjects/harmonyApp2/Harmony/app/src/main/res/menu/activity_main_page_drawer.xml" value="0.24205128205128204" />
         <entry key="..\:/Users/alina/AndroidStudioProjects/harmonyApp2/Harmony/app/src/main/res/menu/main_page.xml" value="0.1" />
         <entry key="..\:/Users/alina/AndroidStudioProjects/harmonyApp2/Harmony/app/src/main/res/menu/navigation_menu.xml" value="0.17239583333333333" />
-        <entry key="..\:/Users/ravne/AndroidStudioProjects/harmonyapp1/Harmony/app/src/main/res/layout/account.xml" value="0.25" />
-        <entry key="..\:/Users/ravne/AndroidStudioProjects/harmonyapp1/Harmony/app/src/main/res/layout/activity_about_us.xml" value="0.25" />
-        <entry key="..\:/Users/ravne/AndroidStudioProjects/harmonyapp1/Harmony/app/src/main/res/layout/activity_before_checkout.xml" value="0.25" />
-        <entry key="..\:/Users/ravne/AndroidStudioProjects/harmonyapp1/Harmony/app/src/main/res/layout/activity_main_page.xml" value="0.25" />
-        <entry key="..\:/Users/ravne/AndroidStudioProjects/harmonyapp1/Harmony/app/src/main/res/layout/activity_my_account.xml" value="0.25" />
-        <entry key="..\:/Users/ravne/AndroidStudioProjects/harmonyapp1/Harmony/app/src/main/res/layout/fragment_fragment_account.xml" value="0.25" />
-        <entry key="..\:/Users/ravne/AndroidStudioProjects/harmonyapp1/Harmony/app/src/main/res/layout/fragment_my_points.xml" value="0.25" />
-        <entry key="..\:/Users/ravne/AndroidStudioProjects/harmonyapp1/Harmony/app/src/main/res/layout/mypoints.xml" value="0.25" />
+        <entry key="app/src/main/res/drawable-xxhdpi/ic_lock.xml" value="0.2085" />
+        <entry key="app/src/main/res/drawable-xxhdpi/round_border.xml" value="0.2085" />
+        <entry key="app/src/main/res/layout/account.xml" value="0.3098958333333333" />
         <entry key="app/src/main/res/layout/activity_about_us.xml" value="0.2947916666666667" />
         <entry key="app/src/main/res/layout/activity_forget_password_confirm.xml" value="0.2947916666666667" />
         <entry key="app/src/main/res/layout/activity_login.xml" value="0.15520833333333334" />
@@ -51,6 +46,8 @@
         <entry key="app/src/main/res/layout/activity_services.xml" value="0.15520833333333334" />
         <entry key="app/src/main/res/layout/add_review.xml" value="0.3098958333333333" />
         <entry key="app/src/main/res/layout/fragment_add_reviews.xml" value="0.15520833333333334" />
+        <entry key="app/src/main/res/layout/fragment_login.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/fragment_person_information.xml" value="0.13125" />
         <entry key="app/src/main/res/layout/fragment_personinformationfragment.xml" value="0.3098958333333333" />
         <entry key="app/src/main/res/layout/fragment_reviews.xml" value="0.16893115942028986" />
         <entry key="app/src/main/res/layout/item.xml" value="0.3098958333333333" />
