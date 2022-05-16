@@ -1,4 +1,4 @@
-package com.example.harmony;
+package com.example.harmony.ui.Bookings;
 
 import androidx.lifecycle.ViewModel;
 

@@ -1,4 +1,4 @@
-package com.example.harmony;
+package com.example.harmony.ui.PersonInformation;
 
 import androidx.fragment.app.FragmentTransaction;
 import androidx.lifecycle.ViewModelProvider;
@@ -13,6 +13,9 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
+
+import com.example.harmony.R;
+import com.example.harmony.ui.MyAccount.Account;
 
 public class PersonInformationFragment extends Fragment {
 

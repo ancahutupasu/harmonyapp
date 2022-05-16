@@ -1,4 +1,4 @@
-package com.example.harmony;
+package com.example.harmony.ui.MyPoints;
 
 import androidx.lifecycle.ViewModelProvider;
 
@@ -8,28 +8,34 @@ import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.fragment.app.Fragment;
 
+import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-public class BookingsFragment extends Fragment {
+import com.example.harmony.R;
 
-    private BookingsViewModel mViewModel;
+public class MyPoints extends Fragment {
 
-    public static BookingsFragment newInstance() {
-        return new BookingsFragment();
+    private MyPointsViewModel mViewModel;
+
+
+    public static MyPoints newInstance() {
+        return new MyPoints();
     }
 
     @Override
     public View onCreateView(@NonNull LayoutInflater inflater, @Nullable ViewGroup container,
                              @Nullable Bundle savedInstanceState) {
-        return inflater.inflate(R.layout.fragment_bookings, container, false);
+        return inflater.inflate(R.layout.mypoints, container, false);
+        /*mViewModel=new MyPointsViewModel();
+        Log.i("MyPoints","Main view model ois initialized");*/
     }
 
     @Override
     public void onActivityCreated(@Nullable Bundle savedInstanceState) {
         super.onActivityCreated(savedInstanceState);
-        mViewModel = new ViewModelProvider(this).get(BookingsViewModel.class);
+        mViewModel = new ViewModelProvider(this).get(MyPointsViewModel.class);
         // TODO: Use the ViewModel
     }
 

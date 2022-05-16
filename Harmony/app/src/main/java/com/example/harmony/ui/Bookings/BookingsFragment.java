@@ -1,4 +1,4 @@
-package com.example.harmony;
+package com.example.harmony.ui.Bookings;
 
 import androidx.lifecycle.ViewModelProvider;
 
@@ -12,24 +12,26 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-public class SubscriptionsFragment extends Fragment {
+import com.example.harmony.R;
 
-    private SubscriptionsViewModel mViewModel;
+public class BookingsFragment extends Fragment {
 
-    public static SubscriptionsFragment newInstance() {
-        return new SubscriptionsFragment();
+    private BookingsViewModel mViewModel;
+
+    public static BookingsFragment newInstance() {
+        return new BookingsFragment();
     }
 
     @Override
     public View onCreateView(@NonNull LayoutInflater inflater, @Nullable ViewGroup container,
                              @Nullable Bundle savedInstanceState) {
-        return inflater.inflate(R.layout.fragment_subscriptions, container, false);
+        return inflater.inflate(R.layout.fragment_bookings, container, false);
     }
 
     @Override
     public void onActivityCreated(@Nullable Bundle savedInstanceState) {
         super.onActivityCreated(savedInstanceState);
-        mViewModel = new ViewModelProvider(this).get(SubscriptionsViewModel.class);
+        mViewModel = new ViewModelProvider(this).get(BookingsViewModel.class);
         // TODO: Use the ViewModel
     }
 

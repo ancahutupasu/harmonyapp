@@ -1,4 +1,4 @@
-package com.example.harmony;
+package com.example.harmony.ui.Subscription;
 
 import androidx.lifecycle.ViewModelProvider;
 
@@ -12,24 +12,26 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-public class MyPoints extends Fragment {
+import com.example.harmony.R;
 
-    private MyPointsViewModel mViewModel;
+public class SubscriptionsFragment extends Fragment {
 
-    public static MyPoints newInstance() {
-        return new MyPoints();
+    private SubscriptionsViewModel mViewModel;
+
+    public static SubscriptionsFragment newInstance() {
+        return new SubscriptionsFragment();
     }
 
     @Override
     public View onCreateView(@NonNull LayoutInflater inflater, @Nullable ViewGroup container,
                              @Nullable Bundle savedInstanceState) {
-        return inflater.inflate(R.layout.fragment_my_points, container, false);
+        return inflater.inflate(R.layout.fragment_subscriptions, container, false);
     }
 
     @Override
     public void onActivityCreated(@Nullable Bundle savedInstanceState) {
         super.onActivityCreated(savedInstanceState);
-        mViewModel = new ViewModelProvider(this).get(MyPointsViewModel.class);
+        mViewModel = new ViewModelProvider(this).get(SubscriptionsViewModel.class);
         // TODO: Use the ViewModel
     }
 

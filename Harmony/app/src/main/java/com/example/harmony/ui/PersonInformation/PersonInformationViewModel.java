@@ -1,4 +1,4 @@
-package com.example.harmony;
+package com.example.harmony.ui.PersonInformation;
 
 import androidx.lifecycle.ViewModel;
 

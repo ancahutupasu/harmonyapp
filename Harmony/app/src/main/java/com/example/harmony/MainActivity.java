@@ -13,10 +13,16 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+
+
+
         Button button = findViewById(R.id.button5);
         button.setOnClickListener(v->{
             Intent intent = new Intent(this, SignUp.class);
             startActivity(intent);
+
         });
+
+
     }
 }
