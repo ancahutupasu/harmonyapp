@@ -120,7 +120,7 @@ public class LoginFragment extends Fragment {
                 requestEmail().
                 build();
 
-        googleSignInClient = GoogleSignIn.getClient(getContext(),gso);
+        googleSignInClient = GoogleSignIn.getClient(getContext(), gso);
     }
 
     private void signIn()
