@@ -16,7 +16,7 @@ import android.view.ViewGroup;
 import android.widget.Button;
 
 import com.example.harmony.R;
-import com.example.harmony.ui.add_review.AddReviews;
+import com.example.harmony.ui.add_review.AddReviewsFragment;
 
 public class ReviewsFragment extends Fragment {
 
@@ -36,7 +36,7 @@ public class ReviewsFragment extends Fragment {
 
         Button button = root.findViewById(R.id.bt_add);
         button.setOnClickListener(view -> {
-            Fragment fragment = new AddReviews();
+            Fragment fragment = new AddReviewsFragment();
             FragmentManager fragmentManager = getActivity().getSupportFragmentManager();
             FragmentTransaction fragmentTransaction = fragmentManager.beginTransaction();
             fragmentTransaction.replace(R.id.add_review, fragment);
