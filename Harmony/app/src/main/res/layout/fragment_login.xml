@@ -8,23 +8,27 @@
 
     <EditText
         android:id="@+id/email"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_width="387dp"
+        android:layout_height="57dp"
+        android:background="@drawable/round_border"
+        android:drawableStart="@drawable/ic_email"
         android:hint="@string/email"
         android:padding="10dp"
-        tools:layout_editor_absoluteX="0dp"
-        tools:layout_editor_absoluteY="245dp"
-        tools:ignore="MissingConstraints" />
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="12dp"
+        tools:layout_editor_absoluteY="233dp" />
 
     <EditText
         android:id="@+id/password"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_width="387dp"
+        android:layout_height="57dp"
+        android:background="@drawable/round_border"
+        android:drawableStart="@drawable/ic_lock"
         android:hint="@string/password"
         android:padding="10dp"
-        tools:layout_editor_absoluteX="0dp"
-        tools:layout_editor_absoluteY="306dp"
-        tools:ignore="MissingConstraints" />
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="12dp"
+        tools:layout_editor_absoluteY="304dp" />
 
     <TextView
         android:id="@+id/forgotPassword"
@@ -42,6 +46,7 @@
         android:layout_height="wrap_content"
         android:padding="10dp"
         android:onClick="login"
+        android:background="@drawable/round_border"
         android:text="@string/login"
         tools:layout_editor_absoluteX="307dp"
         tools:layout_editor_absoluteY="416dp"
@@ -61,8 +66,8 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:onClick="redirectToRegister"
+        android:background="@drawable/round_border"
         android:text="@string/register"
-        android:textSize="10sp"
         tools:ignore="MissingConstraints,SmallSp"
         tools:layout_editor_absoluteX="161dp"
         tools:layout_editor_absoluteY="518dp" />
