@@ -7,18 +7,26 @@
     <color name="teal_200">#FF03DAC5</color>
     <color name="teal_700">#FF018786</color>
     <color name="white">#FFFFFFFF</color>
-    <string name="Login">Login</string>
-    <string name="New">New</string>
+    <dimen name="fragment_horizontal_margin">16dp</dimen>
+    <dimen name="fragment_vertical_margin">16dp</dimen>
+    <string name="New">New?</string>
     <string name="Password">password</string>
     <string name="add">add</string>
+    <string name="add_review">Add Review</string>
     <string name="app_name">Harmony</string>
     <string name="bookings_history">Booking History</string>
     <string name="button">Button</string>
+    <string name="cancel">Cancel</string>
     <string name="done">Done</string>
-    <string name="email">email</string>
+    <string name="email">Email</string>
+    <string name="forgot_password">Forgot Password?</string>
     <string name="hello">Hello</string>
     <string name="hello_world">Hello World</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="invalid_username">Not a valid username</string>
     <string name="log_out">Log Out</string>
+    <string name="login">Login</string>
+    <string name="login_failed">"Login failed"</string>
     <string name="menu_home">menu_home</string>
     <string name="my_points">My Points</string>
     <string name="myaccount">My Account</string>
@@ -27,11 +35,14 @@
     <string name="nav_header_desc">nav_header</string>
     <string name="nav_open">Open</string>
     <string name="navigation_drawer_close">navigation_drawer</string>
+    <string name="password">Password</string>
     <string name="person_information">Personal Information</string>
     <string name="register">Register</string>
+    <string name="review_text">Enter your review here</string>
     <string name="signup">signup</string>
     <string name="submit">Submit</string>
     <string name="subscriptions">Subsciptions</string>
+    <string name="welcome">"Welcome!"</string>
     <style name="Theme.Harmony" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
         
         <item name="colorPrimary">@color/purple_500</item>
