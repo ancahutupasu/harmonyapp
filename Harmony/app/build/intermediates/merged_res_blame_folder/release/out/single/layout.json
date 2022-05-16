@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "com.example.harmony.app-mergeReleaseResources-41:/layout/activity_main.xml",
+        "source": "com.example.harmony.app-main-43:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.harmony.app-mergeReleaseResources-41:/layout/fragment_home.xml",
+        "source": "com.example.harmony.app-main-43:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.example.harmony.app-mergeReleaseResources-41:/layout/content_main.xml",
+        "source": "com.example.harmony.app-main-43:/layout/content_main.xml"
+    },
+    {
+        "merged": "com.example.harmony.app-mergeReleaseResources-41:/layout/app_bar_main.xml",
+        "source": "com.example.harmony.app-main-43:/layout/app_bar_main.xml"
+    },
+    {
+        "merged": "com.example.harmony.app-mergeReleaseResources-41:/layout/activity_package2.xml",
+        "source": "com.example.harmony.app-main-43:/layout/activity_package2.xml"
+    },
+    {
+        "merged": "com.example.harmony.app-mergeReleaseResources-41:/layout/activity_package4.xml",
+        "source": "com.example.harmony.app-main-43:/layout/activity_package4.xml"
+    },
+    {
+        "merged": "com.example.harmony.app-mergeReleaseResources-41:/layout/activity_package1.xml",
+        "source": "com.example.harmony.app-main-43:/layout/activity_package1.xml"
+    },
+    {
+        "merged": "com.example.harmony.app-mergeReleaseResources-41:/layout/nav_header_main.xml",
+        "source": "com.example.harmony.app-main-43:/layout/nav_header_main.xml"
+    },
+    {
+        "merged": "com.example.harmony.app-mergeReleaseResources-41:/layout/fragment_offers.xml",
+        "source": "com.example.harmony.app-main-43:/layout/fragment_offers.xml"
+    },
+    {
+        "merged": "com.example.harmony.app-mergeReleaseResources-41:/layout/fragment_about_us.xml",
+        "source": "com.example.harmony.app-main-43:/layout/fragment_about_us.xml"
+    },
+    {
+        "merged": "com.example.harmony.app-mergeReleaseResources-41:/layout/fragment_services.xml",
+        "source": "com.example.harmony.app-main-43:/layout/fragment_services.xml"
+    },
+    {
+        "merged": "com.example.harmony.app-mergeReleaseResources-41:/layout/activity_package3.xml",
+        "source": "com.example.harmony.app-main-43:/layout/activity_package3.xml"
+    }
+]
