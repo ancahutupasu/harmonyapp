@@ -17,6 +17,7 @@ import com.example.harmony.R;
 public class SubscriptionsFragment extends Fragment {
 
     private SubscriptionsViewModel mViewModel;
+    View root;
 
     public static SubscriptionsFragment newInstance() {
         return new SubscriptionsFragment();
@@ -25,6 +26,7 @@ public class SubscriptionsFragment extends Fragment {
     @Override
     public View onCreateView(@NonNull LayoutInflater inflater, @Nullable ViewGroup container,
                              @Nullable Bundle savedInstanceState) {
+        mViewModel=new ViewModelProvider(this).get(SubscriptionsViewModel.class);
         return inflater.inflate(R.layout.fragment_subscriptions, container, false);
     }
 
