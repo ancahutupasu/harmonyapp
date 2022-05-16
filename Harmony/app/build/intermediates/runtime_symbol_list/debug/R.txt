@@ -2660,6 +2660,7 @@ int drawable fui_ic_yahoo_24dp 0x7f070082
 int drawable google 0x7f070083
 int drawable googleg_disabled_color_18 0x7f070084
 int drawable googleg_standard_color_18 0x7f070085
+int drawable ic_account 0x7f070194
 int drawable ic_action_name 0x7f070086
 int drawable ic_audiotrack_dark 0x7f070087
 int drawable ic_audiotrack_light 0x7f070088
@@ -2939,11 +2940,16 @@ int id CTRL 0x7f080005
 int id Click 0x7f080006
 int id Done 0x7f080007
 int id FUNCTION 0x7f080008
+int id Go 0x7f0802eb
+int id Id 0x7f0802ec
 int id Logout 0x7f080009
 int id META 0x7f08000a
 int id MyPoints 0x7f08000b
 int id NO_DEBUG 0x7f08000c
+int id Name 0x7f0802ed
+int id Person 0x7f0802ee
 int id PersonInformation 0x7f08000d
+int id Register 0x7f0802ef
 int id Reviews 0x7f08000e
 int id SHIFT 0x7f08000f
 int id SHOW_ALL 0x7f080010
@@ -3057,10 +3063,10 @@ int id btnBook3 0x7f08007b
 int id btnBook4 0x7f08007c
 int id btn_holder 0x7f08007d
 int id button 0x7f08007e
+int id button2 0x7f0802f0
 int id button5 0x7f08007f
 int id button6 0x7f080080
 int id buttonAddMyCart 0x7f080081
-int id buttonBack2 0x7f080082
 int id buttonBack3 0x7f080083
 int id buttonBack4 0x7f080084
 int id buttonBack5 0x7f080085
@@ -3166,6 +3172,7 @@ int id editPackageNr3 0x7f0800e8
 int id editPackageNr4 0x7f0800e9
 int id editTextPhone 0x7f0800ea
 int id editTextPhone3 0x7f0800eb
+int id editTextTextEmailAddress 0x7f0802f1
 int id editTextTextEmailAddress2 0x7f0800ec
 int id editTextTextEmailAddress3 0x7f0800ed
 int id editTextTextEmailAddress4 0x7f0800ee
@@ -3175,6 +3182,7 @@ int id editTextTextPersonName3 0x7f0800f1
 int id editTextTextPersonName4 0x7f0800f2
 int id editTextTextPersonName5 0x7f0800f3
 int id editTextTextPersonName6 0x7f0800f4
+int id editTextTextPersonName7 0x7f0802f2
 int id editTextTextPersonName9 0x7f0800f5
 int id edit_phone_number 0x7f0800f6
 int id edit_query 0x7f0800f7
@@ -3651,7 +3659,6 @@ int id uniform 0x7f0802cd
 int id unlabeled 0x7f0802ce
 int id up 0x7f0802cf
 int id useLogo 0x7f0802d0
-int id user_name 0x7f0802d1
 int id vertical_only 0x7f0802d2
 int id viewPagerMain 0x7f0802d3
 int id view_offset_helper 0x7f0802d4
@@ -3807,7 +3814,7 @@ int layout fragment_before_checkout_page 0x7f0b003a
 int layout fragment_bookings 0x7f0b003b
 int layout fragment_login 0x7f0b003c
 int layout fragment_my_cart 0x7f0b003d
-int layout fragment_person_information 0x7f0b003e
+int layout fragment_register 0x7f0b00bf
 int layout fragment_reviews 0x7f0b003f
 int layout fragment_subscriptions 0x7f0b0040
 int layout fui_activity_invisible 0x7f0b0041
@@ -3840,6 +3847,7 @@ int layout item 0x7f0b005b
 int layout m3_alert_dialog 0x7f0b005c
 int layout m3_alert_dialog_actions 0x7f0b005d
 int layout m3_alert_dialog_title 0x7f0b005e
+int layout main 0x7f0b00c0
 int layout material_chip_input_combo 0x7f0b005f
 int layout material_clock_display 0x7f0b0060
 int layout material_clock_display_divider 0x7f0b0061
@@ -3915,7 +3923,7 @@ int layout notification_template_media_custom 0x7f0b00a6
 int layout notification_template_part_chronometer 0x7f0b00a7
 int layout notification_template_part_time 0x7f0b00a8
 int layout personinformation 0x7f0b00a9
-int layout review_list_item 0x7f0b00aa
+int layout register 0x7f0b00c1
 int layout select_dialog_item_material 0x7f0b00ab
 int layout select_dialog_multichoice_material 0x7f0b00ac
 int layout select_dialog_singlechoice_material 0x7f0b00ad
