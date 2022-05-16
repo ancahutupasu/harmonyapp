@@ -7,6 +7,8 @@ import android.os.Bundle;
 import android.widget.Button;
 import android.widget.TextView;
 
+import com.example.harmony.ui.MyAccount.Account;
+
 public class Login extends AppCompatActivity {
 
     @Override
@@ -30,7 +32,7 @@ public class Login extends AppCompatActivity {
 
                 button1.setOnClickListener(v -> {
 
-                    Intent intent1 = new Intent(this, MyAccount.class);
+                    Intent intent1 = new Intent(this, Account.class);
 
                     startActivity(intent1);
                 });

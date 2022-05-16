@@ -2888,6 +2888,7 @@ id BOTTOM_START
 id Back
 id Bookings
 id CTRL
+id Click
 id Done
 id FUNCTION
 id ForgetPassword
@@ -3114,6 +3115,7 @@ id editTextTextPersonName2
 id editTextTextPersonName3
 id editTextTextPersonName4
 id editTextTextPersonName5
+id editTextTextPersonName6
 id edit_query
 id elastic
 id email
@@ -3208,6 +3210,9 @@ id linearLayout22
 id linearLayout23
 id linearLayout24
 id linearLayout25
+id linearLayout26
+id linearLayout27
+id linearLayout28
 id linearLayout3
 id linearLayout4
 id linearLayout5
@@ -3531,6 +3536,7 @@ id transition_position
 id transition_scene_layoutid_cache
 id transition_transform
 id triangle
+id txtCounter
 id unchecked
 id uniform
 id unlabeled
@@ -3685,9 +3691,7 @@ layout design_text_input_end_icon
 layout design_text_input_start_icon
 layout fragment_add_reviews
 layout fragment_bookings
-layout fragment_fragment_account
 layout fragment_my_cart
-layout fragment_my_points
 layout fragment_person_information
 layout fragment_reviews
 layout fragment_subscriptions
@@ -3753,6 +3757,7 @@ layout mtrl_picker_header_title_text
 layout mtrl_picker_header_toggle
 layout mtrl_picker_text_input_date
 layout mtrl_picker_text_input_date_range
+layout mypoints
 layout notification_action
 layout notification_action_tombstone
 layout notification_media_action

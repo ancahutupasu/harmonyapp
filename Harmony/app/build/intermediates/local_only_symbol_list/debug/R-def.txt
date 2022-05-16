@@ -13,6 +13,7 @@ drawable ic_launcher_foreground
 drawable imag2
 id Back
 id Bookings
+id Click
 id Done
 id ForgetPassword
 id Login
@@ -66,6 +67,7 @@ id editTextTextPersonName2
 id editTextTextPersonName3
 id editTextTextPersonName4
 id editTextTextPersonName5
+id editTextTextPersonName6
 id email
 id imageView
 id imageView2
@@ -93,6 +95,9 @@ id linearLayout22
 id linearLayout23
 id linearLayout24
 id linearLayout25
+id linearLayout26
+id linearLayout27
+id linearLayout28
 id linearLayout3
 id linearLayout4
 id linearLayout5
@@ -132,6 +137,7 @@ id textViewPrice
 id textViewTitle
 id textViewTitleMyCart
 id toolbar2
+id txtCounter
 id user_name
 id viewPagerMain
 id whatsAppBtn
@@ -152,13 +158,12 @@ layout activity_services
 layout activity_sign_up
 layout fragment_add_reviews
 layout fragment_bookings
-layout fragment_fragment_account
 layout fragment_my_cart
-layout fragment_my_points
 layout fragment_person_information
 layout fragment_reviews
 layout fragment_subscriptions
 layout item
+layout mypoints
 layout personinformation
 layout review_list_item
 menu navigation_menu

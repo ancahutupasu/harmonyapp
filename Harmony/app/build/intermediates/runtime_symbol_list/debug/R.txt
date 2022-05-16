@@ -2887,6 +2887,7 @@ int id BOTTOM_START 0x7f080002
 int id Back 0x7f080003
 int id Bookings 0x7f080004
 int id CTRL 0x7f080005
+int id Click 0x7f0802a4
 int id Done 0x7f080006
 int id FUNCTION 0x7f080007
 int id ForgetPassword 0x7f080008
@@ -3113,6 +3114,7 @@ int id editTextTextPersonName2 0x7f0800e4
 int id editTextTextPersonName3 0x7f0800e5
 int id editTextTextPersonName4 0x7f0800e6
 int id editTextTextPersonName5 0x7f0800e7
+int id editTextTextPersonName6 0x7f0802a5
 int id edit_query 0x7f0800e8
 int id elastic 0x7f0800e9
 int id email 0x7f0800ea
@@ -3207,6 +3209,9 @@ int id linearLayout22 0x7f080142
 int id linearLayout23 0x7f080143
 int id linearLayout24 0x7f080144
 int id linearLayout25 0x7f080145
+int id linearLayout26 0x7f0802a6
+int id linearLayout27 0x7f0802a7
+int id linearLayout28 0x7f0802a8
 int id linearLayout3 0x7f080146
 int id linearLayout4 0x7f080147
 int id linearLayout5 0x7f080148
@@ -3530,6 +3535,7 @@ int id transition_position 0x7f080285
 int id transition_scene_layoutid_cache 0x7f080286
 int id transition_transform 0x7f080287
 int id triangle 0x7f080288
+int id txtCounter 0x7f0802a9
 int id unchecked 0x7f080289
 int id uniform 0x7f08028a
 int id unlabeled 0x7f08028b
@@ -3684,9 +3690,7 @@ int layout design_text_input_end_icon 0x7f0b0039
 int layout design_text_input_start_icon 0x7f0b003a
 int layout fragment_add_reviews 0x7f0b003b
 int layout fragment_bookings 0x7f0b003c
-int layout fragment_fragment_account 0x7f0b003d
 int layout fragment_my_cart 0x7f0b003e
-int layout fragment_my_points 0x7f0b003f
 int layout fragment_person_information 0x7f0b0040
 int layout fragment_reviews 0x7f0b0041
 int layout fragment_subscriptions 0x7f0b00a4
@@ -3752,6 +3756,7 @@ int layout mtrl_picker_header_title_text 0x7f0b007c
 int layout mtrl_picker_header_toggle 0x7f0b007d
 int layout mtrl_picker_text_input_date 0x7f0b007e
 int layout mtrl_picker_text_input_date_range 0x7f0b007f
+int layout mypoints 0x7f0b00a5
 int layout notification_action 0x7f0b0080
 int layout notification_action_tombstone 0x7f0b0081
 int layout notification_media_action 0x7f0b0082
