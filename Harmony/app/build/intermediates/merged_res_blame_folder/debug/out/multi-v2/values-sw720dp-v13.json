@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.harmony.app-mergeDebugResources-35:/values-sw720dp-v13/values-sw720dp-v13.xml",
+            "outputFile": "com.example.harmony.app-mergeDebugResources-38:/values-sw720dp-v13/values-sw720dp-v13.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\ravne\\.gradle\\caches\\transforms-3\\6f2036dfea6ff32bc701af39915ab216\\transformed\\mediarouter-1.3.0\\res\\values-sw720dp-v13\\values-sw720dp-v13.xml",
+                    "source": "/Users/shadow_asura/.gradle/caches/transforms-3/6f2036dfea6ff32bc701af39915ab216/transformed/mediarouter-1.3.0/res/values-sw720dp-v13/values-sw720dp-v13.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",
