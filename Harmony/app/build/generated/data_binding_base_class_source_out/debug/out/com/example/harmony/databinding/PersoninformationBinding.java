@@ -29,13 +29,13 @@ public final class PersoninformationBinding implements ViewBinding {
   public final Button Done;
 
   @NonNull
-  public final EditText Name;
-
-  @NonNull
   public final EditText editTextPhone;
 
   @NonNull
   public final EditText editTextTextEmailAddress4;
+
+  @NonNull
+  public final EditText editTextTextPersonName;
 
   @NonNull
   public final EditText editTextTextPersonName2;
@@ -68,26 +68,30 @@ public final class PersoninformationBinding implements ViewBinding {
   public final LinearLayout linearLayout25;
 
   @NonNull
+  public final LinearLayout linearLayout26;
+
+  @NonNull
   public final TextView textView10;
 
   @NonNull
   public final TextView textView9;
 
   private PersoninformationBinding(@NonNull ConstraintLayout rootView, @NonNull Button Back,
-      @NonNull Button Done, @NonNull EditText Name, @NonNull EditText editTextPhone,
-      @NonNull EditText editTextTextEmailAddress4, @NonNull EditText editTextTextPersonName2,
-      @NonNull EditText editTextTextPersonName3, @NonNull EditText editTextTextPersonName4,
-      @NonNull EditText editTextTextPersonName5, @NonNull LinearLayout linearLayout20,
-      @NonNull LinearLayout linearLayout21, @NonNull LinearLayout linearLayout22,
-      @NonNull LinearLayout linearLayout23, @NonNull LinearLayout linearLayout24,
-      @NonNull LinearLayout linearLayout25, @NonNull TextView textView10,
+      @NonNull Button Done, @NonNull EditText editTextPhone,
+      @NonNull EditText editTextTextEmailAddress4, @NonNull EditText editTextTextPersonName,
+      @NonNull EditText editTextTextPersonName2, @NonNull EditText editTextTextPersonName3,
+      @NonNull EditText editTextTextPersonName4, @NonNull EditText editTextTextPersonName5,
+      @NonNull LinearLayout linearLayout20, @NonNull LinearLayout linearLayout21,
+      @NonNull LinearLayout linearLayout22, @NonNull LinearLayout linearLayout23,
+      @NonNull LinearLayout linearLayout24, @NonNull LinearLayout linearLayout25,
+      @NonNull LinearLayout linearLayout26, @NonNull TextView textView10,
       @NonNull TextView textView9) {
     this.rootView = rootView;
     this.Back = Back;
     this.Done = Done;
-    this.Name = Name;
     this.editTextPhone = editTextPhone;
     this.editTextTextEmailAddress4 = editTextTextEmailAddress4;
+    this.editTextTextPersonName = editTextTextPersonName;
     this.editTextTextPersonName2 = editTextTextPersonName2;
     this.editTextTextPersonName3 = editTextTextPersonName3;
     this.editTextTextPersonName4 = editTextTextPersonName4;
@@ -98,6 +102,7 @@ public final class PersoninformationBinding implements ViewBinding {
     this.linearLayout23 = linearLayout23;
     this.linearLayout24 = linearLayout24;
     this.linearLayout25 = linearLayout25;
+    this.linearLayout26 = linearLayout26;
     this.textView10 = textView10;
     this.textView9 = textView9;
   }
@@ -141,12 +146,6 @@ public final class PersoninformationBinding implements ViewBinding {
         break missingId;
       }
 
-      id = R.id.Name;
-      EditText Name = ViewBindings.findChildViewById(rootView, id);
-      if (Name == null) {
-        break missingId;
-      }
-
       id = R.id.editTextPhone;
       EditText editTextPhone = ViewBindings.findChildViewById(rootView, id);
       if (editTextPhone == null) {
@@ -156,6 +155,12 @@ public final class PersoninformationBinding implements ViewBinding {
       id = R.id.editTextTextEmailAddress4;
       EditText editTextTextEmailAddress4 = ViewBindings.findChildViewById(rootView, id);
       if (editTextTextEmailAddress4 == null) {
+        break missingId;
+      }
+
+      id = R.id.editTextTextPersonName;
+      EditText editTextTextPersonName = ViewBindings.findChildViewById(rootView, id);
+      if (editTextTextPersonName == null) {
         break missingId;
       }
 
@@ -219,6 +224,12 @@ public final class PersoninformationBinding implements ViewBinding {
         break missingId;
       }
 
+      id = R.id.linearLayout26;
+      LinearLayout linearLayout26 = ViewBindings.findChildViewById(rootView, id);
+      if (linearLayout26 == null) {
+        break missingId;
+      }
+
       id = R.id.textView10;
       TextView textView10 = ViewBindings.findChildViewById(rootView, id);
       if (textView10 == null) {
@@ -231,11 +242,11 @@ public final class PersoninformationBinding implements ViewBinding {
         break missingId;
       }
 
-      return new PersoninformationBinding((ConstraintLayout) rootView, Back, Done, Name,
-          editTextPhone, editTextTextEmailAddress4, editTextTextPersonName2,
+      return new PersoninformationBinding((ConstraintLayout) rootView, Back, Done, editTextPhone,
+          editTextTextEmailAddress4, editTextTextPersonName, editTextTextPersonName2,
           editTextTextPersonName3, editTextTextPersonName4, editTextTextPersonName5, linearLayout20,
           linearLayout21, linearLayout22, linearLayout23, linearLayout24, linearLayout25,
-          textView10, textView9);
+          linearLayout26, textView10, textView9);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

@@ -23,10 +23,7 @@ public final class ActivityAboutUsBinding implements ViewBinding {
   private final ConstraintLayout rootView;
 
   @NonNull
-  public final Button Go;
-
-  @NonNull
-  public final Button Person;
+  public final Button buttonBack2;
 
   @NonNull
   public final ImageView imageView;
@@ -49,14 +46,13 @@ public final class ActivityAboutUsBinding implements ViewBinding {
   @NonNull
   public final TextView textView2;
 
-  private ActivityAboutUsBinding(@NonNull ConstraintLayout rootView, @NonNull Button Go,
-      @NonNull Button Person, @NonNull ImageView imageView, @NonNull ImageView imageView2,
+  private ActivityAboutUsBinding(@NonNull ConstraintLayout rootView, @NonNull Button buttonBack2,
+      @NonNull ImageView imageView, @NonNull ImageView imageView2,
       @NonNull LinearLayout linearLayout, @NonNull LinearLayout linearLayout8,
       @NonNull ConstraintLayout miAbout, @NonNull TextView miAboutPage,
       @NonNull TextView textView2) {
     this.rootView = rootView;
-    this.Go = Go;
-    this.Person = Person;
+    this.buttonBack2 = buttonBack2;
     this.imageView = imageView;
     this.imageView2 = imageView2;
     this.linearLayout = linearLayout;
@@ -93,15 +89,9 @@ public final class ActivityAboutUsBinding implements ViewBinding {
     // This is done to optimize the compiled bytecode for size and performance.
     int id;
     missingId: {
-      id = R.id.Go;
-      Button Go = ViewBindings.findChildViewById(rootView, id);
-      if (Go == null) {
-        break missingId;
-      }
-
-      id = R.id.Person;
-      Button Person = ViewBindings.findChildViewById(rootView, id);
-      if (Person == null) {
+      id = R.id.buttonBack2;
+      Button buttonBack2 = ViewBindings.findChildViewById(rootView, id);
+      if (buttonBack2 == null) {
         break missingId;
       }
 
@@ -143,7 +133,7 @@ public final class ActivityAboutUsBinding implements ViewBinding {
         break missingId;
       }
 
-      return new ActivityAboutUsBinding((ConstraintLayout) rootView, Go, Person, imageView,
+      return new ActivityAboutUsBinding((ConstraintLayout) rootView, buttonBack2, imageView,
           imageView2, linearLayout, linearLayout8, miAbout, miAboutPage, textView2);
     }
     String missingId = rootView.getResources().getResourceName(id);
