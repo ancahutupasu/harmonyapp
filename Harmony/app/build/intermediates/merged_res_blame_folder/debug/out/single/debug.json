@@ -1,218 +1,222 @@
 [
     {
-        "merged": "com.example.harmony.app-merged_res-40:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.harmony.app-main-42:/mipmap-xxxhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\ravne\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-37:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ravne\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-39:\\mipmap-xxxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.example.harmony.app-merged_res-40:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.harmony.app-main-42:/mipmap-xxhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\ravne\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-37:\\layout_activity_main_page.xml.flat",
+        "source": "C:\\Users\\ravne\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-39:\\layout\\activity_main_page.xml"
     },
     {
-        "merged": "com.example.harmony.app-merged_res-40:/layout_activity_package1.xml.flat",
-        "source": "com.example.harmony.app-main-42:/layout/activity_package1.xml"
+        "merged": "C:\\Users\\ravne\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-37:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ravne\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-39:\\mipmap-xxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.example.harmony.app-merged_res-40:/mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "com.example.harmony.app-main-42:/mipmap-xxxhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\ravne\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-37:\\layout_activity_package2.xml.flat",
+        "source": "C:\\Users\\ravne\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-39:\\layout\\activity_package2.xml"
     },
     {
-        "merged": "com.example.harmony.app-merged_res-40:/layout_fragment_fragment_account.xml.flat",
-        "source": "com.example.harmony.app-main-42:/layout/fragment_fragment_account.xml"
+        "merged": "C:\\Users\\ravne\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-37:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ravne\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-39:\\mipmap-hdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.example.harmony.app-merged_res-40:/drawable-hdpi_imag2.png.flat",
-        "source": "com.example.harmony.app-main-42:/drawable-hdpi/imag2.png"
+        "merged": "C:\\Users\\ravne\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-37:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ravne\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-39:\\mipmap-mdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.harmony.app-merged_res-40:/layout_account.xml.flat",
-        "source": "com.example.harmony.app-main-42:/layout/account.xml"
+        "merged": "C:\\Users\\ravne\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-37:\\drawable-mdpi_imag2.png.flat",
+        "source": "C:\\Users\\ravne\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-39:\\drawable-mdpi\\imag2.png"
     },
     {
-        "merged": "com.example.harmony.app-merged_res-40:/mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "com.example.harmony.app-main-42:/mipmap-mdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\ravne\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-37:\\drawable-xhdpi_ic_action_name.png.flat",
+        "source": "C:\\Users\\ravne\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-39:\\drawable-xhdpi\\ic_action_name.png"
     },
     {
-        "merged": "com.example.harmony.app-merged_res-40:/layout_activity_main.xml.flat",
-        "source": "com.example.harmony.app-main-42:/layout/activity_main.xml"
+        "merged": "com.example.harmony.app-merged_res-37:/layout_fragment_subscriptions.xml.flat",
+        "source": "com.example.harmony.app-main-39:/layout/fragment_subscriptions.xml"
     },
     {
-        "merged": "com.example.harmony.app-merged_res-40:/layout_item.xml.flat",
-        "source": "com.example.harmony.app-main-42:/layout/item.xml"
+        "merged": "C:\\Users\\ravne\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-37:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\ravne\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-39:\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
-        "merged": "com.example.harmony.app-merged_res-40:/drawable-xxxhdpi_imag2.png.flat",
-        "source": "com.example.harmony.app-main-42:/drawable-xxxhdpi/imag2.png"
+        "merged": "C:\\Users\\ravne\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-37:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\ravne\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-39:\\drawable\\ic_launcher_background.xml"
     },
     {
-        "merged": "com.example.harmony.app-merged_res-40:/layout_activity_package4.xml.flat",
-        "source": "com.example.harmony.app-main-42:/layout/activity_package4.xml"
+        "merged": "C:\\Users\\ravne\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-37:\\layout_activity_my_account.xml.flat",
+        "source": "C:\\Users\\ravne\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-39:\\layout\\activity_my_account.xml"
     },
     {
-        "merged": "com.example.harmony.app-merged_res-40:/layout_activity_main_page.xml.flat",
-        "source": "com.example.harmony.app-main-42:/layout/activity_main_page.xml"
+        "merged": "com.example.harmony.app-merged_res-37:/layout_fragment_bookings.xml.flat",
+        "source": "com.example.harmony.app-main-39:/layout/fragment_bookings.xml"
     },
     {
-        "merged": "com.example.harmony.app-merged_res-40:/mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.harmony.app-main-42:/mipmap-hdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\ravne\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-37:\\layout_activity_services.xml.flat",
+        "source": "C:\\Users\\ravne\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-39:\\layout\\activity_services.xml"
     },
     {
-        "merged": "com.example.harmony.app-merged_res-40:/layout_activity_package2.xml.flat",
-        "source": "com.example.harmony.app-main-42:/layout/activity_package2.xml"
+        "merged": "C:\\Users\\ravne\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-37:\\layout_fragment_bookings.xml.flat",
+        "source": "C:\\Users\\ravne\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-39:\\layout\\fragment_bookings.xml"
     },
     {
-        "merged": "com.example.harmony.app-merged_res-40:/drawable-xxxhdpi_ic_action_name.png.flat",
-        "source": "com.example.harmony.app-main-42:/drawable-xxxhdpi/ic_action_name.png"
+        "merged": "C:\\Users\\ravne\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-37:\\layout_activity_before_checkout.xml.flat",
+        "source": "C:\\Users\\ravne\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-39:\\layout\\activity_before_checkout.xml"
     },
     {
-        "merged": "com.example.harmony.app-merged_res-40:/layout_activity_my_account.xml.flat",
-        "source": "com.example.harmony.app-main-42:/layout/activity_my_account.xml"
+        "merged": "C:\\Users\\ravne\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-37:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\ravne\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-39:\\layout\\activity_login.xml"
     },
     {
-        "merged": "com.example.harmony.app-merged_res-40:/menu_navigation_menu.xml.flat",
-        "source": "com.example.harmony.app-main-42:/menu/navigation_menu.xml"
+        "merged": "C:\\Users\\ravne\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-37:\\layout_fragment_subscriptions.xml.flat",
+        "source": "C:\\Users\\ravne\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-39:\\layout\\fragment_subscriptions.xml"
     },
     {
-        "merged": "com.example.harmony.app-merged_res-40:/layout_personinformation.xml.flat",
-        "source": "com.example.harmony.app-main-42:/layout/personinformation.xml"
+        "merged": "C:\\Users\\ravne\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-37:\\layout_review_list_item.xml.flat",
+        "source": "C:\\Users\\ravne\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-39:\\layout\\review_list_item.xml"
     },
     {
-        "merged": "com.example.harmony.app-merged_res-40:/drawable-xxhdpi_imag2.png.flat",
-        "source": "com.example.harmony.app-main-42:/drawable-xxhdpi/imag2.png"
+        "merged": "C:\\Users\\ravne\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-37:\\layout_personinformation.xml.flat",
+        "source": "C:\\Users\\ravne\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-39:\\layout\\personinformation.xml"
     },
     {
-        "merged": "com.example.harmony.app-merged_res-40:/drawable-xxhdpi_ic_action_name.png.flat",
-        "source": "com.example.harmony.app-main-42:/drawable-xxhdpi/ic_action_name.png"
+        "merged": "C:\\Users\\ravne\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-37:\\drawable-xxxhdpi_imag2.png.flat",
+        "source": "C:\\Users\\ravne\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-39:\\drawable-xxxhdpi\\imag2.png"
     },
     {
-        "merged": "com.example.harmony.app-merged_res-40:/mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.harmony.app-main-42:/mipmap-xhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\ravne\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-37:\\layout_fragment_add_reviews.xml.flat",
+        "source": "C:\\Users\\ravne\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-39:\\layout\\fragment_add_reviews.xml"
     },
     {
-        "merged": "com.example.harmony.app-merged_res-40:/layout_activity_person_information.xml.flat",
-        "source": "com.example.harmony.app-main-42:/layout/activity_person_information.xml"
+        "merged": "C:\\Users\\ravne\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-37:\\layout_fragment_reviews.xml.flat",
+        "source": "C:\\Users\\ravne\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-39:\\layout\\fragment_reviews.xml"
     },
     {
-        "merged": "com.example.harmony.app-merged_res-40:/layout_fragment_my_cart.xml.flat",
-        "source": "com.example.harmony.app-main-42:/layout/fragment_my_cart.xml"
+        "merged": "C:\\Users\\ravne\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-37:\\drawable-xxhdpi_imag2.png.flat",
+        "source": "C:\\Users\\ravne\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-39:\\drawable-xxhdpi\\imag2.png"
     },
     {
-        "merged": "com.example.harmony.app-merged_res-40:/drawable-xxhdpi_round_border.xml.flat",
-        "source": "com.example.harmony.app-main-42:/drawable-xxhdpi/round_border.xml"
+        "merged": "C:\\Users\\ravne\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-37:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ravne\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-39:\\mipmap-mdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.example.harmony.app-merged_res-40:/layout_fragment_add_reviews.xml.flat",
-        "source": "com.example.harmony.app-main-42:/layout/fragment_add_reviews.xml"
+        "merged": "C:\\Users\\ravne\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-37:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ravne\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-39:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.harmony.app-merged_res-40:/layout_fragment_bookings.xml.flat",
-        "source": "com.example.harmony.app-main-42:/layout/fragment_bookings.xml"
+        "merged": "C:\\Users\\ravne\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-37:\\drawable-hdpi_imag2.png.flat",
+        "source": "C:\\Users\\ravne\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-39:\\drawable-hdpi\\imag2.png"
     },
     {
-        "merged": "com.example.harmony.app-merged_res-40:/layout_activity_about_us.xml.flat",
-        "source": "com.example.harmony.app-main-42:/layout/activity_about_us.xml"
+        "merged": "C:\\Users\\ravne\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-37:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\ravne\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-39:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
-        "merged": "com.example.harmony.app-merged_res-40:/layout_fragment_login.xml.flat",
-        "source": "com.example.harmony.app-main-42:/layout/fragment_login.xml"
+        "merged": "C:\\Users\\ravne\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-37:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ravne\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-39:\\mipmap-xhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.example.harmony.app-merged_res-40:/drawable-hdpi_ic_action_name.png.flat",
-        "source": "com.example.harmony.app-main-42:/drawable-hdpi/ic_action_name.png"
+        "merged": "C:\\Users\\ravne\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-37:\\layout_activity_person_information.xml.flat",
+        "source": "C:\\Users\\ravne\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-39:\\layout\\activity_person_information.xml"
     },
     {
-        "merged": "com.example.harmony.app-merged_res-40:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
-        "source": "com.example.harmony.app-pngs-35:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+        "merged": "C:\\Users\\ravne\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-37:\\layout_account.xml.flat",
+        "source": "C:\\Users\\ravne\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-39:\\layout\\account.xml"
     },
     {
-        "merged": "com.example.harmony.app-merged_res-40:/layout_activity_forget_password_confirm.xml.flat",
-        "source": "com.example.harmony.app-main-42:/layout/activity_forget_password_confirm.xml"
+        "merged": "C:\\Users\\ravne\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-37:\\layout_activity_sign_up.xml.flat",
+        "source": "C:\\Users\\ravne\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-39:\\layout\\activity_sign_up.xml"
     },
     {
-        "merged": "com.example.harmony.app-merged_res-40:/layout_review_list_item.xml.flat",
-        "source": "com.example.harmony.app-main-42:/layout/review_list_item.xml"
+        "merged": "C:\\Users\\ravne\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-37:\\menu_navigation_menu.xml.flat",
+        "source": "C:\\Users\\ravne\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-39:\\menu\\navigation_menu.xml"
     },
     {
-        "merged": "com.example.harmony.app-merged_res-40:/drawable-xhdpi_imag2.png.flat",
-        "source": "com.example.harmony.app-main-42:/drawable-xhdpi/imag2.png"
+        "merged": "C:\\Users\\ravne\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-37:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ravne\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-39:\\mipmap-hdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.harmony.app-merged_res-40:/layout_activity_services.xml.flat",
-        "source": "com.example.harmony.app-main-42:/layout/activity_services.xml"
+        "merged": "C:\\Users\\ravne\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-37:\\drawable-xhdpi_imag2.png.flat",
+        "source": "C:\\Users\\ravne\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-39:\\drawable-xhdpi\\imag2.png"
     },
     {
-        "merged": "com.example.harmony.app-merged_res-40:/mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "com.example.harmony.app-main-42:/mipmap-xhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\ravne\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-37:\\layout_activity_package3.xml.flat",
+        "source": "C:\\Users\\ravne\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-39:\\layout\\activity_package3.xml"
     },
     {
-        "merged": "com.example.harmony.app-merged_res-40:/layout_activity_package3.xml.flat",
-        "source": "com.example.harmony.app-main-42:/layout/activity_package3.xml"
+        "merged": "C:\\Users\\ravne\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-37:\\layout_activity_about_us.xml.flat",
+        "source": "C:\\Users\\ravne\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-39:\\layout\\activity_about_us.xml"
     },
     {
-        "merged": "com.example.harmony.app-merged_res-40:/layout_fragment_reviews.xml.flat",
-        "source": "com.example.harmony.app-main-42:/layout/fragment_reviews.xml"
+        "merged": "com.example.harmony.app-merged_res-37:/layout_mypoints.xml.flat",
+        "source": "com.example.harmony.app-main-39:/layout/mypoints.xml"
     },
     {
-        "merged": "com.example.harmony.app-merged_res-40:/drawable_ic_launcher_background.xml.flat",
-        "source": "com.example.harmony.app-main-42:/drawable/ic_launcher_background.xml"
+        "merged": "C:\\Users\\ravne\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-37:\\drawable-xxxhdpi_ic_action_name.png.flat",
+        "source": "C:\\Users\\ravne\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-39:\\drawable-xxxhdpi\\ic_action_name.png"
     },
     {
-        "merged": "com.example.harmony.app-merged_res-40:/mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "com.example.harmony.app-main-42:/mipmap-anydpi-v26/ic_launcher.xml"
+        "merged": "C:\\Users\\ravne\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-37:\\drawable-xxhdpi_ic_action_name.png.flat",
+        "source": "C:\\Users\\ravne\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-39:\\drawable-xxhdpi\\ic_action_name.png"
     },
     {
-        "merged": "com.example.harmony.app-merged_res-40:/mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.harmony.app-main-42:/mipmap-mdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\ravne\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-37:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\ravne\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-pngs-32:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "com.example.harmony.app-merged_res-40:/drawable-mdpi_ic_action_name.png.flat",
-        "source": "com.example.harmony.app-main-42:/drawable-mdpi/ic_action_name.png"
+        "merged": "C:\\Users\\ravne\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-37:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ravne\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-39:\\mipmap-xhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.harmony.app-merged_res-40:/drawable-xxhdpi_google.png.flat",
-        "source": "com.example.harmony.app-main-42:/drawable-xxhdpi/google.png"
+        "merged": "C:\\Users\\ravne\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-37:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\ravne\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-39:\\layout\\activity_main.xml"
     },
     {
-        "merged": "com.example.harmony.app-merged_res-40:/drawable-xxhdpi_ic_lock.xml.flat",
-        "source": "com.example.harmony.app-main-42:/drawable-xxhdpi/ic_lock.xml"
+        "merged": "C:\\Users\\ravne\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-37:\\layout_fragment_my_cart.xml.flat",
+        "source": "C:\\Users\\ravne\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-39:\\layout\\fragment_my_cart.xml"
     },
     {
-        "merged": "com.example.harmony.app-merged_res-40:/drawable-xhdpi_ic_action_name.png.flat",
-        "source": "com.example.harmony.app-main-42:/drawable-xhdpi/ic_action_name.png"
+        "merged": "C:\\Users\\ravne\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-37:\\drawable-mdpi_ic_action_name.png.flat",
+        "source": "C:\\Users\\ravne\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-39:\\drawable-mdpi\\ic_action_name.png"
     },
     {
-        "merged": "com.example.harmony.app-merged_res-40:/mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "com.example.harmony.app-main-42:/mipmap-hdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\ravne\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-37:\\layout_fragment_my_points.xml.flat",
+        "source": "C:\\Users\\ravne\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-39:\\layout\\fragment_my_points.xml"
     },
     {
-        "merged": "com.example.harmony.app-merged_res-40:/layout_activity_before_checkout.xml.flat",
-        "source": "com.example.harmony.app-main-42:/layout/activity_before_checkout.xml"
+        "merged": "C:\\Users\\ravne\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-37:\\drawable-hdpi_ic_action_name.png.flat",
+        "source": "C:\\Users\\ravne\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-39:\\drawable-hdpi\\ic_action_name.png"
     },
     {
-        "merged": "com.example.harmony.app-merged_res-40:/layout_fragment_subscriptions.xml.flat",
-        "source": "com.example.harmony.app-main-42:/layout/fragment_subscriptions.xml"
+        "merged": "C:\\Users\\ravne\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-37:\\layout_fragment_person_information.xml.flat",
+        "source": "C:\\Users\\ravne\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-39:\\layout\\fragment_person_information.xml"
     },
     {
-        "merged": "com.example.harmony.app-merged_res-40:/layout_fragment_person_information.xml.flat",
-        "source": "com.example.harmony.app-main-42:/layout/fragment_person_information.xml"
+        "merged": "C:\\Users\\ravne\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-37:\\layout_item.xml.flat",
+        "source": "C:\\Users\\ravne\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-39:\\layout\\item.xml"
     },
     {
-        "merged": "com.example.harmony.app-merged_res-40:/drawable-xxhdpi_ic_email.xml.flat",
-        "source": "com.example.harmony.app-main-42:/drawable-xxhdpi/ic_email.xml"
+        "merged": "C:\\Users\\ravne\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-37:\\layout_activity_package1.xml.flat",
+        "source": "C:\\Users\\ravne\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-39:\\layout\\activity_package1.xml"
     },
     {
-        "merged": "com.example.harmony.app-merged_res-40:/mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "com.example.harmony.app-main-42:/mipmap-xxhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\ravne\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-37:\\layout_activity_package4.xml.flat",
+        "source": "C:\\Users\\ravne\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-39:\\layout\\activity_package4.xml"
     },
     {
-        "merged": "com.example.harmony.app-merged_res-40:/drawable-mdpi_imag2.png.flat",
-        "source": "com.example.harmony.app-main-42:/drawable-mdpi/imag2.png"
+        "merged": "C:\\Users\\ravne\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-37:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ravne\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-39:\\mipmap-xxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.harmony.app-merged_res-40:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "com.example.harmony.app-main-42:/mipmap-anydpi-v26/ic_launcher_round.xml"
+        "merged": "C:\\Users\\ravne\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-37:\\layout_activity_forget_password_confirm.xml.flat",
+        "source": "C:\\Users\\ravne\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-39:\\layout\\activity_forget_password_confirm.xml"
     },
     {
-        "merged": "com.example.harmony.app-merged_res-40:/layout_fragment_my_points.xml.flat",
-        "source": "com.example.harmony.app-main-42:/layout/fragment_my_points.xml"
+        "merged": "C:\\Users\\ravne\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-37:\\layout_fragment_fragment_account.xml.flat",
+        "source": "C:\\Users\\ravne\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-39:\\layout\\fragment_fragment_account.xml"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-37:/layout_fragment_person_information.xml.flat",
+        "source": "com.example.harmony.app-main-39:/layout/fragment_person_information.xml"
     }
 ]
