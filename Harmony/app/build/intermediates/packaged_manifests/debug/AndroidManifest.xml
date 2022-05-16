@@ -40,9 +40,6 @@
             android:name="com.example.harmony.Main"
             android:exported="false" />
         <activity
-            android:name="com.example.harmony.MainActivity0"
-            android:exported="false" />
-        <activity
             android:name="com.example.harmony.MainPageActivity"
             android:exported="true" >
             <intent-filter>

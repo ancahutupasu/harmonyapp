@@ -4,6 +4,7 @@ package com.example.harmony.databinding;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.Button;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.drawerlayout.widget.DrawerLayout;
@@ -20,14 +21,18 @@ public final class ActivityMainPageBinding implements ViewBinding {
   private final DrawerLayout rootView;
 
   @NonNull
+  public final Button button2;
+
+  @NonNull
   public final DrawerLayout myDrawerLayout;
 
   @NonNull
   public final ViewPager viewPagerMain;
 
-  private ActivityMainPageBinding(@NonNull DrawerLayout rootView,
+  private ActivityMainPageBinding(@NonNull DrawerLayout rootView, @NonNull Button button2,
       @NonNull DrawerLayout myDrawerLayout, @NonNull ViewPager viewPagerMain) {
     this.rootView = rootView;
+    this.button2 = button2;
     this.myDrawerLayout = myDrawerLayout;
     this.viewPagerMain = viewPagerMain;
   }
@@ -59,6 +64,12 @@ public final class ActivityMainPageBinding implements ViewBinding {
     // This is done to optimize the compiled bytecode for size and performance.
     int id;
     missingId: {
+      id = R.id.button2;
+      Button button2 = ViewBindings.findChildViewById(rootView, id);
+      if (button2 == null) {
+        break missingId;
+      }
+
       DrawerLayout myDrawerLayout = (DrawerLayout) rootView;
 
       id = R.id.viewPagerMain;
@@ -67,7 +78,8 @@ public final class ActivityMainPageBinding implements ViewBinding {
         break missingId;
       }
 
-      return new ActivityMainPageBinding((DrawerLayout) rootView, myDrawerLayout, viewPagerMain);
+      return new ActivityMainPageBinding((DrawerLayout) rootView, button2, myDrawerLayout,
+          viewPagerMain);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));
