@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "C:\\Users\\ravne\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-mergeDebugResources-39:\\layout\\activity_my_account.xml",
+        "source": "C:\\Users\\ravne\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-42:\\layout\\activity_my_account.xml"
+    },
+    {
+        "merged": "C:\\Users\\ravne\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-mergeDebugResources-39:\\layout\\fragment_bookings.xml",
+        "source": "C:\\Users\\ravne\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-42:\\layout\\fragment_bookings.xml"
+    },
+    {
+        "merged": "C:\\Users\\ravne\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-mergeDebugResources-39:\\layout\\activity_package3.xml",
+        "source": "C:\\Users\\ravne\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-42:\\layout\\activity_package3.xml"
+    },
+    {
+        "merged": "C:\\Users\\ravne\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-mergeDebugResources-39:\\layout\\fragment_add_reviews.xml",
+        "source": "C:\\Users\\ravne\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-42:\\layout\\fragment_add_reviews.xml"
+    },
+    {
+        "merged": "C:\\Users\\ravne\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-mergeDebugResources-39:\\layout\\main.xml",
+        "source": "C:\\Users\\ravne\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-42:\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ravne\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-mergeDebugResources-39:\\layout\\activity_about_us.xml",
+        "source": "C:\\Users\\ravne\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-42:\\layout\\activity_about_us.xml"
+    },
+    {
+        "merged": "C:\\Users\\ravne\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-mergeDebugResources-39:\\layout\\fragment_my_cart.xml",
+        "source": "C:\\Users\\ravne\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-42:\\layout\\fragment_my_cart.xml"
+    },
+    {
+        "merged": "C:\\Users\\ravne\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-mergeDebugResources-39:\\layout\\item.xml",
+        "source": "C:\\Users\\ravne\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-42:\\layout\\item.xml"
+    },
+    {
+        "merged": "C:\\Users\\ravne\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-mergeDebugResources-39:\\layout\\activity_before_checkout.xml",
+        "source": "C:\\Users\\ravne\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-42:\\layout\\activity_before_checkout.xml"
+    },
+    {
+        "merged": "C:\\Users\\ravne\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-mergeDebugResources-39:\\layout\\fragment_login.xml",
+        "source": "C:\\Users\\ravne\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-42:\\layout\\fragment_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\ravne\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-mergeDebugResources-39:\\layout\\fragment_reviews.xml",
+        "source": "C:\\Users\\ravne\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-42:\\layout\\fragment_reviews.xml"
+    },
+    {
+        "merged": "C:\\Users\\ravne\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-mergeDebugResources-39:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\ravne\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-42:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.example.harmony.app-mergeDebugResources-39:/layout/register.xml",
+        "source": "com.example.harmony.app-main-42:/layout/register.xml"
+    },
+    {
+        "merged": "C:\\Users\\ravne\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-mergeDebugResources-39:\\layout\\review_list_item.xml",
+        "source": "C:\\Users\\ravne\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-42:\\layout\\review_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\ravne\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-mergeDebugResources-39:\\layout\\fragment_subscriptions.xml",
+        "source": "C:\\Users\\ravne\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-42:\\layout\\fragment_subscriptions.xml"
+    },
+    {
+        "merged": "C:\\Users\\ravne\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-mergeDebugResources-39:\\layout\\activity_person_information.xml",
+        "source": "C:\\Users\\ravne\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-42:\\layout\\activity_person_information.xml"
+    },
+    {
+        "merged": "C:\\Users\\ravne\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-mergeDebugResources-39:\\layout\\account.xml",
+        "source": "C:\\Users\\ravne\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-42:\\layout\\account.xml"
+    },
+    {
+        "merged": "C:\\Users\\ravne\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-mergeDebugResources-39:\\layout\\mypoints.xml",
+        "source": "C:\\Users\\ravne\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-42:\\layout\\mypoints.xml"
+    },
+    {
+        "merged": "C:\\Users\\ravne\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-mergeDebugResources-39:\\layout\\activity_package4.xml",
+        "source": "C:\\Users\\ravne\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-42:\\layout\\activity_package4.xml"
+    },
+    {
+        "merged": "C:\\Users\\ravne\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-mergeDebugResources-39:\\layout\\personinformation.xml",
+        "source": "C:\\Users\\ravne\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-42:\\layout\\personinformation.xml"
+    },
+    {
+        "merged": "C:\\Users\\ravne\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-mergeDebugResources-39:\\layout\\activity_package1.xml",
+        "source": "C:\\Users\\ravne\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-42:\\layout\\activity_package1.xml"
+    },
+    {
+        "merged": "C:\\Users\\ravne\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-mergeDebugResources-39:\\layout\\activity_package2.xml",
+        "source": "C:\\Users\\ravne\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-42:\\layout\\activity_package2.xml"
+    },
+    {
+        "merged": "com.example.harmony.app-mergeDebugResources-39:/layout/fragment_register.xml",
+        "source": "com.example.harmony.app-main-42:/layout/fragment_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\ravne\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-mergeDebugResources-39:\\layout\\activity_services.xml",
+        "source": "C:\\Users\\ravne\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-42:\\layout\\activity_services.xml"
+    },
+    {
+        "merged": "C:\\Users\\ravne\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-mergeDebugResources-39:\\layout\\activity_main_page.xml",
+        "source": "C:\\Users\\ravne\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-42:\\layout\\activity_main_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\ravne\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-mergeDebugResources-39:\\layout\\activity_forget_password_confirm.xml",
+        "source": "C:\\Users\\ravne\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-42:\\layout\\activity_forget_password_confirm.xml"
+    }
+]
