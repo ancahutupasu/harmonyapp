@@ -68,6 +68,9 @@ public final class PersoninformationBinding implements ViewBinding {
   public final LinearLayout linearLayout25;
 
   @NonNull
+  public final LinearLayout linearLayout26;
+
+  @NonNull
   public final TextView textView10;
 
   @NonNull
@@ -81,7 +84,8 @@ public final class PersoninformationBinding implements ViewBinding {
       @NonNull LinearLayout linearLayout20, @NonNull LinearLayout linearLayout21,
       @NonNull LinearLayout linearLayout22, @NonNull LinearLayout linearLayout23,
       @NonNull LinearLayout linearLayout24, @NonNull LinearLayout linearLayout25,
-      @NonNull TextView textView10, @NonNull TextView textView9) {
+      @NonNull LinearLayout linearLayout26, @NonNull TextView textView10,
+      @NonNull TextView textView9) {
     this.rootView = rootView;
     this.Back = Back;
     this.Done = Done;
@@ -98,6 +102,7 @@ public final class PersoninformationBinding implements ViewBinding {
     this.linearLayout23 = linearLayout23;
     this.linearLayout24 = linearLayout24;
     this.linearLayout25 = linearLayout25;
+    this.linearLayout26 = linearLayout26;
     this.textView10 = textView10;
     this.textView9 = textView9;
   }
@@ -219,6 +224,12 @@ public final class PersoninformationBinding implements ViewBinding {
         break missingId;
       }
 
+      id = R.id.linearLayout26;
+      LinearLayout linearLayout26 = ViewBindings.findChildViewById(rootView, id);
+      if (linearLayout26 == null) {
+        break missingId;
+      }
+
       id = R.id.textView10;
       TextView textView10 = ViewBindings.findChildViewById(rootView, id);
       if (textView10 == null) {
@@ -235,7 +246,7 @@ public final class PersoninformationBinding implements ViewBinding {
           editTextTextEmailAddress4, editTextTextPersonName, editTextTextPersonName2,
           editTextTextPersonName3, editTextTextPersonName4, editTextTextPersonName5, linearLayout20,
           linearLayout21, linearLayout22, linearLayout23, linearLayout24, linearLayout25,
-          textView10, textView9);
+          linearLayout26, textView10, textView9);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));
