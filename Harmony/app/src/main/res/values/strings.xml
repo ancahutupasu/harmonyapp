@@ -38,4 +38,9 @@
     <string name="invalid_password">Password must be >5 characters</string>
     <string name="login_failed">"Login failed"</string>
     <string name="forgot_password">Forgot Password?</string>
+    <string name="text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</string>
+    <string name="username">Username</string>
+    <string name="life_style">Lifestyle</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="existing_user">Already Have an Account?</string>
 </resources>

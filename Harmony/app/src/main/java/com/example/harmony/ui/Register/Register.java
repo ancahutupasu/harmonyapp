@@ -1,8 +1,7 @@
-package com.example.harmony.ui.Register;
+package com.example.harmony.ui.register;
 
 import androidx.fragment.app.FragmentManager;
 import androidx.fragment.app.FragmentTransaction;
-import androidx.lifecycle.Observer;
 import androidx.lifecycle.ViewModelProvider;
 
 import android.os.Bundle;
@@ -17,8 +16,6 @@ import android.view.ViewGroup;
 import android.widget.Button;
 
 import com.example.harmony.R;
-import com.example.harmony.ui.add_review.AddReviewsFragment;
-import com.example.harmony.ui.reviews.ReviewsViewModel;
 
 public class Register extends Fragment {
 
