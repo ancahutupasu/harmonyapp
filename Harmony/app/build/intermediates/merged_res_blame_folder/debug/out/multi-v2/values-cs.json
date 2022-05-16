@@ -55,24 +55,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\alina\\.gradle\\caches\\transforms-3\\f4edb30f12a4233ffb8ce3032d6469ff\\transformed\\play-services-basement-18.0.0\\res\\values-cs\\values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "195",
-                        "endColumns": "138",
-                        "endOffsets": "333"
-                    },
-                    "to": {
-                        "startLines": "47",
-                        "startColumns": "4",
-                        "startOffsets": "4437",
-                        "endColumns": "142",
-                        "endOffsets": "4575"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\alina\\.gradle\\caches\\transforms-3\\0b61725ab4c930b151c4488a893666fd\\transformed\\material-1.5.0\\res\\values-cs\\values-cs.xml",
+                    "source": "C:\\Users\\alina\\.gradle\\caches\\transforms-3\\a786155aae9fe59cbfac8f9c5c4a8d5f\\transformed\\material-1.7.0-alpha01\\res\\values-cs\\values-cs.xml",
                     "from": {
                         "startLines": "2,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -88,6 +71,23 @@
                         "endLines": "7,35,36,37,38,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,98,99,100,101,102,103,104,105,106,107,108,109,110,111,112,113,114,115,116,117,118,119,120,121,122,123,124,125,126,127,128,129,130,133",
                         "endColumns": "12,76,91,125,80,64,98,75,60,88,66,53,67,59,53,116,59,61,53,71,121,83,91,106,77,81,87,66,65,71,76,83,71,76,73,70,87,70,92,94,73,73,95,51,66,85,87,61,63,62,109,95,98,97,78",
                         "endOffsets": "368,3139,3231,3357,3438,5755,5854,5930,5991,6080,6147,6201,6269,6329,6383,6500,6560,6622,6676,6748,6870,9468,9560,9667,9745,9827,9915,9982,10048,10120,10197,10281,10353,10430,10504,10575,10663,10734,10827,10922,10996,11070,11166,11218,11285,11371,11459,11521,11585,11648,11758,11854,11953,12051,12365"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\alina\\.gradle\\caches\\transforms-3\\f4edb30f12a4233ffb8ce3032d6469ff\\transformed\\play-services-basement-18.0.0\\res\\values-cs\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "195",
+                        "endColumns": "138",
+                        "endOffsets": "333"
+                    },
+                    "to": {
+                        "startLines": "47",
+                        "startColumns": "4",
+                        "startOffsets": "4437",
+                        "endColumns": "142",
+                        "endOffsets": "4575"
                     }
                 },
                 {

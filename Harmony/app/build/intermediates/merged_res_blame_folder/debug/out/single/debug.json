@@ -1,574 +1,518 @@
 [
     {
-        "merged": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-42:\\mipmap-hdpi_image5_round.png.flat",
-        "source": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-44:\\mipmap-hdpi\\image5_round.png"
+        "merged": "com.example.harmony.app-merged_res-42:/mipmap-xhdpi_image6.png.flat",
+        "source": "com.example.harmony.app-main-44:/mipmap-xhdpi/image6.png"
     },
     {
-        "merged": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-42:\\mipmap-xxhdpi_image6_foreground.png.flat",
-        "source": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-44:\\mipmap-xxhdpi\\image6_foreground.png"
+        "merged": "com.example.harmony.app-merged_res-42:/drawable-mdpi_imag2.png.flat",
+        "source": "com.example.harmony.app-main-44:/drawable-mdpi/imag2.png"
     },
     {
-        "merged": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-42:\\mipmap-xxxhdpi_opening_foreground.png.flat",
-        "source": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-44:\\mipmap-xxxhdpi\\opening_foreground.png"
+        "merged": "com.example.harmony.app-merged_res-42:/layout_content_main.xml.flat",
+        "source": "com.example.harmony.app-main-44:/layout/content_main.xml"
     },
     {
-        "merged": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-42:\\mipmap-hdpi_image4.png.flat",
-        "source": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-44:\\mipmap-hdpi\\image4.png"
+        "merged": "com.example.harmony.app-merged_res-42:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.harmony.app-main-44:/mipmap-anydpi-v26/ic_launcher_round.xml"
     },
     {
-        "merged": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-42:\\mipmap-xxhdpi_image5.png.flat",
-        "source": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-44:\\mipmap-xxhdpi\\image5.png"
+        "merged": "com.example.harmony.app-merged_res-42:/mipmap-mdpi_image8_foreground.png.flat",
+        "source": "com.example.harmony.app-main-44:/mipmap-mdpi/image8_foreground.png"
     },
     {
-        "merged": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-42:\\drawable_image4_background.xml.flat",
-        "source": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-44:\\drawable\\image4_background.xml"
+        "merged": "com.example.harmony.app-merged_res-42:/mipmap-xxhdpi_image7_foreground.png.flat",
+        "source": "com.example.harmony.app-main-44:/mipmap-xxhdpi/image7_foreground.png"
     },
     {
-        "merged": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-42:\\drawable-xxhdpi_ic_action_name.png.flat",
-        "source": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-44:\\drawable-xxhdpi\\ic_action_name.png"
+        "merged": "com.example.harmony.app-merged_res-42:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.harmony.app-main-44:/mipmap-xxhdpi/ic_launcher_foreground.png"
     },
     {
-        "merged": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-42:\\mipmap-hdpi_image8_round.png.flat",
-        "source": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-44:\\mipmap-hdpi\\image8_round.png"
+        "merged": "com.example.harmony.app-merged_res-42:/drawable_image7_background.xml.flat",
+        "source": "com.example.harmony.app-main-44:/drawable/image7_background.xml"
     },
     {
-        "merged": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-42:\\mipmap-hdpi_opening_round.png.flat",
-        "source": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-44:\\mipmap-hdpi\\opening_round.png"
+        "merged": "com.example.harmony.app-merged_res-42:/mipmap-xxxhdpi_image8.png.flat",
+        "source": "com.example.harmony.app-main-44:/mipmap-xxxhdpi/image8.png"
     },
     {
-        "merged": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-42:\\mipmap-hdpi_image4_foreground.png.flat",
-        "source": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-44:\\mipmap-hdpi\\image4_foreground.png"
+        "merged": "com.example.harmony.app-merged_res-42:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.harmony.app-main-44:/drawable/ic_launcher_background.xml"
     },
     {
-        "merged": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-42:\\drawable-xhdpi_ic_action_name.png.flat",
-        "source": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-44:\\drawable-xhdpi\\ic_action_name.png"
+        "merged": "com.example.harmony.app-merged_res-42:/mipmap-anydpi-v26_image5.xml.flat",
+        "source": "com.example.harmony.app-main-44:/mipmap-anydpi-v26/image5.xml"
     },
     {
-        "merged": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-42:\\layout_activity_package3.xml.flat",
-        "source": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-44:\\layout\\activity_package3.xml"
+        "merged": "com.example.harmony.app-merged_res-42:/mipmap-xxxhdpi_image8_foreground.png.flat",
+        "source": "com.example.harmony.app-main-44:/mipmap-xxxhdpi/image8_foreground.png"
     },
     {
-        "merged": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-42:\\mipmap-xhdpi_image6_foreground.png.flat",
-        "source": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-44:\\mipmap-xhdpi\\image6_foreground.png"
+        "merged": "com.example.harmony.app-merged_res-42:/mipmap-xxhdpi_image6_round.png.flat",
+        "source": "com.example.harmony.app-main-44:/mipmap-xxhdpi/image6_round.png"
     },
     {
-        "merged": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-42:\\mipmap-xxhdpi_image5_round.png.flat",
-        "source": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-44:\\mipmap-xxhdpi\\image5_round.png"
+        "merged": "com.example.harmony.app-merged_res-42:/mipmap-mdpi_opening_foreground.png.flat",
+        "source": "com.example.harmony.app-main-44:/mipmap-mdpi/opening_foreground.png"
     },
     {
-        "merged": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-42:\\mipmap-xxxhdpi_image5.png.flat",
-        "source": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-44:\\mipmap-xxxhdpi\\image5.png"
+        "merged": "com.example.harmony.app-merged_res-42:/mipmap-hdpi_image7_round.png.flat",
+        "source": "com.example.harmony.app-main-44:/mipmap-hdpi/image7_round.png"
     },
     {
-        "merged": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-42:\\mipmap-anydpi-v26_image7_round.xml.flat",
-        "source": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-44:\\mipmap-anydpi-v26\\image7_round.xml"
+        "merged": "com.example.harmony.app-merged_res-42:/mipmap-anydpi-v26_image5_round.xml.flat",
+        "source": "com.example.harmony.app-main-44:/mipmap-anydpi-v26/image5_round.xml"
     },
     {
-        "merged": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-42:\\mipmap-mdpi_image8.png.flat",
-        "source": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-44:\\mipmap-mdpi\\image8.png"
+        "merged": "com.example.harmony.app-merged_res-42:/mipmap-xhdpi_image7_round.png.flat",
+        "source": "com.example.harmony.app-main-44:/mipmap-xhdpi/image7_round.png"
     },
     {
-        "merged": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-42:\\mipmap-anydpi-v26_image4_round.xml.flat",
-        "source": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-44:\\mipmap-anydpi-v26\\image4_round.xml"
+        "merged": "com.example.harmony.app-merged_res-42:/menu_main.xml.flat",
+        "source": "com.example.harmony.app-main-44:/menu/main.xml"
     },
     {
-        "merged": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-42:\\mipmap-xhdpi_image7_foreground.png.flat",
-        "source": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-44:\\mipmap-xhdpi\\image7_foreground.png"
+        "merged": "com.example.harmony.app-merged_res-42:/mipmap-xxhdpi_image3.png.flat",
+        "source": "com.example.harmony.app-main-44:/mipmap-xxhdpi/image3.png"
     },
     {
-        "merged": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-42:\\mipmap-mdpi_image7.png.flat",
-        "source": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-44:\\mipmap-mdpi\\image7.png"
+        "merged": "com.example.harmony.app-merged_res-42:/mipmap-anydpi-v26_image8_round.xml.flat",
+        "source": "com.example.harmony.app-main-44:/mipmap-anydpi-v26/image8_round.xml"
     },
     {
-        "merged": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-42:\\mipmap-xxhdpi_opening.png.flat",
-        "source": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-44:\\mipmap-xxhdpi\\opening.png"
+        "merged": "com.example.harmony.app-merged_res-42:/mipmap-xxhdpi_image8_foreground.png.flat",
+        "source": "com.example.harmony.app-main-44:/mipmap-xxhdpi/image8_foreground.png"
     },
     {
-        "merged": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-42:\\mipmap-xxhdpi_image8_round.png.flat",
-        "source": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-44:\\mipmap-xxhdpi\\image8_round.png"
+        "merged": "com.example.harmony.app-merged_res-42:/mipmap-xhdpi_image5.png.flat",
+        "source": "com.example.harmony.app-main-44:/mipmap-xhdpi/image5.png"
     },
     {
-        "merged": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-42:\\mipmap-anydpi-v26_opening.xml.flat",
-        "source": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-44:\\mipmap-anydpi-v26\\opening.xml"
+        "merged": "com.example.harmony.app-merged_res-42:/mipmap-mdpi_image8.png.flat",
+        "source": "com.example.harmony.app-main-44:/mipmap-mdpi/image8.png"
     },
     {
-        "merged": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-42:\\layout_item.xml.flat",
-        "source": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-44:\\layout\\item.xml"
+        "merged": "com.example.harmony.app-merged_res-42:/drawable-xxhdpi_imag2.png.flat",
+        "source": "com.example.harmony.app-main-44:/drawable-xxhdpi/imag2.png"
     },
     {
-        "merged": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-42:\\mipmap-xxxhdpi_image5_round.png.flat",
-        "source": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-44:\\mipmap-xxxhdpi\\image5_round.png"
+        "merged": "com.example.harmony.app-merged_res-42:/mipmap-xxxhdpi_image6_foreground.png.flat",
+        "source": "com.example.harmony.app-main-44:/mipmap-xxxhdpi/image6_foreground.png"
     },
     {
-        "merged": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-42:\\drawable-hdpi_ic_action_name.png.flat",
-        "source": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-44:\\drawable-hdpi\\ic_action_name.png"
+        "merged": "com.example.harmony.app-merged_res-42:/mipmap-xxxhdpi_image5_round.png.flat",
+        "source": "com.example.harmony.app-main-44:/mipmap-xxxhdpi/image5_round.png"
     },
     {
-        "merged": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-42:\\mipmap-xxxhdpi_image8_round.png.flat",
-        "source": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-44:\\mipmap-xxxhdpi\\image8_round.png"
+        "merged": "com.example.harmony.app-merged_res-42:/mipmap-xxxhdpi_image7.png.flat",
+        "source": "com.example.harmony.app-main-44:/mipmap-xxxhdpi/image7.png"
     },
     {
-        "merged": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-42:\\mipmap-hdpi_ic_launcher_foreground.png.flat",
-        "source": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-44:\\mipmap-hdpi\\ic_launcher_foreground.png"
+        "merged": "com.example.harmony.app-merged_res-42:/mipmap-xxhdpi_image5_foreground.png.flat",
+        "source": "com.example.harmony.app-main-44:/mipmap-xxhdpi/image5_foreground.png"
     },
     {
-        "merged": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-42:\\mipmap-xxhdpi_image7_foreground.png.flat",
-        "source": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-44:\\mipmap-xxhdpi\\image7_foreground.png"
+        "merged": "com.example.harmony.app-merged_res-42:/drawable_image8_background.xml.flat",
+        "source": "com.example.harmony.app-main-44:/drawable/image8_background.xml"
     },
     {
-        "merged": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-42:\\drawable-xxxhdpi_imag2.png.flat",
-        "source": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-44:\\drawable-xxxhdpi\\imag2.png"
+        "merged": "com.example.harmony.app-merged_res-42:/mipmap-xxxhdpi_image8_round.png.flat",
+        "source": "com.example.harmony.app-main-44:/mipmap-xxxhdpi/image8_round.png"
     },
     {
-        "merged": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-42:\\mipmap-mdpi_image5_round.png.flat",
-        "source": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-44:\\mipmap-mdpi\\image5_round.png"
+        "merged": "com.example.harmony.app-merged_res-42:/mipmap-mdpi_image7_round.png.flat",
+        "source": "com.example.harmony.app-main-44:/mipmap-mdpi/image7_round.png"
     },
     {
-        "merged": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-42:\\layout_activity_package4.xml.flat",
-        "source": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-44:\\layout\\activity_package4.xml"
+        "merged": "com.example.harmony.app-merged_res-42:/navigation_mobile_navigation.xml.flat",
+        "source": "com.example.harmony.app-main-44:/navigation/mobile_navigation.xml"
     },
     {
-        "merged": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-42:\\mipmap-xxhdpi_opening_foreground.png.flat",
-        "source": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-44:\\mipmap-xxhdpi\\opening_foreground.png"
+        "merged": "com.example.harmony.app-merged_res-42:/mipmap-xhdpi_opening_round.png.flat",
+        "source": "com.example.harmony.app-main-44:/mipmap-xhdpi/opening_round.png"
     },
     {
-        "merged": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-42:\\mipmap-mdpi_image8_round.png.flat",
-        "source": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-44:\\mipmap-mdpi\\image8_round.png"
+        "merged": "com.example.harmony.app-merged_res-42:/mipmap-anydpi-v26_image6.xml.flat",
+        "source": "com.example.harmony.app-main-44:/mipmap-anydpi-v26/image6.xml"
     },
     {
-        "merged": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-42:\\layout_fragment_about_us.xml.flat",
-        "source": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-44:\\layout\\fragment_about_us.xml"
+        "merged": "com.example.harmony.app-merged_res-42:/mipmap-hdpi_image5.png.flat",
+        "source": "com.example.harmony.app-main-44:/mipmap-hdpi/image5.png"
     },
     {
-        "merged": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-42:\\mipmap-xxxhdpi_image6.png.flat",
-        "source": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-44:\\mipmap-xxxhdpi\\image6.png"
+        "merged": "com.example.harmony.app-merged_res-42:/mipmap-xxxhdpi_image3.png.flat",
+        "source": "com.example.harmony.app-main-44:/mipmap-xxxhdpi/image3.png"
     },
     {
-        "merged": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-42:\\mipmap-hdpi_image5_foreground.png.flat",
-        "source": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-44:\\mipmap-hdpi\\image5_foreground.png"
+        "merged": "com.example.harmony.app-merged_res-42:/mipmap-hdpi_image7.png.flat",
+        "source": "com.example.harmony.app-main-44:/mipmap-hdpi/image7.png"
     },
     {
-        "merged": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-42:\\mipmap-xxhdpi_image4_foreground.png.flat",
-        "source": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-44:\\mipmap-xxhdpi\\image4_foreground.png"
+        "merged": "com.example.harmony.app-merged_res-42:/mipmap-xxxhdpi_image5_foreground.png.flat",
+        "source": "com.example.harmony.app-main-44:/mipmap-xxxhdpi/image5_foreground.png"
     },
     {
-        "merged": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-42:\\drawable-xhdpi_imag2.png.flat",
-        "source": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-44:\\drawable-xhdpi\\imag2.png"
+        "merged": "com.example.harmony.app-merged_res-42:/mipmap-hdpi_opening_foreground.png.flat",
+        "source": "com.example.harmony.app-main-44:/mipmap-hdpi/opening_foreground.png"
     },
     {
-        "merged": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-42:\\mipmap-anydpi-v26_image4.xml.flat",
-        "source": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-44:\\mipmap-anydpi-v26\\image4.xml"
+        "merged": "com.example.harmony.app-merged_res-42:/mipmap-mdpi_image6_foreground.png.flat",
+        "source": "com.example.harmony.app-main-44:/mipmap-mdpi/image6_foreground.png"
     },
     {
-        "merged": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-42:\\mipmap-xxhdpi_image7.png.flat",
-        "source": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-44:\\mipmap-xxhdpi\\image7.png"
+        "merged": "com.example.harmony.app-merged_res-42:/menu_activity_main_drawer.xml.flat",
+        "source": "com.example.harmony.app-main-44:/menu/activity_main_drawer.xml"
     },
     {
-        "merged": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-42:\\mipmap-mdpi_image8_foreground.png.flat",
-        "source": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-44:\\mipmap-mdpi\\image8_foreground.png"
+        "merged": "com.example.harmony.app-merged_res-42:/mipmap-anydpi-v26_image7.xml.flat",
+        "source": "com.example.harmony.app-main-44:/mipmap-anydpi-v26/image7.xml"
     },
     {
-        "merged": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-42:\\mipmap-mdpi_image6.png.flat",
-        "source": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-44:\\mipmap-mdpi\\image6.png"
+        "merged": "com.example.harmony.app-merged_res-42:/mipmap-anydpi-v26_opening.xml.flat",
+        "source": "com.example.harmony.app-main-44:/mipmap-anydpi-v26/opening.xml"
     },
     {
-        "merged": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-42:\\mipmap-xxxhdpi_image7.png.flat",
-        "source": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-44:\\mipmap-xxxhdpi\\image7.png"
+        "merged": "com.example.harmony.app-merged_res-42:/mipmap-xxhdpi_image6.png.flat",
+        "source": "com.example.harmony.app-main-44:/mipmap-xxhdpi/image6.png"
     },
     {
-        "merged": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-42:\\drawable_image6_background.xml.flat",
-        "source": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-44:\\drawable\\image6_background.xml"
+        "merged": "com.example.harmony.app-merged_res-42:/mipmap-xxxhdpi_opening_foreground.png.flat",
+        "source": "com.example.harmony.app-main-44:/mipmap-xxxhdpi/opening_foreground.png"
     },
     {
-        "merged": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-42:\\mipmap-xxxhdpi_image4_foreground.png.flat",
-        "source": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-44:\\mipmap-xxxhdpi\\image4_foreground.png"
+        "merged": "com.example.harmony.app-merged_res-42:/mipmap-xxxhdpi_image6_round.png.flat",
+        "source": "com.example.harmony.app-main-44:/mipmap-xxxhdpi/image6_round.png"
     },
     {
-        "merged": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-42:\\mipmap-xhdpi_image8_foreground.png.flat",
-        "source": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-44:\\mipmap-xhdpi\\image8_foreground.png"
+        "merged": "com.example.harmony.app-merged_res-42:/mipmap-xxhdpi_opening.png.flat",
+        "source": "com.example.harmony.app-main-44:/mipmap-xxhdpi/opening.png"
     },
     {
-        "merged": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-42:\\mipmap-xxhdpi_image8_foreground.png.flat",
-        "source": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-44:\\mipmap-xxhdpi\\image8_foreground.png"
+        "merged": "com.example.harmony.app-merged_res-42:/drawable-xhdpi_ic_action_name.png.flat",
+        "source": "com.example.harmony.app-main-44:/drawable-xhdpi/ic_action_name.png"
     },
     {
-        "merged": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-42:\\mipmap-xhdpi_image7_round.png.flat",
-        "source": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-44:\\mipmap-xhdpi\\image7_round.png"
+        "merged": "com.example.harmony.app-merged_res-42:/mipmap-xxxhdpi_image6.png.flat",
+        "source": "com.example.harmony.app-main-44:/mipmap-xxxhdpi/image6.png"
     },
     {
-        "merged": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-42:\\mipmap-mdpi_image3.png.flat",
-        "source": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-44:\\mipmap-mdpi\\image3.png"
+        "merged": "com.example.harmony.app-merged_res-42:/mipmap-xhdpi_image5_foreground.png.flat",
+        "source": "com.example.harmony.app-main-44:/mipmap-xhdpi/image5_foreground.png"
     },
     {
-        "merged": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-42:\\mipmap-xhdpi_image3.png.flat",
-        "source": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-44:\\mipmap-xhdpi\\image3.png"
+        "merged": "com.example.harmony.app-merged_res-42:/mipmap-xxhdpi_image7_round.png.flat",
+        "source": "com.example.harmony.app-main-44:/mipmap-xxhdpi/image7_round.png"
     },
     {
-        "merged": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-42:\\mipmap-xhdpi_image4_round.png.flat",
-        "source": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-44:\\mipmap-xhdpi\\image4_round.png"
+        "merged": "com.example.harmony.app-merged_res-42:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.harmony.app-main-44:/mipmap-hdpi/ic_launcher_foreground.png"
     },
     {
-        "merged": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-42:\\mipmap-mdpi_image4_round.png.flat",
-        "source": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-44:\\mipmap-mdpi\\image4_round.png"
+        "merged": "com.example.harmony.app-merged_res-42:/mipmap-mdpi_image3.png.flat",
+        "source": "com.example.harmony.app-main-44:/mipmap-mdpi/image3.png"
     },
     {
-        "merged": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-42:\\drawable-hdpi_imag2.png.flat",
-        "source": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-44:\\drawable-hdpi\\imag2.png"
+        "merged": "com.example.harmony.app-merged_res-42:/mipmap-mdpi_image7_foreground.png.flat",
+        "source": "com.example.harmony.app-main-44:/mipmap-mdpi/image7_foreground.png"
     },
     {
-        "merged": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-42:\\mipmap-xxhdpi_image4.png.flat",
-        "source": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-44:\\mipmap-xxhdpi\\image4.png"
+        "merged": "com.example.harmony.app-merged_res-42:/drawable-hdpi_imag2.png.flat",
+        "source": "com.example.harmony.app-main-44:/drawable-hdpi/imag2.png"
     },
     {
-        "merged": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-42:\\mipmap-hdpi_image5.png.flat",
-        "source": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-44:\\mipmap-hdpi\\image5.png"
+        "merged": "com.example.harmony.app-merged_res-42:/mipmap-xxxhdpi_opening_round.png.flat",
+        "source": "com.example.harmony.app-main-44:/mipmap-xxxhdpi/opening_round.png"
     },
     {
-        "merged": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-42:\\mipmap-mdpi_ic_launcher_foreground.png.flat",
-        "source": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-44:\\mipmap-mdpi\\ic_launcher_foreground.png"
+        "merged": "com.example.harmony.app-merged_res-42:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.harmony.app-main-44:/mipmap-xhdpi/ic_launcher_foreground.png"
     },
     {
-        "merged": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-42:\\mipmap-xxxhdpi_image5_foreground.png.flat",
-        "source": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-44:\\mipmap-xxxhdpi\\image5_foreground.png"
+        "merged": "com.example.harmony.app-merged_res-42:/mipmap-anydpi-v26_image6_round.xml.flat",
+        "source": "com.example.harmony.app-main-44:/mipmap-anydpi-v26/image6_round.xml"
     },
     {
-        "merged": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-42:\\mipmap-mdpi_image7_round.png.flat",
-        "source": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-44:\\mipmap-mdpi\\image7_round.png"
+        "merged": "com.example.harmony.app-merged_res-42:/drawable-hdpi_ic_action_name.png.flat",
+        "source": "com.example.harmony.app-main-44:/drawable-hdpi/ic_action_name.png"
     },
     {
-        "merged": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-42:\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
-        "source": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-44:\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+        "merged": "com.example.harmony.app-merged_res-42:/mipmap-hdpi_opening.png.flat",
+        "source": "com.example.harmony.app-main-44:/mipmap-hdpi/opening.png"
     },
     {
-        "merged": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-42:\\mipmap-hdpi_image6_round.png.flat",
-        "source": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-44:\\mipmap-hdpi\\image6_round.png"
+        "merged": "com.example.harmony.app-merged_res-42:/mipmap-xhdpi_image3.png.flat",
+        "source": "com.example.harmony.app-main-44:/mipmap-xhdpi/image3.png"
     },
     {
-        "merged": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-42:\\drawable-xxhdpi_imag2.png.flat",
-        "source": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-44:\\drawable-xxhdpi\\imag2.png"
+        "merged": "com.example.harmony.app-merged_res-42:/mipmap-xxxhdpi_image7_round.png.flat",
+        "source": "com.example.harmony.app-main-44:/mipmap-xxxhdpi/image7_round.png"
     },
     {
-        "merged": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-42:\\mipmap-xhdpi_image8.png.flat",
-        "source": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-44:\\mipmap-xhdpi\\image8.png"
+        "merged": "com.example.harmony.app-merged_res-42:/drawable-xxxhdpi_ic_action_name.png.flat",
+        "source": "com.example.harmony.app-main-44:/drawable-xxxhdpi/ic_action_name.png"
     },
     {
-        "merged": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-42:\\drawable_image5_background.xml.flat",
-        "source": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-44:\\drawable\\image5_background.xml"
+        "merged": "com.example.harmony.app-merged_res-42:/mipmap-xhdpi_image6_foreground.png.flat",
+        "source": "com.example.harmony.app-main-44:/mipmap-xhdpi/image6_foreground.png"
     },
     {
-        "merged": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-42:\\drawable_ic_launcher_background.xml.flat",
-        "source": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-44:\\drawable\\ic_launcher_background.xml"
+        "merged": "com.example.harmony.app-merged_res-42:/mipmap-mdpi_opening.png.flat",
+        "source": "com.example.harmony.app-main-44:/mipmap-mdpi/opening.png"
     },
     {
-        "merged": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-42:\\mipmap-xxxhdpi_image4.png.flat",
-        "source": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-44:\\mipmap-xxxhdpi\\image4.png"
+        "merged": "com.example.harmony.app-merged_res-42:/mipmap-xhdpi_image6_round.png.flat",
+        "source": "com.example.harmony.app-main-44:/mipmap-xhdpi/image6_round.png"
     },
     {
-        "merged": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-42:\\mipmap-xxhdpi_image6_round.png.flat",
-        "source": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-44:\\mipmap-xxhdpi\\image6_round.png"
+        "merged": "com.example.harmony.app-merged_res-42:/mipmap-anydpi-v26_image7_round.xml.flat",
+        "source": "com.example.harmony.app-main-44:/mipmap-anydpi-v26/image7_round.xml"
     },
     {
-        "merged": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-42:\\layout_activity_package2.xml.flat",
-        "source": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-44:\\layout\\activity_package2.xml"
+        "merged": "com.example.harmony.app-merged_res-42:/drawable-mdpi_ic_action_name.png.flat",
+        "source": "com.example.harmony.app-main-44:/drawable-mdpi/ic_action_name.png"
     },
     {
-        "merged": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-42:\\mipmap-xhdpi_image5_round.png.flat",
-        "source": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-44:\\mipmap-xhdpi\\image5_round.png"
+        "merged": "com.example.harmony.app-merged_res-42:/mipmap-mdpi_image8_round.png.flat",
+        "source": "com.example.harmony.app-main-44:/mipmap-mdpi/image8_round.png"
     },
     {
-        "merged": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-42:\\mipmap-xxxhdpi_opening.png.flat",
-        "source": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-44:\\mipmap-xxxhdpi\\opening.png"
+        "merged": "com.example.harmony.app-merged_res-42:/mipmap-mdpi_image6.png.flat",
+        "source": "com.example.harmony.app-main-44:/mipmap-mdpi/image6.png"
     },
     {
-        "merged": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-42:\\mipmap-mdpi_image6_round.png.flat",
-        "source": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-44:\\mipmap-mdpi\\image6_round.png"
+        "merged": "com.example.harmony.app-merged_res-42:/mipmap-mdpi_image5_round.png.flat",
+        "source": "com.example.harmony.app-main-44:/mipmap-mdpi/image5_round.png"
     },
     {
-        "merged": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-42:\\mipmap-mdpi_image6_foreground.png.flat",
-        "source": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-44:\\mipmap-mdpi\\image6_foreground.png"
+        "merged": "com.example.harmony.app-merged_res-42:/mipmap-mdpi_opening_round.png.flat",
+        "source": "com.example.harmony.app-main-44:/mipmap-mdpi/opening_round.png"
     },
     {
-        "merged": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-42:\\mipmap-mdpi_image5_foreground.png.flat",
-        "source": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-44:\\mipmap-mdpi\\image5_foreground.png"
+        "merged": "com.example.harmony.app-merged_res-42:/layout_fragment_services.xml.flat",
+        "source": "com.example.harmony.app-main-44:/layout/fragment_services.xml"
     },
     {
-        "merged": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-42:\\mipmap-xxxhdpi_image7_foreground.png.flat",
-        "source": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-44:\\mipmap-xxxhdpi\\image7_foreground.png"
+        "merged": "com.example.harmony.app-merged_res-42:/layout_activity_package2.xml.flat",
+        "source": "com.example.harmony.app-main-44:/layout/activity_package2.xml"
     },
     {
-        "merged": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-42:\\drawable-mdpi_imag2.png.flat",
-        "source": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-44:\\drawable-mdpi\\imag2.png"
+        "merged": "com.example.harmony.app-merged_res-42:/mipmap-hdpi_image7_foreground.png.flat",
+        "source": "com.example.harmony.app-main-44:/mipmap-hdpi/image7_foreground.png"
     },
     {
-        "merged": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-42:\\mipmap-xhdpi_opening_round.png.flat",
-        "source": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-44:\\mipmap-xhdpi\\opening_round.png"
+        "merged": "com.example.harmony.app-merged_res-42:/layout_app_bar_main.xml.flat",
+        "source": "com.example.harmony.app-main-44:/layout/app_bar_main.xml"
     },
     {
-        "merged": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-42:\\mipmap-xxxhdpi_image6_round.png.flat",
-        "source": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-44:\\mipmap-xxxhdpi\\image6_round.png"
+        "merged": "com.example.harmony.app-merged_res-42:/layout_fragment_about_us.xml.flat",
+        "source": "com.example.harmony.app-main-44:/layout/fragment_about_us.xml"
     },
     {
-        "merged": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-42:\\mipmap-mdpi_opening_foreground.png.flat",
-        "source": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-44:\\mipmap-mdpi\\opening_foreground.png"
+        "merged": "com.example.harmony.app-merged_res-42:/mipmap-xhdpi_opening.png.flat",
+        "source": "com.example.harmony.app-main-44:/mipmap-xhdpi/opening.png"
     },
     {
-        "merged": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-42:\\mipmap-xhdpi_image5.png.flat",
-        "source": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-44:\\mipmap-xhdpi\\image5.png"
+        "merged": "com.example.harmony.app-merged_res-42:/drawable-xxhdpi_ic_action_name.png.flat",
+        "source": "com.example.harmony.app-main-44:/drawable-xxhdpi/ic_action_name.png"
     },
     {
-        "merged": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-42:\\mipmap-xxxhdpi_opening_round.png.flat",
-        "source": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-44:\\mipmap-xxxhdpi\\opening_round.png"
+        "merged": "com.example.harmony.app-merged_res-42:/mipmap-xhdpi_image7_foreground.png.flat",
+        "source": "com.example.harmony.app-main-44:/mipmap-xhdpi/image7_foreground.png"
     },
     {
-        "merged": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-42:\\menu_navigation_menu.xml.flat",
-        "source": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-44:\\menu\\navigation_menu.xml"
+        "merged": "com.example.harmony.app-merged_res-42:/mipmap-xxhdpi_opening_foreground.png.flat",
+        "source": "com.example.harmony.app-main-44:/mipmap-xxhdpi/opening_foreground.png"
     },
     {
-        "merged": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-42:\\drawable_image8_background.xml.flat",
-        "source": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-44:\\drawable\\image8_background.xml"
+        "merged": "com.example.harmony.app-merged_res-42:/mipmap-hdpi_image8.png.flat",
+        "source": "com.example.harmony.app-main-44:/mipmap-hdpi/image8.png"
     },
     {
-        "merged": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-42:\\mipmap-anydpi-v26_image6.xml.flat",
-        "source": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-44:\\mipmap-anydpi-v26\\image6.xml"
+        "merged": "com.example.harmony.app-merged_res-42:/mipmap-hdpi_image6_round.png.flat",
+        "source": "com.example.harmony.app-main-44:/mipmap-hdpi/image6_round.png"
     },
     {
-        "merged": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-42:\\layout_activity_main_page.xml.flat",
-        "source": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-44:\\layout\\activity_main_page.xml"
+        "merged": "com.example.harmony.app-merged_res-42:/mipmap-xxhdpi_image5_round.png.flat",
+        "source": "com.example.harmony.app-main-44:/mipmap-xxhdpi/image5_round.png"
     },
     {
-        "merged": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-42:\\mipmap-hdpi_image8.png.flat",
-        "source": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-44:\\mipmap-hdpi\\image8.png"
+        "merged": "com.example.harmony.app-merged_res-42:/layout_activity_package3.xml.flat",
+        "source": "com.example.harmony.app-main-44:/layout/activity_package3.xml"
     },
     {
-        "merged": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-42:\\mipmap-hdpi_opening.png.flat",
-        "source": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-44:\\mipmap-hdpi\\opening.png"
+        "merged": "com.example.harmony.app-merged_res-42:/mipmap-xxhdpi_image7.png.flat",
+        "source": "com.example.harmony.app-main-44:/mipmap-xxhdpi/image7.png"
     },
     {
-        "merged": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-42:\\layout_activity_package1.xml.flat",
-        "source": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-44:\\layout\\activity_package1.xml"
+        "merged": "com.example.harmony.app-merged_res-42:/mipmap-xhdpi_image8.png.flat",
+        "source": "com.example.harmony.app-main-44:/mipmap-xhdpi/image8.png"
     },
     {
-        "merged": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-42:\\mipmap-mdpi_image7_foreground.png.flat",
-        "source": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-44:\\mipmap-mdpi\\image7_foreground.png"
+        "merged": "com.example.harmony.app-merged_res-42:/mipmap-hdpi_image8_foreground.png.flat",
+        "source": "com.example.harmony.app-main-44:/mipmap-hdpi/image8_foreground.png"
     },
     {
-        "merged": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-42:\\mipmap-xxxhdpi_image3.png.flat",
-        "source": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-44:\\mipmap-xxxhdpi\\image3.png"
+        "merged": "com.example.harmony.app-merged_res-42:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.harmony.app-main-44:/mipmap-mdpi/ic_launcher_foreground.png"
     },
     {
-        "merged": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-42:\\mipmap-hdpi_image8_foreground.png.flat",
-        "source": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-44:\\mipmap-hdpi\\image8_foreground.png"
+        "merged": "com.example.harmony.app-merged_res-42:/mipmap-mdpi_image5.png.flat",
+        "source": "com.example.harmony.app-main-44:/mipmap-mdpi/image5.png"
     },
     {
-        "merged": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-42:\\mipmap-hdpi_image7_round.png.flat",
-        "source": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-44:\\mipmap-hdpi\\image7_round.png"
+        "merged": "com.example.harmony.app-merged_res-42:/layout_fragment_offers.xml.flat",
+        "source": "com.example.harmony.app-main-44:/layout/fragment_offers.xml"
     },
     {
-        "merged": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-42:\\drawable_image7_background.xml.flat",
-        "source": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-44:\\drawable\\image7_background.xml"
+        "merged": "com.example.harmony.app-merged_res-42:/mipmap-hdpi_image5_foreground.png.flat",
+        "source": "com.example.harmony.app-main-44:/mipmap-hdpi/image5_foreground.png"
     },
     {
-        "merged": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-42:\\mipmap-mdpi_image4.png.flat",
-        "source": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-44:\\mipmap-mdpi\\image4.png"
+        "merged": "com.example.harmony.app-merged_res-42:/layout_activity_main.xml.flat",
+        "source": "com.example.harmony.app-main-44:/layout/activity_main.xml"
     },
     {
-        "merged": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-42:\\mipmap-anydpi-v26_image8_round.xml.flat",
-        "source": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-44:\\mipmap-anydpi-v26\\image8_round.xml"
+        "merged": "com.example.harmony.app-merged_res-42:/drawable_image5_background.xml.flat",
+        "source": "com.example.harmony.app-main-44:/drawable/image5_background.xml"
     },
     {
-        "merged": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-42:\\mipmap-anydpi-v26_image5_round.xml.flat",
-        "source": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-44:\\mipmap-anydpi-v26\\image5_round.xml"
+        "merged": "com.example.harmony.app-merged_res-42:/mipmap-xxhdpi_image8_round.png.flat",
+        "source": "com.example.harmony.app-main-44:/mipmap-xxhdpi/image8_round.png"
     },
     {
-        "merged": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-42:\\mipmap-anydpi-v26_image7.xml.flat",
-        "source": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-44:\\mipmap-anydpi-v26\\image7.xml"
+        "merged": "com.example.harmony.app-merged_res-42:/layout_activity_package4.xml.flat",
+        "source": "com.example.harmony.app-main-44:/layout/activity_package4.xml"
     },
     {
-        "merged": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-42:\\mipmap-hdpi_image7.png.flat",
-        "source": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-44:\\mipmap-hdpi\\image7.png"
+        "merged": "com.example.harmony.app-merged_res-42:/mipmap-xxhdpi_opening_round.png.flat",
+        "source": "com.example.harmony.app-main-44:/mipmap-xxhdpi/opening_round.png"
     },
     {
-        "merged": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-42:\\mipmap-xxxhdpi_image6_foreground.png.flat",
-        "source": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-44:\\mipmap-xxxhdpi\\image6_foreground.png"
+        "merged": "com.example.harmony.app-merged_res-42:/mipmap-mdpi_image7.png.flat",
+        "source": "com.example.harmony.app-main-44:/mipmap-mdpi/image7.png"
     },
     {
-        "merged": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-42:\\mipmap-xhdpi_image6.png.flat",
-        "source": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-44:\\mipmap-xhdpi\\image6.png"
+        "merged": "com.example.harmony.app-merged_res-42:/drawable_opening_background.xml.flat",
+        "source": "com.example.harmony.app-main-44:/drawable/opening_background.xml"
     },
     {
-        "merged": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-42:\\mipmap-xxhdpi_image8.png.flat",
-        "source": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-44:\\mipmap-xxhdpi\\image8.png"
+        "merged": "com.example.harmony.app-merged_res-42:/mipmap-xhdpi_image8_round.png.flat",
+        "source": "com.example.harmony.app-main-44:/mipmap-xhdpi/image8_round.png"
     },
     {
-        "merged": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-42:\\mipmap-mdpi_opening_round.png.flat",
-        "source": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-44:\\mipmap-mdpi\\opening_round.png"
+        "merged": "com.example.harmony.app-merged_res-42:/mipmap-mdpi_image5_foreground.png.flat",
+        "source": "com.example.harmony.app-main-44:/mipmap-mdpi/image5_foreground.png"
     },
     {
-        "merged": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-42:\\mipmap-xhdpi_image8_round.png.flat",
-        "source": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-44:\\mipmap-xhdpi\\image8_round.png"
+        "merged": "com.example.harmony.app-merged_res-42:/drawable-xxxhdpi_imag2.png.flat",
+        "source": "com.example.harmony.app-main-44:/drawable-xxxhdpi/imag2.png"
     },
     {
-        "merged": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-42:\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
-        "source": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-44:\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+        "merged": "com.example.harmony.app-merged_res-42:/mipmap-xhdpi_image5_round.png.flat",
+        "source": "com.example.harmony.app-main-44:/mipmap-xhdpi/image5_round.png"
     },
     {
-        "merged": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-42:\\mipmap-hdpi_image4_round.png.flat",
-        "source": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-44:\\mipmap-hdpi\\image4_round.png"
+        "merged": "com.example.harmony.app-merged_res-42:/mipmap-mdpi_image6_round.png.flat",
+        "source": "com.example.harmony.app-main-44:/mipmap-mdpi/image6_round.png"
     },
     {
-        "merged": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-42:\\mipmap-xxhdpi_opening_round.png.flat",
-        "source": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-44:\\mipmap-xxhdpi\\opening_round.png"
+        "merged": "com.example.harmony.app-merged_res-42:/layout_nav_header_main.xml.flat",
+        "source": "com.example.harmony.app-main-44:/layout/nav_header_main.xml"
     },
     {
-        "merged": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-42:\\mipmap-xxxhdpi_image4_round.png.flat",
-        "source": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-44:\\mipmap-xxxhdpi\\image4_round.png"
+        "merged": "com.example.harmony.app-merged_res-42:/mipmap-hdpi_image8_round.png.flat",
+        "source": "com.example.harmony.app-main-44:/mipmap-hdpi/image8_round.png"
     },
     {
-        "merged": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-42:\\mipmap-xxhdpi_image4_round.png.flat",
-        "source": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-44:\\mipmap-xxhdpi\\image4_round.png"
+        "merged": "com.example.harmony.app-merged_res-42:/mipmap-hdpi_opening_round.png.flat",
+        "source": "com.example.harmony.app-main-44:/mipmap-hdpi/opening_round.png"
     },
     {
-        "merged": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-42:\\mipmap-hdpi_image6.png.flat",
-        "source": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-44:\\mipmap-hdpi\\image6.png"
+        "merged": "com.example.harmony.app-merged_res-42:/mipmap-hdpi_image6.png.flat",
+        "source": "com.example.harmony.app-main-44:/mipmap-hdpi/image6.png"
     },
     {
-        "merged": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-42:\\mipmap-anydpi-v26_image6_round.xml.flat",
-        "source": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-44:\\mipmap-anydpi-v26\\image6_round.xml"
+        "merged": "com.example.harmony.app-merged_res-42:/layout_fragment_home.xml.flat",
+        "source": "com.example.harmony.app-main-44:/layout/fragment_home.xml"
     },
     {
-        "merged": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-42:\\mipmap-hdpi_image7_foreground.png.flat",
-        "source": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-44:\\mipmap-hdpi\\image7_foreground.png"
+        "merged": "com.example.harmony.app-merged_res-42:/mipmap-xxhdpi_image8.png.flat",
+        "source": "com.example.harmony.app-main-44:/mipmap-xxhdpi/image8.png"
     },
     {
-        "merged": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-42:\\mipmap-xhdpi_image7.png.flat",
-        "source": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-44:\\mipmap-xhdpi\\image7.png"
+        "merged": "com.example.harmony.app-merged_res-42:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.harmony.app-main-44:/mipmap-xxxhdpi/ic_launcher_foreground.png"
     },
     {
-        "merged": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-42:\\mipmap-xxhdpi_image7_round.png.flat",
-        "source": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-44:\\mipmap-xxhdpi\\image7_round.png"
+        "merged": "com.example.harmony.app-merged_res-42:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.harmony.app-main-44:/mipmap-anydpi-v26/ic_launcher.xml"
     },
     {
-        "merged": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-42:\\mipmap-xhdpi_opening_foreground.png.flat",
-        "source": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-44:\\mipmap-xhdpi\\opening_foreground.png"
+        "merged": "com.example.harmony.app-merged_res-42:/mipmap-xhdpi_image7.png.flat",
+        "source": "com.example.harmony.app-main-44:/mipmap-xhdpi/image7.png"
     },
     {
-        "merged": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-42:\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
-        "source": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-44:\\mipmap-xhdpi\\ic_launcher_foreground.png"
+        "merged": "com.example.harmony.app-merged_res-42:/mipmap-hdpi_image5_round.png.flat",
+        "source": "com.example.harmony.app-main-44:/mipmap-hdpi/image5_round.png"
     },
     {
-        "merged": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-42:\\mipmap-anydpi-v26_image8.xml.flat",
-        "source": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-44:\\mipmap-anydpi-v26\\image8.xml"
+        "merged": "com.example.harmony.app-merged_res-42:/mipmap-xhdpi_opening_foreground.png.flat",
+        "source": "com.example.harmony.app-main-44:/mipmap-xhdpi/opening_foreground.png"
     },
     {
-        "merged": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-42:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-44:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+        "merged": "com.example.harmony.app-merged_res-42:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.harmony.app-pngs-37:/drawable-anydpi-v24/ic_launcher_foreground.xml"
     },
     {
-        "merged": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-42:\\mipmap-hdpi_opening_foreground.png.flat",
-        "source": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-44:\\mipmap-hdpi\\opening_foreground.png"
+        "merged": "com.example.harmony.app-merged_res-42:/mipmap-xxhdpi_image6_foreground.png.flat",
+        "source": "com.example.harmony.app-main-44:/mipmap-xxhdpi/image6_foreground.png"
     },
     {
-        "merged": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-42:\\mipmap-hdpi_image3.png.flat",
-        "source": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-44:\\mipmap-hdpi\\image3.png"
+        "merged": "com.example.harmony.app-merged_res-42:/drawable_image6_background.xml.flat",
+        "source": "com.example.harmony.app-main-44:/drawable/image6_background.xml"
     },
     {
-        "merged": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-42:\\mipmap-xhdpi_image4_foreground.png.flat",
-        "source": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-44:\\mipmap-xhdpi\\image4_foreground.png"
+        "merged": "com.example.harmony.app-merged_res-42:/mipmap-xxhdpi_image5.png.flat",
+        "source": "com.example.harmony.app-main-44:/mipmap-xxhdpi/image5.png"
     },
     {
-        "merged": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-42:\\drawable-mdpi_ic_action_name.png.flat",
-        "source": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-44:\\drawable-mdpi\\ic_action_name.png"
+        "merged": "com.example.harmony.app-merged_res-42:/mipmap-hdpi_image3.png.flat",
+        "source": "com.example.harmony.app-main-44:/mipmap-hdpi/image3.png"
     },
     {
-        "merged": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-42:\\mipmap-xxxhdpi_image8.png.flat",
-        "source": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-44:\\mipmap-xxxhdpi\\image8.png"
+        "merged": "com.example.harmony.app-merged_res-42:/mipmap-xhdpi_image8_foreground.png.flat",
+        "source": "com.example.harmony.app-main-44:/mipmap-xhdpi/image8_foreground.png"
     },
     {
-        "merged": "com.example.harmony.app-merged_res-42:/layout_activity_main_page.xml.flat",
-        "source": "com.example.harmony.app-main-44:/layout/activity_main_page.xml"
+        "merged": "com.example.harmony.app-merged_res-42:/mipmap-xxxhdpi_image7_foreground.png.flat",
+        "source": "com.example.harmony.app-main-44:/mipmap-xxxhdpi/image7_foreground.png"
     },
     {
-        "merged": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-42:\\layout_activity_services.xml.flat",
-        "source": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-44:\\layout\\activity_services.xml"
+        "merged": "com.example.harmony.app-merged_res-42:/layout_activity_package1.xml.flat",
+        "source": "com.example.harmony.app-main-44:/layout/activity_package1.xml"
     },
     {
-        "merged": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-42:\\mipmap-anydpi-v26_image5.xml.flat",
-        "source": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-44:\\mipmap-anydpi-v26\\image5.xml"
+        "merged": "com.example.harmony.app-merged_res-42:/mipmap-anydpi-v26_image8.xml.flat",
+        "source": "com.example.harmony.app-main-44:/mipmap-anydpi-v26/image8.xml"
     },
     {
-        "merged": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-42:\\mipmap-mdpi_opening.png.flat",
-        "source": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-44:\\mipmap-mdpi\\opening.png"
+        "merged": "com.example.harmony.app-merged_res-42:/drawable-xhdpi_imag2.png.flat",
+        "source": "com.example.harmony.app-main-44:/drawable-xhdpi/imag2.png"
     },
     {
-        "merged": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-42:\\mipmap-xxhdpi_image5_foreground.png.flat",
-        "source": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-44:\\mipmap-xxhdpi\\image5_foreground.png"
+        "merged": "com.example.harmony.app-merged_res-42:/mipmap-xxxhdpi_opening.png.flat",
+        "source": "com.example.harmony.app-main-44:/mipmap-xxxhdpi/opening.png"
     },
     {
-        "merged": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-42:\\mipmap-anydpi-v26_opening_round.xml.flat",
-        "source": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-44:\\mipmap-anydpi-v26\\opening_round.xml"
+        "merged": "com.example.harmony.app-merged_res-42:/mipmap-hdpi_image6_foreground.png.flat",
+        "source": "com.example.harmony.app-main-44:/mipmap-hdpi/image6_foreground.png"
     },
     {
-        "merged": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-42:\\mipmap-hdpi_image6_foreground.png.flat",
-        "source": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-44:\\mipmap-hdpi\\image6_foreground.png"
+        "merged": "com.example.harmony.app-merged_res-42:/mipmap-xxxhdpi_image5.png.flat",
+        "source": "com.example.harmony.app-main-44:/mipmap-xxxhdpi/image5.png"
     },
     {
-        "merged": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-42:\\mipmap-xhdpi_opening.png.flat",
-        "source": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-44:\\mipmap-xhdpi\\opening.png"
-    },
-    {
-        "merged": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-42:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
-        "source": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-pngs-37:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
-    },
-    {
-        "merged": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-42:\\mipmap-mdpi_image4_foreground.png.flat",
-        "source": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-44:\\mipmap-mdpi\\image4_foreground.png"
-    },
-    {
-        "merged": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-42:\\mipmap-xhdpi_image6_round.png.flat",
-        "source": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-44:\\mipmap-xhdpi\\image6_round.png"
-    },
-    {
-        "merged": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-42:\\drawable-xxxhdpi_ic_action_name.png.flat",
-        "source": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-44:\\drawable-xxxhdpi\\ic_action_name.png"
-    },
-    {
-        "merged": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-42:\\layout_activity_offers.xml.flat",
-        "source": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-44:\\layout\\activity_offers.xml"
-    },
-    {
-        "merged": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-42:\\mipmap-xxhdpi_image6.png.flat",
-        "source": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-44:\\mipmap-xxhdpi\\image6.png"
-    },
-    {
-        "merged": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-42:\\mipmap-mdpi_image5.png.flat",
-        "source": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-44:\\mipmap-mdpi\\image5.png"
-    },
-    {
-        "merged": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-42:\\mipmap-xhdpi_image5_foreground.png.flat",
-        "source": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-44:\\mipmap-xhdpi\\image5_foreground.png"
-    },
-    {
-        "merged": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-42:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-44:\\mipmap-anydpi-v26\\ic_launcher.xml"
-    },
-    {
-        "merged": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-42:\\mipmap-xhdpi_image4.png.flat",
-        "source": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-44:\\mipmap-xhdpi\\image4.png"
-    },
-    {
-        "merged": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-42:\\mipmap-xxxhdpi_image8_foreground.png.flat",
-        "source": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-44:\\mipmap-xxxhdpi\\image8_foreground.png"
-    },
-    {
-        "merged": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-42:\\drawable_opening_background.xml.flat",
-        "source": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-44:\\drawable\\opening_background.xml"
-    },
-    {
-        "merged": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-42:\\mipmap-xxxhdpi_image7_round.png.flat",
-        "source": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-44:\\mipmap-xxxhdpi\\image7_round.png"
-    },
-    {
-        "merged": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-42:\\mipmap-xxhdpi_image3.png.flat",
-        "source": "C:\\Users\\alina\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-44:\\mipmap-xxhdpi\\image3.png"
+        "merged": "com.example.harmony.app-merged_res-42:/mipmap-anydpi-v26_opening_round.xml.flat",
+        "source": "com.example.harmony.app-main-44:/mipmap-anydpi-v26/opening_round.xml"
     }
 ]

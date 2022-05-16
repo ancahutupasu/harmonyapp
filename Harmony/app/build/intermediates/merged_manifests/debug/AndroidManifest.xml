@@ -36,13 +36,9 @@
         android:label="Harmony"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:testOnly="true"
         android:theme="@style/Theme.Harmony" >
         <activity
-            android:name="com.example.harmony.Offers"
-            android:exported="false" />
-        <activity
-            android:name="com.example.harmony.MainPageActivity"
+            android:name="com.example.harmony.MainActivity"
             android:exported="true" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -50,21 +46,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity
-            android:name="com.example.harmony.Services"
-            android:exported="false" />
-        <activity
-            android:name="com.example.harmony.Package1"
-            android:exported="false" />
-        <activity
-            android:name="com.example.harmony.Package4"
-            android:exported="false" />
-        <activity
-            android:name="com.example.harmony.Package3"
-            android:exported="false" />
-        <activity
-            android:name="com.example.harmony.Package2"
-            android:exported="false" />
+
         <!-- Needs to be explicitly declared on P+ -->
         <uses-library
             android:name="org.apache.http.legacy"

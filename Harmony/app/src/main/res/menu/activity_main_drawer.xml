@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/miHome"
+
+            android:title="@string/menu_home" />
+        <item
+            android:id="@+id/miServices"
+
+            android:title="@string/services" />
+        <item
+            android:id="@+id/miOffers"
+
+            android:title="@string/offers_packages" />
+
+        <item
+            android:id="@+id/miAbout"
+            android:enabled="true"
+            android:title="@string/about" />
+
+
+        <item
+            android:id="@+id/miContact"
+            android:title="@string/contact_us"/>
+        <item
+            android:id="@+id/miLifeStyle"
+            android:title="@string/life_style_tricks"/>
+        <item
+            android:id="@+id/miReviews"
+            android:title="@string/reviews"/>
+        <item
+            android:id="@+id/miAccount"
+            android:title="@string/log_in_my_account"/>
+
+    </group>
+</menu>
