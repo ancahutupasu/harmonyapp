@@ -2646,6 +2646,7 @@ int drawable design_ic_visibility 0x7f070074
 int drawable design_ic_visibility_off 0x7f070075
 int drawable design_password_eye 0x7f070076
 int drawable design_snackbar_background 0x7f070077
+int drawable facebook 0x7f070195
 int drawable fui_ic_anonymous_white_24dp 0x7f070078
 int drawable fui_ic_apple_white_24dp 0x7f070079
 int drawable fui_ic_check_circle_black_128dp 0x7f07007a
@@ -2941,8 +2942,10 @@ int id Click 0x7f080006
 int id ContactUs 0x7f0802f0
 int id Done 0x7f080007
 int id Email 0x7f0802f1
+int id FAQ 0x7f08030f
 int id FUNCTION 0x7f080008
 int id Go 0x7f080009
+int id Home 0x7f080310
 int id Id 0x7f08000a
 int id Logout 0x7f08000b
 int id META 0x7f08000c
@@ -2964,6 +2967,7 @@ int id Subscriptions 0x7f080019
 int id TOP_END 0x7f08001a
 int id TOP_START 0x7f08001b
 int id ThankYou 0x7f0802f4
+int id TitleMyCart 0x7f080311
 int id accelerate 0x7f08001c
 int id accessibility_action_clickable_span 0x7f08001d
 int id accessibility_custom_action_0 0x7f08001e
@@ -3071,7 +3075,6 @@ int id button2 0x7f080083
 int id button3 0x7f0802f5
 int id button5 0x7f080084
 int id button6 0x7f080085
-int id button7 0x7f0802f6
 int id buttonAddMyCart 0x7f080086
 int id buttonBack3 0x7f080087
 int id buttonBack4 0x7f080088
@@ -3091,6 +3094,7 @@ int id button_sign_in 0x7f080095
 int id buttonback 0x7f080096
 int id cache_measures 0x7f080097
 int id callMeasure 0x7f080098
+int id cancel 0x7f080312
 int id cancelReviewButton 0x7f080099
 int id cancel_action 0x7f08009a
 int id cancel_button 0x7f08009b
@@ -3205,7 +3209,9 @@ int id enterAlwaysCollapsed 0x7f080105
 int id exitUntilCollapsed 0x7f080106
 int id expand_activities_button 0x7f080107
 int id expanded_menu 0x7f080108
+int id facebook 0x7f080313
 int id fade 0x7f080109
+int id faq 0x7f080314
 int id fill 0x7f08010a
 int id fill_horizontal 0x7f08010b
 int id fill_vertical 0x7f08010c
@@ -3224,6 +3230,8 @@ int id friday 0x7f0802f9
 int id frost 0x7f080118
 int id ghost_view 0x7f080119
 int id ghost_view_holder 0x7f08011a
+int id gift 0x7f080315
+int id goHome 0x7f080316
 int id gone 0x7f08011b
 int id googleLogin 0x7f08011c
 int id graph 0x7f08011d
@@ -3311,6 +3319,8 @@ int id linearLayout33 0x7f08016e
 int id linearLayout34 0x7f08016f
 int id linearLayout35 0x7f0802fa
 int id linearLayout36 0x7f0802fb
+int id linearLayout37 0x7f080317
+int id linearLayout38 0x7f080318
 int id linearLayout4 0x7f080170
 int id linearLayout5 0x7f080171
 int id linearLayout6 0x7f080172
@@ -3474,6 +3484,7 @@ int id notification_main_column 0x7f08020c
 int id notification_main_column_container 0x7f08020d
 int id number 0x7f0802ff
 int id off 0x7f08020e
+int id offer 0x7f080319
 int id on 0x7f08020f
 int id onInterceptTouchReturnSwipe 0x7f080210
 int id opening 0x7f080300
@@ -3487,6 +3498,8 @@ int id parent 0x7f080217
 int id parentPanel 0x7f080218
 int id parentRelative 0x7f080219
 int id parent_matrix 0x7f08021a
+int id park 0x7f08031a
+int id parking 0x7f08031b
 int id password 0x7f08021b
 int id password_layout 0x7f08021c
 int id password_toggle 0x7f08021d
@@ -3498,9 +3511,12 @@ int id phone 0x7f080301
 int id phone_button 0x7f080222
 int id phone_layout 0x7f080223
 int id phone_number 0x7f080224
+int id pillow 0x7f08031c
 int id pin 0x7f080225
+int id policy 0x7f08031d
 int id position 0x7f080226
 int id postLayout 0x7f080227
+int id pregnant 0x7f08031e
 int id progress_circular 0x7f080228
 int id progress_horizontal 0x7f080229
 int id radio 0x7f08022a
@@ -3528,6 +3544,11 @@ int id root 0x7f08023b
 int id rounded 0x7f08023c
 int id row_index_key 0x7f08023d
 int id rtl 0x7f08023e
+int id rules 0x7f08031f
+int id rules1 0x7f080320
+int id rules2 0x7f080321
+int id rules3 0x7f080322
+int id rules4 0x7f080323
 int id satellite 0x7f08023f
 int id saturday 0x7f080306
 int id save_non_transition_alpha 0x7f080240
@@ -3574,6 +3595,9 @@ int id snackbar_text 0x7f080268
 int id snap 0x7f080269
 int id snapMargins 0x7f08026a
 int id south 0x7f08026b
+int id space 0x7f080324
+int id space1 0x7f080325
+int id space2 0x7f080326
 int id spacer 0x7f08026c
 int id special_effects_controller_view_tag 0x7f08026d
 int id spline 0x7f08026e
@@ -3596,6 +3620,8 @@ int id status_bar_latest_event_content 0x7f08027e
 int id stop 0x7f08027f
 int id street 0x7f080307
 int id stretch 0x7f080280
+int id stud 0x7f080327
+int id students 0x7f080328
 int id submenuarrow 0x7f080281
 int id submit_area 0x7f080282
 int id sunday 0x7f080308
@@ -3628,7 +3654,6 @@ int id textStart 0x7f08029c
 int id textTop 0x7f08029d
 int id textView 0x7f08029e
 int id textView10 0x7f08029f
-int id textView11 0x7f080309
 int id textView13 0x7f08030a
 int id textView14 0x7f0802a0
 int id textView17 0x7f0802a1
@@ -3648,7 +3673,6 @@ int id textView9 0x7f0802ad
 int id textViewPackage1 0x7f0802ae
 int id textViewPrice 0x7f0802af
 int id textViewTitle 0x7f0802b0
-int id textViewTitleMyCart 0x7f0802b1
 int id text_input_end_icon 0x7f0802b2
 int id text_input_error_icon 0x7f0802b3
 int id text_input_start_icon 0x7f0802b4
@@ -3658,6 +3682,7 @@ int id textinput_helper_text 0x7f0802b7
 int id textinput_placeholder 0x7f0802b8
 int id textinput_prefix_text 0x7f0802b9
 int id textinput_suffix_text 0x7f0802ba
+int id thank 0x7f080329
 int id thursday 0x7f08030c
 int id ticker 0x7f0802bb
 int id time 0x7f0802bc
@@ -3843,6 +3868,7 @@ int layout fragment_add_reviews 0x7f0b003a
 int layout fragment_before_checkout_page 0x7f0b003b
 int layout fragment_bookings 0x7f0b003c
 int layout fragment_contact_us 0x7f0b00c0
+int layout fragment_f_a_q 0x7f0b00c3
 int layout fragment_login 0x7f0b003d
 int layout fragment_my_cart 0x7f0b003e
 int layout fragment_payment 0x7f0b00c1
