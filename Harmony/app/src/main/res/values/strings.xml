@@ -43,4 +43,8 @@
     <string name="life_style">Lifestyle</string>
     <string name="confirm_password">Confirm Password</string>
     <string name="existing_user">Already Have an Account?</string>
+    <string name="forget_password">Forget Password</string>
+    <string name="Email">email</string>
+    <string name="email1">email</string>
+    <string name="confirm">Confirm</string>
 </resources>

@@ -1,10 +1,9 @@
-/*package com.example.harmony.ui.PersonInformation;
+package com.example.harmony.ui.PersonInformation;
 
-import androidx.fragment.app.FragmentManager;
 import androidx.fragment.app.FragmentTransaction;
-import androidx.lifecycle.Observer;
 import androidx.lifecycle.ViewModelProvider;
 
+import android.app.Activity;
 import android.os.Bundle;
 
 import androidx.annotation.NonNull;
@@ -16,26 +15,20 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
 import android.widget.EditText;
-import android.widget.ImageView;
-import android.widget.TextView;
+import android.widget.Toast;
 
-import com.example.harmony.Main;
-import com.example.harmony.MainPageActivity;
 import com.example.harmony.R;
 import com.example.harmony.ui.MyAccount.Account;
-import com.example.harmony.ui.MyPoints.MyPoints;
 
 public class PersonInformationFragment extends Fragment {
 
-
     private PersonInformationViewModel mViewModel;
-    //private Button b1;
-    private EditText editText;
+
+    EditText Name;
     EditText email;
-    EditText name;
+    EditText phoneNumber;
     Button Back;
     Button Done;
-
 
     public static PersonInformationFragment newInstance() {
         return new PersonInformationFragment();
@@ -44,27 +37,16 @@ public class PersonInformationFragment extends Fragment {
     @Override
     public View onCreateView(@NonNull LayoutInflater inflater, @Nullable ViewGroup container,
                              @Nullable Bundle savedInstanceState) {
+        View view = inflater.inflate(R.layout.fragment_register, container, false);
 
-        View rootView=inflater.inflate(R.layout.personinformation, container, false);
+        email = view.findViewById(R.id.email);
+        phoneNumber = view.findViewById(R.id.phoneNumber);
+        Name = view.findViewById(R.id.Name);
+        Back = view.findViewById(R.id.Back);
+        Done = view.findViewById(R.id.Done);
 
-        editText=rootView.findViewById(R.id.Name);
-        email =  rootView.findViewById(R.id.email);
-        name = rootView.findViewById(R.id.Name);
-        Back = rootView.findViewById(R.id.Back);
-        Done = rootView.findViewById(R.id.Done);
-
-        Back.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                mViewModel.setText(editText.getText());
-                FragmentTransaction fr=getFragmentManager().beginTransaction();
-                fr.replace(R.id.container,new Account());
-                fr.commit();
-            }
-        });
-
-        Button button2=(Button)rootView.findViewById(R.id.Back);
-        button2.setOnClickListener(new View.OnClickListener() {
+        Button button4=(Button)view.findViewById(R.id.Back);
+        button4.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
                 FragmentTransaction fr=getFragmentManager().beginTransaction();
@@ -72,39 +54,26 @@ public class PersonInformationFragment extends Fragment {
                 fr.commit();
             }
         });
-
-        Button button3=(Button)rootView.findViewById(R.id.Done);
-        button2.setOnClickListener(new View.OnClickListener() {
+        Button button5=(Button)view.findViewById(R.id.Done);
+        button5.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
                 FragmentTransaction fr=getFragmentManager().beginTransaction();
-                fr.replace(R.id.container,new MyPoints());
+                fr.replace(R.id.container,new Account());
                 fr.commit();
             }
         });
 
-
-
-        return rootView;
-
-
-
+        return view;
     }
+
 
     @Override
     public void onActivityCreated(@Nullable Bundle savedInstanceState) {
         super.onActivityCreated(savedInstanceState);
         mViewModel = new ViewModelProvider(this).get(PersonInformationViewModel.class);
-        mViewModel.getText().observe(getViewLifecycleOwner(), new Observer<CharSequence>() {
-            @Override
-            public void onChanged(CharSequence charSequence) {
-                editText.setText(charSequence);
-            }
-        });
+
 
     }
 
-
-    public void on(FragmentManager supportFragmentManager, String personInformationFragment) {
-    }
-}*/
+}

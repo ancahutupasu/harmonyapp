@@ -4,20 +4,20 @@
         "source": "C:\\Users\\Anca\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-42:\\layout\\personinformation.xml"
     },
     {
-        "merged": "C:\\Users\\Anca\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-mergeDebugResources-39:\\layout\\activity_package1.xml",
-        "source": "C:\\Users\\Anca\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-42:\\layout\\activity_package1.xml"
-    },
-    {
         "merged": "C:\\Users\\Anca\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-mergeDebugResources-39:\\layout\\activity_package4.xml",
         "source": "C:\\Users\\Anca\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-42:\\layout\\activity_package4.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anca\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-mergeDebugResources-39:\\layout\\activity_package1.xml",
+        "source": "C:\\Users\\Anca\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-42:\\layout\\activity_package1.xml"
     },
     {
         "merged": "C:\\Users\\Anca\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-mergeDebugResources-39:\\layout\\activity_person_information.xml",
         "source": "C:\\Users\\Anca\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-42:\\layout\\activity_person_information.xml"
     },
     {
-        "merged": "com.example.harmony.app-mergeDebugResources-39:/layout/fragment_thank_you.xml",
-        "source": "com.example.harmony.app-main-42:/layout/fragment_thank_you.xml"
+        "merged": "C:\\Users\\Anca\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-mergeDebugResources-39:\\layout\\fragment_thank_you.xml",
+        "source": "C:\\Users\\Anca\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-42:\\layout\\fragment_thank_you.xml"
     },
     {
         "merged": "C:\\Users\\Anca\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-mergeDebugResources-39:\\layout\\account.xml",
@@ -36,6 +36,10 @@
         "source": "C:\\Users\\Anca\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-42:\\layout\\item_recommendation.xml"
     },
     {
+        "merged": "C:\\Users\\Anca\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-mergeDebugResources-39:\\layout\\fragment_register.xml",
+        "source": "C:\\Users\\Anca\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-42:\\layout\\fragment_register.xml"
+    },
+    {
         "merged": "C:\\Users\\Anca\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-mergeDebugResources-39:\\layout\\activity_package2.xml",
         "source": "C:\\Users\\Anca\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-42:\\layout\\activity_package2.xml"
     },
@@ -48,16 +52,8 @@
         "source": "C:\\Users\\Anca\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-42:\\layout\\activity_forget_password_confirm.xml"
     },
     {
-        "merged": "com.example.harmony.app-mergeDebugResources-39:/layout/fragment_login.xml",
-        "source": "com.example.harmony.app-main-42:/layout/fragment_login.xml"
-    },
-    {
         "merged": "C:\\Users\\Anca\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-mergeDebugResources-39:\\layout\\fragment_add_reviews.xml",
         "source": "C:\\Users\\Anca\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-42:\\layout\\fragment_add_reviews.xml"
-    },
-    {
-        "merged": "C:\\Users\\Anca\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-mergeDebugResources-39:\\layout\\fragment_bookings.xml",
-        "source": "C:\\Users\\Anca\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-42:\\layout\\fragment_bookings.xml"
     },
     {
         "merged": "C:\\Users\\Anca\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-mergeDebugResources-39:\\layout\\activity_main_page.xml",
@@ -68,12 +64,20 @@
         "source": "C:\\Users\\Anca\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-42:\\layout\\activity_services.xml"
     },
     {
+        "merged": "C:\\Users\\Anca\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-mergeDebugResources-39:\\layout\\fragment_payment.xml",
+        "source": "C:\\Users\\Anca\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-42:\\layout\\fragment_payment.xml"
+    },
+    {
         "merged": "C:\\Users\\Anca\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-mergeDebugResources-39:\\layout\\fragment_reviews.xml",
         "source": "C:\\Users\\Anca\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-42:\\layout\\fragment_reviews.xml"
     },
     {
         "merged": "C:\\Users\\Anca\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-mergeDebugResources-39:\\layout\\item.xml",
         "source": "C:\\Users\\Anca\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-42:\\layout\\item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anca\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-mergeDebugResources-39:\\layout\\fragment_f_a_q.xml",
+        "source": "C:\\Users\\Anca\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-42:\\layout\\fragment_f_a_q.xml"
     },
     {
         "merged": "C:\\Users\\Anca\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-mergeDebugResources-39:\\layout\\fragment_subscriptions.xml",
@@ -88,20 +92,24 @@
         "source": "C:\\Users\\Anca\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-42:\\layout\\activity_about_us.xml"
     },
     {
+        "merged": "C:\\Users\\Anca\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-mergeDebugResources-39:\\layout\\fragment_contact_us.xml",
+        "source": "C:\\Users\\Anca\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-42:\\layout\\fragment_contact_us.xml"
+    },
+    {
+        "merged": "com.example.harmony.app-mergeDebugResources-39:/layout/fragment_f_a_q.xml",
+        "source": "com.example.harmony.app-main-42:/layout/fragment_f_a_q.xml"
+    },
+    {
         "merged": "C:\\Users\\Anca\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-mergeDebugResources-39:\\layout\\activity_my_account.xml",
         "source": "C:\\Users\\Anca\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-42:\\layout\\activity_my_account.xml"
     },
     {
-        "merged": "com.example.harmony.app-mergeDebugResources-39:/layout/fragment_contact_us.xml",
-        "source": "com.example.harmony.app-main-42:/layout/fragment_contact_us.xml"
+        "merged": "C:\\Users\\Anca\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-mergeDebugResources-39:\\layout\\forgetpassword.xml",
+        "source": "C:\\Users\\Anca\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-42:\\layout\\forgetpassword.xml"
     },
     {
         "merged": "C:\\Users\\Anca\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-mergeDebugResources-39:\\layout\\item_review.xml",
         "source": "C:\\Users\\Anca\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-42:\\layout\\item_review.xml"
-    },
-    {
-        "merged": "com.example.harmony.app-mergeDebugResources-39:/layout/fragment_before_checkout_page.xml",
-        "source": "com.example.harmony.app-main-42:/layout/fragment_before_checkout_page.xml"
     },
     {
         "merged": "C:\\Users\\Anca\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-mergeDebugResources-39:\\layout\\fragment_before_checkout_page.xml",
@@ -110,10 +118,6 @@
     {
         "merged": "C:\\Users\\Anca\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-mergeDebugResources-39:\\layout\\fragment_my_cart.xml",
         "source": "C:\\Users\\Anca\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-42:\\layout\\fragment_my_cart.xml"
-    },
-    {
-        "merged": "com.example.harmony.app-mergeDebugResources-39:/layout/fragment_payment.xml",
-        "source": "com.example.harmony.app-main-42:/layout/fragment_payment.xml"
     },
     {
         "merged": "C:\\Users\\Anca\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-mergeDebugResources-39:\\layout\\activity_package3.xml",

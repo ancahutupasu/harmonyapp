@@ -60,7 +60,7 @@ public final class FragmentMyCartBinding implements ViewBinding {
   public final TextView textViewPrice;
 
   @NonNull
-  public final TextView textViewTitleMyCart;
+  public final TextView titleCard;
 
   private FragmentMyCartBinding(@NonNull ConstraintLayout rootView, @NonNull Button buttonAddMyCart,
       @NonNull Button buttonCheckout, @NonNull Button buttonDeleteMyItemCard,
@@ -68,7 +68,7 @@ public final class FragmentMyCartBinding implements ViewBinding {
       @NonNull LinearLayout linearLayout16, @NonNull LinearLayout linearLayout17,
       @NonNull LinearLayout linearLayout18, @NonNull ConstraintLayout myCart,
       @NonNull RadioButton radioButtonGiftCard, @NonNull TextView textView14,
-      @NonNull TextView textViewPrice, @NonNull TextView textViewTitleMyCart) {
+      @NonNull TextView textViewPrice, @NonNull TextView titleCard) {
     this.rootView = rootView;
     this.buttonAddMyCart = buttonAddMyCart;
     this.buttonCheckout = buttonCheckout;
@@ -82,7 +82,7 @@ public final class FragmentMyCartBinding implements ViewBinding {
     this.radioButtonGiftCard = radioButtonGiftCard;
     this.textView14 = textView14;
     this.textViewPrice = textViewPrice;
-    this.textViewTitleMyCart = textViewTitleMyCart;
+    this.titleCard = titleCard;
   }
 
   @Override
@@ -180,16 +180,15 @@ public final class FragmentMyCartBinding implements ViewBinding {
         break missingId;
       }
 
-      id = R.id.textViewTitleMyCart;
-      TextView textViewTitleMyCart = ViewBindings.findChildViewById(rootView, id);
-      if (textViewTitleMyCart == null) {
+      id = R.id.titleCard;
+      TextView titleCard = ViewBindings.findChildViewById(rootView, id);
+      if (titleCard == null) {
         break missingId;
       }
 
       return new FragmentMyCartBinding((ConstraintLayout) rootView, buttonAddMyCart, buttonCheckout,
           buttonDeleteMyItemCard, imageView8, linearLayout14, linearLayout16, linearLayout17,
-          linearLayout18, myCart, radioButtonGiftCard, textView14, textViewPrice,
-          textViewTitleMyCart);
+          linearLayout18, myCart, radioButtonGiftCard, textView14, textViewPrice, titleCard);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

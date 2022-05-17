@@ -1,28 +1,27 @@
-/*package com.example.harmony.ui.MyAccount;
+package com.example.harmony.ui.MyAccount;
 
 import androidx.fragment.app.FragmentTransaction;
+import androidx.lifecycle.ViewModelProvider;
 
 import android.os.Bundle;
 
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.fragment.app.Fragment;
-import androidx.lifecycle.ViewModelProvider;
 
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
 
-import com.example.harmony.ui.PersonInformation.PersonInformationFragment;
 import com.example.harmony.R;
-import com.example.harmony.ui.Bookings.BookingsFragment;
+
 import com.example.harmony.ui.MyPoints.MyPoints;
+import com.example.harmony.ui.PersonInformation.PersonInformationFragment;
 
 public class Account extends Fragment {
 
     private AccountViewModel mViewModel;
-    private Button button;
 
     public static Account newInstance() {
         return new Account();
@@ -58,15 +57,7 @@ public class Account extends Fragment {
             }
         });
 
-        Button button2=(Button)rootView.findViewById(R.id.Bookings);
-        button2.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                FragmentTransaction fr=getFragmentManager().beginTransaction();
-                fr.replace(R.id.container,new BookingsFragment());
-                fr.commit();
-            }
-        });
+
         Button button3=(Button)rootView.findViewById(R.id.Subscriptions);
         button3.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -85,12 +76,12 @@ public class Account extends Fragment {
                 fr.commit();
             }
         });
-       // button= rootView.findViewById(R.id.PersonInformation);
-       // button.setOnClickListener(new View.OnClickListener() {
-           // @Override
-            //public void onClick(View view) {
-              //  Toast.makeText(getActivity(),"Hey",Toast.LENGTH_SHORT);
-           // }
+        // button= rootView.findViewById(R.id.PersonInformation);
+        // button.setOnClickListener(new View.OnClickListener() {
+        // @Override
+        //public void onClick(View view) {
+        //  Toast.makeText(getActivity(),"Hey",Toast.LENGTH_SHORT);
+        // }
         //});
         return rootView;
 
@@ -107,5 +98,5 @@ public class Account extends Fragment {
 
     }
 
+
 }
-*/

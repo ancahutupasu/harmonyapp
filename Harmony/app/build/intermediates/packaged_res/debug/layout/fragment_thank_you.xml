@@ -21,11 +21,12 @@
         app:layout_constraintTop_toTopOf="parent">
 
         <Space
+            android:id="@+id/space"
             android:layout_width="match_parent"
             android:layout_height="89dp" />
 
         <TextView
-            android:id="@+id/textView11"
+            android:id="@+id/thank"
             android:layout_width="match_parent"
             android:layout_height="55dp"
             android:text="Thank you for your order!"
@@ -33,6 +34,7 @@
             android:textSize="24sp" />
 
         <Space
+            android:id="@+id/space1"
             android:layout_width="match_parent"
             android:layout_height="156dp" />
 
@@ -42,12 +44,13 @@
             android:orientation="horizontal">
 
             <Space
+                android:id="@+id/space2"
                 android:layout_width="199dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1" />
 
             <Button
-                android:id="@+id/button7"
+                android:id="@+id/goHome"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"

@@ -11,7 +11,8 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         app:layout_constraintEnd_toEndOf="parent"
-        tools:layout_editor_absoluteY="61dp">
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
 
         <androidx.constraintlayout.widget.ConstraintLayout
             android:id="@+id/frameLayout"
@@ -54,7 +55,8 @@
                 app:layout_constraintBottom_toTopOf="@+id/ratingReviewBar"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintHorizontal_bias="0.492"
-                app:layout_constraintStart_toStartOf="parent" />
+                app:layout_constraintStart_toStartOf="parent"
+                tools:ignore="SpeakableTextPresentCheck" />
 
             <RatingBar
                 android:id="@+id/ratingReviewBar"
@@ -63,7 +65,7 @@
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintHorizontal_bias="0.497"
                 app:layout_constraintStart_toStartOf="parent"
-                tools:ignore="MissingConstraints"
+                tools:ignore="MissingConstraints,SpeakableTextPresentCheck"
                 tools:layout_editor_absoluteY="307dp" />
 
 
@@ -73,9 +75,9 @@
                 android:layout_height="wrap_content"
                 android:onClick="addReview"
                 android:text="@string/add"
+                tools:ignore="MissingConstraints"
                 tools:layout_editor_absoluteX="72dp"
-                tools:layout_editor_absoluteY="425dp"
-                tools:ignore="MissingConstraints" />
+                tools:layout_editor_absoluteY="425dp" />
 
             <Button
                 android:id="@+id/cancelReviewButton"
@@ -83,9 +85,9 @@
                 android:layout_height="wrap_content"
                 android:onClick="cancelReview"
                 android:text="@string/cancel"
+                tools:ignore="MissingConstraints"
                 tools:layout_editor_absoluteX="243dp"
-                tools:layout_editor_absoluteY="425dp"
-                tools:ignore="MissingConstraints" />
+                tools:layout_editor_absoluteY="425dp" />
 
         </androidx.constraintlayout.widget.ConstraintLayout>
     </ScrollView>
