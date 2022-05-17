@@ -2939,15 +2939,19 @@ id Back
 id Bookings
 id CTRL
 id Click
+id ContactUs
 id Done
+id Email
 id FUNCTION
 id Go
 id Id
 id Logout
 id META
+id Monday
 id MyPoints
 id NO_DEBUG
 id Name
+id Payment
 id Person
 id PersonInformation
 id Reviews
@@ -2960,6 +2964,7 @@ id Submit
 id Subscriptions
 id TOP_END
 id TOP_START
+id ThankYou
 id accelerate
 id accessibility_action_clickable_span
 id accessibility_custom_action_0
@@ -3064,8 +3069,10 @@ id btnBook4
 id btn_holder
 id button
 id button2
+id button3
 id button5
 id button6
+id button7
 id buttonAddMyCart
 id buttonBack3
 id buttonBack4
@@ -3105,6 +3112,7 @@ id chip3
 id chip_group
 id chronometer
 id circle_center
+id city
 id clear_text
 id clip_horizontal
 id clip_vertical
@@ -3116,6 +3124,7 @@ id confirm_button
 id confirmation_code
 id confirmation_code_layout
 id constraint
+id contact
 id container
 id content
 id contentPanel
@@ -3212,6 +3221,7 @@ id fragment_container_view_tag
 id fragment_phone
 id fragment_register_email
 id frameLayout
+id friday
 id frost
 id ghost_view
 id ghost_view_holder
@@ -3300,6 +3310,8 @@ id linearLayout31
 id linearLayout32
 id linearLayout33
 id linearLayout34
+id linearLayout35
+id linearLayout36
 id linearLayout4
 id linearLayout5
 id linearLayout6
@@ -3310,10 +3322,13 @@ id listMode
 id listView
 id list_item
 id locale
+id location
 id loginButton
 id logo
 id ltr
+id mail
 id main_tos_and_pp
+id map
 id masked
 id match_constraint
 id match_parent
@@ -3458,9 +3473,11 @@ id north
 id notification_background
 id notification_main_column
 id notification_main_column_container
+id number
 id off
 id on
 id onInterceptTouchReturnSwipe
+id opening
 id outline
 id outward
 id overshoot
@@ -3478,6 +3495,7 @@ id path
 id pathRelative
 id peekHeight
 id percent
+id phone
 id phone_button
 id phone_layout
 id phone_number
@@ -3487,6 +3505,10 @@ id postLayout
 id progress_circular
 id progress_horizontal
 id radio
+id radioButton
+id radioButton2
+id radioButton3
+id radioButton4
 id radioButtonGiftCard
 id ratingReviewBar
 id ratio
@@ -3508,6 +3530,7 @@ id rounded
 id row_index_key
 id rtl
 id satellite
+id saturday
 id save_non_transition_alpha
 id save_overlay_view
 id sawtooth
@@ -3572,9 +3595,11 @@ id staticLayout
 id staticPostLayout
 id status_bar_latest_event_content
 id stop
+id street
 id stretch
 id submenuarrow
 id submit_area
+id sunday
 id supportScrollUp
 id tabMode
 id tag_accessibility_actions
@@ -3604,6 +3629,8 @@ id textStart
 id textTop
 id textView
 id textView10
+id textView11
+id textView13
 id textView14
 id textView17
 id textView18
@@ -3611,6 +3638,7 @@ id textView19
 id textView2
 id textView20
 id textView21
+id textView22
 id textView3
 id textView4
 id textView5
@@ -3631,6 +3659,7 @@ id textinput_helper_text
 id textinput_placeholder
 id textinput_prefix_text
 id textinput_suffix_text
+id thursday
 id ticker
 id time
 id title
@@ -3652,6 +3681,7 @@ id transition_scene_layoutid_cache
 id transition_transform
 id triangle
 id trouble_signing_in
+id tuesday
 id txtCounter
 id unchecked
 id uniform
@@ -3669,6 +3699,7 @@ id view_tree_view_model_store_owner
 id visible
 id visible_removing_fragment_view_tag
 id volume_item_container
+id wednesday
 id welcome_back_email_link_body
 id welcome_back_idp_button
 id welcome_back_idp_prompt
@@ -3812,10 +3843,13 @@ layout design_text_input_start_icon
 layout fragment_add_reviews
 layout fragment_before_checkout_page
 layout fragment_bookings
+layout fragment_contact_us
 layout fragment_login
 layout fragment_my_cart
+layout fragment_payment
 layout fragment_reviews
 layout fragment_subscriptions
+layout fragment_thank_you
 layout fui_activity_invisible
 layout fui_activity_register_email
 layout fui_activity_register_phone
