@@ -102,4 +102,7 @@ public class UserRepository {
     public void firebaseAuthWithGoogle(boolean isRegister, GoogleSignInAccount account, FragmentActivity activity) {
         userDAO.firebaseAuthWithGoogle(isRegister,account, activity);
     }
+
+    public void setBackPressed(Boolean isBackInPressed) {
+    }
 }

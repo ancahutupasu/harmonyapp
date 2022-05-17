@@ -39,6 +39,9 @@ public final class FragmentContactUsBinding implements ViewBinding {
   public final TextView contact;
 
   @NonNull
+  public final ImageButton facebook;
+
+  @NonNull
   public final TextView friday;
 
   @NonNull
@@ -82,18 +85,19 @@ public final class FragmentContactUsBinding implements ViewBinding {
 
   private FragmentContactUsBinding(@NonNull ConstraintLayout rootView,
       @NonNull ConstraintLayout ContactUs, @NonNull ImageButton Email, @NonNull TextView Monday,
-      @NonNull EditText city, @NonNull TextView contact, @NonNull TextView friday,
-      @NonNull LinearLayout linearLayout36, @NonNull TextView location, @NonNull EditText mail,
-      @NonNull MapView map, @NonNull ImageButton number, @NonNull TextView opening,
-      @NonNull EditText phone, @NonNull TextView saturday, @NonNull EditText street,
-      @NonNull TextView sunday, @NonNull TextView thursday, @NonNull TextView tuesday,
-      @NonNull TextView wednesday) {
+      @NonNull EditText city, @NonNull TextView contact, @NonNull ImageButton facebook,
+      @NonNull TextView friday, @NonNull LinearLayout linearLayout36, @NonNull TextView location,
+      @NonNull EditText mail, @NonNull MapView map, @NonNull ImageButton number,
+      @NonNull TextView opening, @NonNull EditText phone, @NonNull TextView saturday,
+      @NonNull EditText street, @NonNull TextView sunday, @NonNull TextView thursday,
+      @NonNull TextView tuesday, @NonNull TextView wednesday) {
     this.rootView = rootView;
     this.ContactUs = ContactUs;
     this.Email = Email;
     this.Monday = Monday;
     this.city = city;
     this.contact = contact;
+    this.facebook = facebook;
     this.friday = friday;
     this.linearLayout36 = linearLayout36;
     this.location = location;
@@ -160,6 +164,12 @@ public final class FragmentContactUsBinding implements ViewBinding {
       id = R.id.contact;
       TextView contact = ViewBindings.findChildViewById(rootView, id);
       if (contact == null) {
+        break missingId;
+      }
+
+      id = R.id.facebook;
+      ImageButton facebook = ViewBindings.findChildViewById(rootView, id);
+      if (facebook == null) {
         break missingId;
       }
 
@@ -248,8 +258,8 @@ public final class FragmentContactUsBinding implements ViewBinding {
       }
 
       return new FragmentContactUsBinding((ConstraintLayout) rootView, ContactUs, Email, Monday,
-          city, contact, friday, linearLayout36, location, mail, map, number, opening, phone,
-          saturday, street, sunday, thursday, tuesday, wednesday);
+          city, contact, facebook, friday, linearLayout36, location, mail, map, number, opening,
+          phone, saturday, street, sunday, thursday, tuesday, wednesday);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

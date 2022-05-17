@@ -4,7 +4,7 @@
             "outputFile": "com.example.harmony.app-mergeDebugResources-38:/values-ldrtl-v17/values-ldrtl-v17.xml",
             "map": [
                 {
-                    "source": "/Users/shadow_asura/.gradle/caches/transforms-3/0b61725ab4c930b151c4488a893666fd/transformed/material-1.5.0/res/values-ldrtl-v17/values-ldrtl-v17.xml",
+                    "source": "C:\\Users\\ravne\\.gradle\\caches\\transforms-3\\0b61725ab4c930b151c4488a893666fd\\transformed\\material-1.5.0\\res\\values-ldrtl-v17\\values-ldrtl-v17.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",

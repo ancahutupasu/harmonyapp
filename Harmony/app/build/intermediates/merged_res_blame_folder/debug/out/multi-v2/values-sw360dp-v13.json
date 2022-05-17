@@ -4,7 +4,7 @@
             "outputFile": "com.example.harmony.app-mergeDebugResources-38:/values-sw360dp-v13/values-sw360dp-v13.xml",
             "map": [
                 {
-                    "source": "/Users/shadow_asura/.gradle/caches/transforms-3/95b389769188de4a523a11d52c5b314f/transformed/firebase-ui-auth-8.0.1/res/values-sw360dp-v13/values-sw360dp-v13.xml",
+                    "source": "C:\\Users\\ravne\\.gradle\\caches\\transforms-3\\95b389769188de4a523a11d52c5b314f\\transformed\\firebase-ui-auth-8.0.1\\res\\values-sw360dp-v13\\values-sw360dp-v13.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8",
                         "startColumns": "4,4,4,4,4,4,4",

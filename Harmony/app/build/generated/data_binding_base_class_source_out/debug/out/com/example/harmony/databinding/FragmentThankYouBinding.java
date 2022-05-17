@@ -5,6 +5,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
+import android.widget.Space;
 import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
@@ -24,17 +25,30 @@ public final class FragmentThankYouBinding implements ViewBinding {
   public final ConstraintLayout ThankYou;
 
   @NonNull
-  public final Button button7;
+  public final Button goHome;
 
   @NonNull
-  public final TextView textView11;
+  public final Space space;
+
+  @NonNull
+  public final Space space1;
+
+  @NonNull
+  public final Space space2;
+
+  @NonNull
+  public final TextView thank;
 
   private FragmentThankYouBinding(@NonNull ConstraintLayout rootView,
-      @NonNull ConstraintLayout ThankYou, @NonNull Button button7, @NonNull TextView textView11) {
+      @NonNull ConstraintLayout ThankYou, @NonNull Button goHome, @NonNull Space space,
+      @NonNull Space space1, @NonNull Space space2, @NonNull TextView thank) {
     this.rootView = rootView;
     this.ThankYou = ThankYou;
-    this.button7 = button7;
-    this.textView11 = textView11;
+    this.goHome = goHome;
+    this.space = space;
+    this.space1 = space1;
+    this.space2 = space2;
+    this.thank = thank;
   }
 
   @Override
@@ -66,20 +80,38 @@ public final class FragmentThankYouBinding implements ViewBinding {
     missingId: {
       ConstraintLayout ThankYou = (ConstraintLayout) rootView;
 
-      id = R.id.button7;
-      Button button7 = ViewBindings.findChildViewById(rootView, id);
-      if (button7 == null) {
+      id = R.id.goHome;
+      Button goHome = ViewBindings.findChildViewById(rootView, id);
+      if (goHome == null) {
         break missingId;
       }
 
-      id = R.id.textView11;
-      TextView textView11 = ViewBindings.findChildViewById(rootView, id);
-      if (textView11 == null) {
+      id = R.id.space;
+      Space space = ViewBindings.findChildViewById(rootView, id);
+      if (space == null) {
         break missingId;
       }
 
-      return new FragmentThankYouBinding((ConstraintLayout) rootView, ThankYou, button7,
-          textView11);
+      id = R.id.space1;
+      Space space1 = ViewBindings.findChildViewById(rootView, id);
+      if (space1 == null) {
+        break missingId;
+      }
+
+      id = R.id.space2;
+      Space space2 = ViewBindings.findChildViewById(rootView, id);
+      if (space2 == null) {
+        break missingId;
+      }
+
+      id = R.id.thank;
+      TextView thank = ViewBindings.findChildViewById(rootView, id);
+      if (thank == null) {
+        break missingId;
+      }
+
+      return new FragmentThankYouBinding((ConstraintLayout) rootView, ThankYou, goHome, space,
+          space1, space2, thank);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

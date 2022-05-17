@@ -1,6 +1,8 @@
 package com.example.harmony.ui.MyPoints;
 
+import androidx.fragment.app.FragmentTransaction;
 import androidx.lifecycle.ViewModelProvider;
+
 
 import android.os.Bundle;
 
@@ -8,16 +10,19 @@ import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.fragment.app.Fragment;
 
-import android.util.Log;
+
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.Button;
 
 import com.example.harmony.R;
+import com.example.harmony.ui.MyAccount.Account;
+
 
 public class MyPoints extends Fragment {
 
-    private MyPointsViewModel mViewModel;
+
 
 
     public static MyPoints newInstance() {
@@ -27,16 +32,25 @@ public class MyPoints extends Fragment {
     @Override
     public View onCreateView(@NonNull LayoutInflater inflater, @Nullable ViewGroup container,
                              @Nullable Bundle savedInstanceState) {
+        View rootView=inflater.inflate(R.layout.account, container, false);
+        Button button5=(Button)rootView.findViewById(R.id.Points);
+        button5.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                FragmentTransaction fr=getFragmentManager().beginTransaction();
+                fr.replace(R.id.container,new Account());
+                fr.commit();
+            }
+        });
         return inflater.inflate(R.layout.mypoints, container, false);
-        /*mViewModel=new MyPointsViewModel();
-        Log.i("MyPoints","Main view model ois initialized");*/
     }
 
     @Override
     public void onActivityCreated(@Nullable Bundle savedInstanceState) {
         super.onActivityCreated(savedInstanceState);
-        mViewModel = new ViewModelProvider(this).get(MyPointsViewModel.class);
-        // TODO: Use the ViewModel
+        MyPointsViewModel mViewModel = new ViewModelProvider(this).get(MyPointsViewModel.class);
+
+
     }
 
 }
