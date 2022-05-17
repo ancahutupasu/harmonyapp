@@ -8,19 +8,17 @@ import android.view.View;
 import android.widget.Button;
 
 import com.example.harmony.ui.MyPoints.MyPointsViewModel;
-import com.example.harmony.ui.PersonInformation.PersonInformationFragment;
-import com.example.harmony.ui.PersonInformation.PersonInformationViewModel;
 
 public class Main extends AppCompatActivity {
 
-    private PersonInformationViewModel personViewModel;
+    /*private PersonInformationViewModel personViewModel;*/
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main);
 
-        Button button=findViewById(R.id.Id);
+       /* Button button=findViewById(R.id.Id);
         button.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
@@ -33,6 +31,6 @@ public class Main extends AppCompatActivity {
                 .add(R.id.Id,new PersonInformationFragment())
                 .commit();
 
-
+*/
     }
 }

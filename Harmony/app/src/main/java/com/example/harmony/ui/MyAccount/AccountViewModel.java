@@ -1,4 +1,4 @@
-package com.example.harmony.ui.MyAccount;
+/*package com.example.harmony.ui.MyAccount;
 
 import android.app.Application;
 
@@ -15,4 +15,4 @@ public class AccountViewModel extends ViewModel {
     }
 
 
-}
+}*/

@@ -1,4 +1,4 @@
-package com.example.harmony.ui.PersonInformation;
+/*package com.example.harmony.ui.PersonInformation;
 
 import androidx.fragment.app.FragmentManager;
 import androidx.fragment.app.FragmentTransaction;
@@ -107,4 +107,4 @@ public class PersonInformationFragment extends Fragment {
 
     public void on(FragmentManager supportFragmentManager, String personInformationFragment) {
     }
-}
+}*/

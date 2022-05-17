@@ -33,11 +33,11 @@ com.example.harmony.app-navigation-runtime-2.4.2-31 C:\Users\Anca\.gradle\caches
 com.example.harmony.app-play-services-basement-18.0.0-32 C:\Users\Anca\.gradle\caches\transforms-3\f4edb30f12a4233ffb8ce3032d6469ff\transformed\play-services-basement-18.0.0\res
 com.example.harmony.app-window-1.0.0-33 C:\Users\Anca\.gradle\caches\transforms-3\f65b5ca91da7c8c2dd021bd66811129e\transformed\window-1.0.0\res
 com.example.harmony.app-coordinatorlayout-1.1.0-34 C:\Users\Anca\.gradle\caches\transforms-3\fafe20f33fc1f1973a5a6b5f88e11979\transformed\coordinatorlayout-1.1.0\res
-com.example.harmony.app-pngs-35 D:\Android project\harmonyapp\Harmony\app\build\generated\res\pngs\debug
-com.example.harmony.app-resValues-36 D:\Android project\harmonyapp\Harmony\app\build\generated\res\resValues\debug
-com.example.harmony.app-rs-37 D:\Android project\harmonyapp\Harmony\app\build\generated\res\rs\debug
-com.example.harmony.app-packageDebugResources-38 D:\Android project\harmonyapp\Harmony\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
-com.example.harmony.app-packageDebugResources-39 D:\Android project\harmonyapp\Harmony\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
-com.example.harmony.app-merged_res-40 D:\Android project\harmonyapp\Harmony\app\build\intermediates\merged_res\debug
-com.example.harmony.app-debug-41 D:\Android project\harmonyapp\Harmony\app\src\debug\res
-com.example.harmony.app-main-42 D:\Android project\harmonyapp\Harmony\app\src\main\res
+com.example.harmony.app-pngs-35 C:\Users\Anca\AndroidStudioProjects\harmonyapp\Harmony\app\build\generated\res\pngs\debug
+com.example.harmony.app-resValues-36 C:\Users\Anca\AndroidStudioProjects\harmonyapp\Harmony\app\build\generated\res\resValues\debug
+com.example.harmony.app-rs-37 C:\Users\Anca\AndroidStudioProjects\harmonyapp\Harmony\app\build\generated\res\rs\debug
+com.example.harmony.app-packageDebugResources-38 C:\Users\Anca\AndroidStudioProjects\harmonyapp\Harmony\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.harmony.app-packageDebugResources-39 C:\Users\Anca\AndroidStudioProjects\harmonyapp\Harmony\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.harmony.app-merged_res-40 C:\Users\Anca\AndroidStudioProjects\harmonyapp\Harmony\app\build\intermediates\merged_res\debug
+com.example.harmony.app-debug-41 C:\Users\Anca\AndroidStudioProjects\harmonyapp\Harmony\app\src\debug\res
+com.example.harmony.app-main-42 C:\Users\Anca\AndroidStudioProjects\harmonyapp\Harmony\app\src\main\res

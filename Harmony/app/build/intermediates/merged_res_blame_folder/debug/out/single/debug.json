@@ -36,10 +36,6 @@
         "source": "com.example.harmony.app-main-42:/layout/item.xml"
     },
     {
-        "merged": "com.example.harmony.app-merged_res-40:/layout_register.xml.flat",
-        "source": "com.example.harmony.app-main-42:/layout/register.xml"
-    },
-    {
         "merged": "com.example.harmony.app-merged_res-40:/drawable-xxxhdpi_imag2.png.flat",
         "source": "com.example.harmony.app-main-42:/drawable-xxxhdpi/imag2.png"
     },
@@ -64,6 +60,10 @@
         "source": "com.example.harmony.app-main-42:/drawable-xxxhdpi/ic_action_name.png"
     },
     {
+        "merged": "com.example.harmony.app-merged_res-40:/layout_item_recommendation.xml.flat",
+        "source": "com.example.harmony.app-main-42:/layout/item_recommendation.xml"
+    },
+    {
         "merged": "com.example.harmony.app-merged_res-40:/layout_mypoints.xml.flat",
         "source": "com.example.harmony.app-main-42:/layout/mypoints.xml"
     },
@@ -74,6 +74,10 @@
     {
         "merged": "com.example.harmony.app-merged_res-40:/menu_navigation_menu.xml.flat",
         "source": "com.example.harmony.app-main-42:/menu/navigation_menu.xml"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/layout_item_review.xml.flat",
+        "source": "com.example.harmony.app-main-42:/layout/item_review.xml"
     },
     {
         "merged": "com.example.harmony.app-merged_res-40:/layout_personinformation.xml.flat",
@@ -158,10 +162,6 @@
     {
         "merged": "com.example.harmony.app-merged_res-40:/mipmap-anydpi-v26_ic_launcher.xml.flat",
         "source": "com.example.harmony.app-main-42:/mipmap-anydpi-v26/ic_launcher.xml"
-    },
-    {
-        "merged": "com.example.harmony.app-merged_res-40:/layout_fragment_register.xml.flat",
-        "source": "com.example.harmony.app-main-42:/layout/fragment_register.xml"
     },
     {
         "merged": "com.example.harmony.app-merged_res-40:/mipmap-mdpi_ic_launcher_round.webp.flat",
