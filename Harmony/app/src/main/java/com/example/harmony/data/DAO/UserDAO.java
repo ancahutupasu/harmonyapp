@@ -194,11 +194,11 @@ public class UserDAO {
         passwordResetDialog.create().show();
     }
 
-    public void createUser(String uid, String email) {
+    public void createUser(String id, String email) {
 
         Map<String, Object> user = new HashMap<>();
         user.put("email", email);
-        user.put("uid", uid);
+        user.put("id", id);
         user.put("reviews", 0);
         user.put("userName", "Not set");
         user.put("fullName", "Not set");
@@ -207,7 +207,7 @@ public class UserDAO {
         user.put("role", Role.MEMBER);
         user.put("likes",0);
 
-        firebaseDatabase.collection("users").document(uid)
+        firebaseDatabase.collection("users").document(id)
                 .set(user)
                 .addOnSuccessListener(aVoid -> Log.d(TAG, "User created successfully!"))
                 .addOnFailureListener(e -> Log.w(TAG, "Error writing the user", e));
