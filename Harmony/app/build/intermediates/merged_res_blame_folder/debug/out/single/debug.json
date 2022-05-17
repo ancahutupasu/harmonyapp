@@ -16,12 +16,12 @@
         "source": "C:\\Users\\Anca\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-42:\\layout\\item.xml"
     },
     {
-        "merged": "C:\\Users\\Anca\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-40:\\drawable-mdpi_ic_action_name.png.flat",
-        "source": "C:\\Users\\Anca\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-42:\\drawable-mdpi\\ic_action_name.png"
-    },
-    {
         "merged": "C:\\Users\\Anca\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-40:\\drawable-xxxhdpi_imag2.png.flat",
         "source": "C:\\Users\\Anca\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-42:\\drawable-xxxhdpi\\imag2.png"
+    },
+    {
+        "merged": "C:\\Users\\Anca\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-40:\\drawable-mdpi_ic_action_name.png.flat",
+        "source": "C:\\Users\\Anca\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-42:\\drawable-mdpi\\ic_action_name.png"
     },
     {
         "merged": "C:\\Users\\Anca\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-merged_res-40:\\layout_personinformation.xml.flat",

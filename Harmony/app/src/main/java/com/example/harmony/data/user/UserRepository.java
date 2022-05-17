@@ -117,4 +117,7 @@ public class UserRepository {
 
     public void setMapPressed(Boolean isMapPressed) {
     }
+
+    public void setHomePressed(Boolean isHomeInPressed) {
+    }
 }

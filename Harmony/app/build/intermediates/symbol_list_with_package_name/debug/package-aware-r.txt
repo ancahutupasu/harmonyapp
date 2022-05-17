@@ -2947,6 +2947,7 @@ id Email
 id FAQ
 id FUNCTION
 id Go
+id Home
 id Id
 id Logout
 id META

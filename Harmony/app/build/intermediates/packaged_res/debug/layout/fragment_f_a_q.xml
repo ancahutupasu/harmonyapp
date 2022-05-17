@@ -144,4 +144,25 @@
             android:text="Yes,please check the service page!" />
     </LinearLayout>
 
+    <LinearLayout
+        android:layout_width="105dp"
+        android:layout_height="46dp"
+        android:layout_marginStart="274dp"
+        android:layout_marginTop="4dp"
+        android:layout_marginEnd="36dp"
+        android:layout_marginBottom="16dp"
+        android:orientation="horizontal"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/linearLayout38">
+
+        <Button
+            android:id="@+id/Home"
+            android:layout_width="wrap_content"
+            android:layout_height="48dp"
+            android:layout_weight="1"
+            android:text="Home" />
+    </LinearLayout>
+
 </androidx.constraintlayout.widget.ConstraintLayout>

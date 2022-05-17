@@ -4,12 +4,12 @@
         "source": "C:\\Users\\Anca\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-42:\\layout\\personinformation.xml"
     },
     {
-        "merged": "C:\\Users\\Anca\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-mergeDebugResources-39:\\layout\\activity_package4.xml",
-        "source": "C:\\Users\\Anca\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-42:\\layout\\activity_package4.xml"
-    },
-    {
         "merged": "C:\\Users\\Anca\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-mergeDebugResources-39:\\layout\\activity_package1.xml",
         "source": "C:\\Users\\Anca\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-42:\\layout\\activity_package1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anca\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-mergeDebugResources-39:\\layout\\activity_package4.xml",
+        "source": "C:\\Users\\Anca\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-main-42:\\layout\\activity_package4.xml"
     },
     {
         "merged": "C:\\Users\\Anca\\.gradle\\daemon\\7.3.3\\com.example.harmony.app-mergeDebugResources-39:\\layout\\activity_person_information.xml",

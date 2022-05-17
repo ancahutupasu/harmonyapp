@@ -11,12 +11,28 @@ import androidx.fragment.app.Fragment;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.Button;
+import android.widget.CheckBox;
+import android.widget.EditText;
+import android.widget.TextView;
 
 import com.example.harmony.R;
 
 public class BeforeCheckoutPage extends Fragment {
 
     private BeforeCheckoutPageViewModel mViewModel;
+
+    Button buttonLog;
+    Button buttonSignup;
+    EditText persName;
+    EditText phone1;
+    EditText email1;
+    TextView terms;
+    TextView cancelText;
+    CheckBox agreeTerms;
+    Button cont;
+    View view;
+
 
     public static BeforeCheckoutPage newInstance() {
         return new BeforeCheckoutPage();
@@ -25,14 +41,37 @@ public class BeforeCheckoutPage extends Fragment {
     @Override
     public View onCreateView(@NonNull LayoutInflater inflater, @Nullable ViewGroup container,
                              @Nullable Bundle savedInstanceState) {
-        return inflater.inflate(R.layout.fragment_before_checkout_page, container, false);
+        View view = inflater.inflate(R.layout.fragment_before_checkout_page, container, false);
+
+        buttonLog = view.findViewById(R.id.buttonLog);
+        buttonSignup = view.findViewById(R.id.buttonSignup);
+        persName = view.findViewById(R.id.persName);
+        phone1 = view.findViewById(R.id.phone1);
+        email1 = view.findViewById(R.id.email1);
+        terms = view.findViewById(R.id.terms);
+        cancelText = view.findViewById(R.id.cancelText);
+        agreeTerms = view.findViewById(R.id.agreeTerms);
+        cont = view.findViewById(R.id.cont);
+
+        return view;
     }
 
     @Override
     public void onActivityCreated(@Nullable Bundle savedInstanceState) {
         super.onActivityCreated(savedInstanceState);
         mViewModel = new ViewModelProvider(this).get(BeforeCheckoutPageViewModel.class);
-        // TODO: Use the ViewModel
+
+       /* buttonLog.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                buttonLog.navigate.(R.id.LoginFragment);
+
+            }
+        });
+        
+        */
     }
+
+
 
 }

@@ -73,7 +73,15 @@ public class FAQFragment extends Fragment {
     public void onActivityCreated(@Nullable Bundle savedInstanceState) {
         super.onActivityCreated(savedInstanceState);
         mViewModel = new ViewModelProvider(this).get(FAQViewModel.class);
-        // TODO: Use the ViewModel
+
+       /* Home.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Home.navigate(R.id.firstPage);
+            }
+        });
+       return view;
+        */
     }
 
 }
