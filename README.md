@@ -79,3 +79,8 @@ Brief description:
 - the app will be used by the owner of the bussiness, to make her life and customers easier;
 - also, having an app will help with the marketing and getting more customers;
 - not everyone want to browse for the website or facebook page to get more information, make bookings - with the application everything is in one place.
+
+
+#References
+Firebase: https://www.youtube.com/watch?v=wa8OrQ_e76M
+Profile UI: https://www.youtube.com/watch?v=BCZUdl3CXKM&t=25s
