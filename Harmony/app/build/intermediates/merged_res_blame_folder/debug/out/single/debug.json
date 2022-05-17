@@ -1,0 +1,862 @@
+[
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/mipmap-xhdpi_image1_foreground.png.flat",
+        "source": "com.example.harmony.app-main-42:/mipmap-xhdpi/image1_foreground.png"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/drawable-hdpi_ic_about.xml.flat",
+        "source": "com.example.harmony.app-main-42:/drawable-hdpi/ic_about.xml"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/mipmap-hdpi_info.png.flat",
+        "source": "com.example.harmony.app-main-42:/mipmap-hdpi/info.png"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/mipmap-mdpi_image4.png.flat",
+        "source": "com.example.harmony.app-main-42:/mipmap-mdpi/image4.png"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/mipmap-xxxhdpi_image4_round.png.flat",
+        "source": "com.example.harmony.app-main-42:/mipmap-xxxhdpi/image4_round.png"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/mipmap-xxxhdpi_opening.png.flat",
+        "source": "com.example.harmony.app-main-42:/mipmap-xxxhdpi/opening.png"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/mipmap-xxhdpi_image1.png.flat",
+        "source": "com.example.harmony.app-main-42:/mipmap-xxhdpi/image1.png"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/drawable-hdpi_facebook.png.flat",
+        "source": "com.example.harmony.app-main-42:/drawable-hdpi/facebook.png"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.harmony.app-main-42:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/layout_fragment_offers.xml.flat",
+        "source": "com.example.harmony.app-main-42:/layout/fragment_offers.xml"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/mipmap-xxhdpi_info_foreground.png.flat",
+        "source": "com.example.harmony.app-main-42:/mipmap-xxhdpi/info_foreground.png"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/mipmap-xxxhdpi_image1_round.png.flat",
+        "source": "com.example.harmony.app-main-42:/mipmap-xxxhdpi/image1_round.png"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/drawable-hdpi_opening_background.xml.flat",
+        "source": "com.example.harmony.app-main-42:/drawable-hdpi/opening_background.xml"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/mipmap-hdpi_image3_round.png.flat",
+        "source": "com.example.harmony.app-main-42:/mipmap-hdpi/image3_round.png"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/mipmap-xxxhdpi_image1.png.flat",
+        "source": "com.example.harmony.app-main-42:/mipmap-xxxhdpi/image1.png"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/mipmap-xxhdpi_image2.png.flat",
+        "source": "com.example.harmony.app-main-42:/mipmap-xxhdpi/image2.png"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/mipmap-hdpi_image1.png.flat",
+        "source": "com.example.harmony.app-main-42:/mipmap-hdpi/image1.png"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/mipmap-xxhdpi_image2_round.png.flat",
+        "source": "com.example.harmony.app-main-42:/mipmap-xxhdpi/image2_round.png"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.example.harmony.app-main-42:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/mipmap-anydpi-v26_image1.xml.flat",
+        "source": "com.example.harmony.app-main-42:/mipmap-anydpi-v26/image1.xml"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/mipmap-xhdpi_lifestyle_round.png.flat",
+        "source": "com.example.harmony.app-main-42:/mipmap-xhdpi/lifestyle_round.png"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.example.harmony.app-main-42:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/mipmap-xhdpi_image3_foreground.png.flat",
+        "source": "com.example.harmony.app-main-42:/mipmap-xhdpi/image3_foreground.png"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/mipmap-anydpi-v26_lifestyle.xml.flat",
+        "source": "com.example.harmony.app-main-42:/mipmap-anydpi-v26/lifestyle.xml"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/layout_fragment_home.xml.flat",
+        "source": "com.example.harmony.app-main-42:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/layout_fragment_login.xml.flat",
+        "source": "com.example.harmony.app-main-42:/layout/fragment_login.xml"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/drawable-hdpi_ic_action_name.png.flat",
+        "source": "com.example.harmony.app-main-42:/drawable-hdpi/ic_action_name.png"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/mipmap-xhdpi_opening_foreground.png.flat",
+        "source": "com.example.harmony.app-main-42:/mipmap-xhdpi/opening_foreground.png"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/mipmap-hdpi_opening_foreground.png.flat",
+        "source": "com.example.harmony.app-main-42:/mipmap-hdpi/opening_foreground.png"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/mipmap-xhdpi_image4_round.png.flat",
+        "source": "com.example.harmony.app-main-42:/mipmap-xhdpi/image4_round.png"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/mipmap-xhdpi_image1_round.png.flat",
+        "source": "com.example.harmony.app-main-42:/mipmap-xhdpi/image1_round.png"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/mipmap-anydpi-v26_image3_round.xml.flat",
+        "source": "com.example.harmony.app-main-42:/mipmap-anydpi-v26/image3_round.xml"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/layout_fragment_lifestyle_tips.xml.flat",
+        "source": "com.example.harmony.app-main-42:/layout/fragment_lifestyle_tips.xml"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/drawable-mdpi_ic_action_name.png.flat",
+        "source": "com.example.harmony.app-main-42:/drawable-mdpi/ic_action_name.png"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/drawable-xxhdpi_ic_lock.xml.flat",
+        "source": "com.example.harmony.app-main-42:/drawable-xxhdpi/ic_lock.xml"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.example.harmony.app-main-42:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/layout_navigation_drawer_header.xml.flat",
+        "source": "com.example.harmony.app-main-42:/layout/navigation_drawer_header.xml"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/mipmap-xhdpi_image4_foreground.png.flat",
+        "source": "com.example.harmony.app-main-42:/mipmap-xhdpi/image4_foreground.png"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/drawable-xhdpi_ic_action_name.png.flat",
+        "source": "com.example.harmony.app-main-42:/drawable-xhdpi/ic_action_name.png"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/mipmap-xxxhdpi_lifestyle_foreground.png.flat",
+        "source": "com.example.harmony.app-main-42:/mipmap-xxxhdpi/lifestyle_foreground.png"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/mipmap-hdpi_harmony_round.png.flat",
+        "source": "com.example.harmony.app-main-42:/mipmap-hdpi/harmony_round.png"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/mipmap-xxhdpi_image4.png.flat",
+        "source": "com.example.harmony.app-main-42:/mipmap-xxhdpi/image4.png"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/drawable-hdpi_ic_natures.xml.flat",
+        "source": "com.example.harmony.app-main-42:/drawable-hdpi/ic_natures.xml"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/mipmap-anydpi-v26_opening_round.xml.flat",
+        "source": "com.example.harmony.app-main-42:/mipmap-anydpi-v26/opening_round.xml"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/mipmap-xxxhdpi_image2.png.flat",
+        "source": "com.example.harmony.app-main-42:/mipmap-xxxhdpi/image2.png"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/drawable-hdpi_ic_feedback.xml.flat",
+        "source": "com.example.harmony.app-main-42:/drawable-hdpi/ic_feedback.xml"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/layout_fragment_contact_us.xml.flat",
+        "source": "com.example.harmony.app-main-42:/layout/fragment_contact_us.xml"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/mipmap-xxhdpi_harmony_foreground.png.flat",
+        "source": "com.example.harmony.app-main-42:/mipmap-xxhdpi/harmony_foreground.png"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/drawable-xxhdpi_ic_email.xml.flat",
+        "source": "com.example.harmony.app-main-42:/drawable-xxhdpi/ic_email.xml"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/layout_fragment_services_fragment2.xml.flat",
+        "source": "com.example.harmony.app-main-42:/layout/fragment_services_fragment2.xml"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/mipmap-anydpi-v26_image3.xml.flat",
+        "source": "com.example.harmony.app-main-42:/mipmap-anydpi-v26/image3.xml"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/mipmap-mdpi_image2.png.flat",
+        "source": "com.example.harmony.app-main-42:/mipmap-mdpi/image2.png"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/mipmap-xhdpi_info_round.png.flat",
+        "source": "com.example.harmony.app-main-42:/mipmap-xhdpi/info_round.png"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/menu_appbar.xml.flat",
+        "source": "com.example.harmony.app-main-42:/menu/appbar.xml"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/mipmap-mdpi_lifestyle_foreground.png.flat",
+        "source": "com.example.harmony.app-main-42:/mipmap-mdpi/lifestyle_foreground.png"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/mipmap-mdpi_image1_round.png.flat",
+        "source": "com.example.harmony.app-main-42:/mipmap-mdpi/image1_round.png"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/mipmap-mdpi_image4_round.png.flat",
+        "source": "com.example.harmony.app-main-42:/mipmap-mdpi/image4_round.png"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/mipmap-xxhdpi_image3_round.png.flat",
+        "source": "com.example.harmony.app-main-42:/mipmap-xxhdpi/image3_round.png"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/mipmap-xxhdpi_harmony_round.png.flat",
+        "source": "com.example.harmony.app-main-42:/mipmap-xxhdpi/harmony_round.png"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/layout_activity_main.xml.flat",
+        "source": "com.example.harmony.app-main-42:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/menu_navigation_drawer.xml.flat",
+        "source": "com.example.harmony.app-main-42:/menu/navigation_drawer.xml"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/mipmap-xxhdpi_image1_foreground.png.flat",
+        "source": "com.example.harmony.app-main-42:/mipmap-xxhdpi/image1_foreground.png"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/mipmap-hdpi_opening.png.flat",
+        "source": "com.example.harmony.app-main-42:/mipmap-hdpi/opening.png"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/mipmap-xxhdpi_info_round.png.flat",
+        "source": "com.example.harmony.app-main-42:/mipmap-xxhdpi/info_round.png"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.harmony.app-main-42:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/mipmap-hdpi_image3.png.flat",
+        "source": "com.example.harmony.app-main-42:/mipmap-hdpi/image3.png"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/mipmap-hdpi_image2_foreground.png.flat",
+        "source": "com.example.harmony.app-main-42:/mipmap-hdpi/image2_foreground.png"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/mipmap-xxxhdpi_image4.png.flat",
+        "source": "com.example.harmony.app-main-42:/mipmap-xxxhdpi/image4.png"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/layout_mypoints.xml.flat",
+        "source": "com.example.harmony.app-main-42:/layout/mypoints.xml"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.harmony.app-main-42:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/mipmap-xxxhdpi_opening_foreground.png.flat",
+        "source": "com.example.harmony.app-main-42:/mipmap-xxxhdpi/opening_foreground.png"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/drawable-hdpi_ic_teams.xml.flat",
+        "source": "com.example.harmony.app-main-42:/drawable-hdpi/ic_teams.xml"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/mipmap-xxxhdpi_info_foreground.png.flat",
+        "source": "com.example.harmony.app-main-42:/mipmap-xxxhdpi/info_foreground.png"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/mipmap-xxxhdpi_image1_foreground.png.flat",
+        "source": "com.example.harmony.app-main-42:/mipmap-xxxhdpi/image1_foreground.png"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/mipmap-xxxhdpi_opening_round.png.flat",
+        "source": "com.example.harmony.app-main-42:/mipmap-xxxhdpi/opening_round.png"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/mipmap-anydpi-v26_info_round.xml.flat",
+        "source": "com.example.harmony.app-main-42:/mipmap-anydpi-v26/info_round.xml"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/mipmap-xhdpi_harmony_round.png.flat",
+        "source": "com.example.harmony.app-main-42:/mipmap-xhdpi/harmony_round.png"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/mipmap-hdpi_harmony.png.flat",
+        "source": "com.example.harmony.app-main-42:/mipmap-hdpi/harmony.png"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/mipmap-mdpi_harmony_foreground.png.flat",
+        "source": "com.example.harmony.app-main-42:/mipmap-mdpi/harmony_foreground.png"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/drawable-xxhdpi_facebook.png.flat",
+        "source": "com.example.harmony.app-main-42:/drawable-xxhdpi/facebook.png"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/mipmap-xhdpi_opening_round.png.flat",
+        "source": "com.example.harmony.app-main-42:/mipmap-xhdpi/opening_round.png"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/mipmap-xxxhdpi_image2_round.png.flat",
+        "source": "com.example.harmony.app-main-42:/mipmap-xxxhdpi/image2_round.png"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/mipmap-hdpi_image2.png.flat",
+        "source": "com.example.harmony.app-main-42:/mipmap-hdpi/image2.png"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/layout_fragment_services.xml.flat",
+        "source": "com.example.harmony.app-main-42:/layout/fragment_services.xml"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/mipmap-mdpi_lifestyle_round.png.flat",
+        "source": "com.example.harmony.app-main-42:/mipmap-mdpi/lifestyle_round.png"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/mipmap-xxhdpi_image3.png.flat",
+        "source": "com.example.harmony.app-main-42:/mipmap-xxhdpi/image3.png"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/mipmap-hdpi_info_foreground.png.flat",
+        "source": "com.example.harmony.app-main-42:/mipmap-hdpi/info_foreground.png"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/menu_bottom_nav.xml.flat",
+        "source": "com.example.harmony.app-main-42:/menu/bottom_nav.xml"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/mipmap-hdpi_image1_round.png.flat",
+        "source": "com.example.harmony.app-main-42:/mipmap-hdpi/image1_round.png"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/mipmap-xxhdpi_opening_round.png.flat",
+        "source": "com.example.harmony.app-main-42:/mipmap-xxhdpi/opening_round.png"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/mipmap-xxxhdpi_image3.png.flat",
+        "source": "com.example.harmony.app-main-42:/mipmap-xxxhdpi/image3.png"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.harmony.app-main-42:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/mipmap-anydpi-v26_image2.xml.flat",
+        "source": "com.example.harmony.app-main-42:/mipmap-anydpi-v26/image2.xml"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/mipmap-xxhdpi_image3_foreground.png.flat",
+        "source": "com.example.harmony.app-main-42:/mipmap-xxhdpi/image3_foreground.png"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/mipmap-xhdpi_image1.png.flat",
+        "source": "com.example.harmony.app-main-42:/mipmap-xhdpi/image1.png"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/drawable-xxhdpi_google.png.flat",
+        "source": "com.example.harmony.app-main-42:/drawable-xxhdpi/google.png"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/mipmap-xxhdpi_lifestyle_foreground.png.flat",
+        "source": "com.example.harmony.app-main-42:/mipmap-xxhdpi/lifestyle_foreground.png"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/mipmap-anydpi-v26_harmony.xml.flat",
+        "source": "com.example.harmony.app-main-42:/mipmap-anydpi-v26/harmony.xml"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/mipmap-xxxhdpi_image3_foreground.png.flat",
+        "source": "com.example.harmony.app-main-42:/mipmap-xxxhdpi/image3_foreground.png"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/mipmap-mdpi_image3.png.flat",
+        "source": "com.example.harmony.app-main-42:/mipmap-mdpi/image3.png"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/mipmap-mdpi_opening.png.flat",
+        "source": "com.example.harmony.app-main-42:/mipmap-mdpi/opening.png"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/drawable-hdpi_info_background.xml.flat",
+        "source": "com.example.harmony.app-main-42:/drawable-hdpi/info_background.xml"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/mipmap-hdpi_image4_round.png.flat",
+        "source": "com.example.harmony.app-main-42:/mipmap-hdpi/image4_round.png"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.example.harmony.app-main-42:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/drawable-hdpi_ic_iv_calculator.xml.flat",
+        "source": "com.example.harmony.app-main-42:/drawable-hdpi/ic_iv_calculator.xml"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/mipmap-anydpi-v26_harmony_round.xml.flat",
+        "source": "com.example.harmony.app-main-42:/mipmap-anydpi-v26/harmony_round.xml"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/layout_fragment_thank_you.xml.flat",
+        "source": "com.example.harmony.app-main-42:/layout/fragment_thank_you.xml"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.harmony.app-main-42:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/mipmap-xxhdpi_lifestyle_round.png.flat",
+        "source": "com.example.harmony.app-main-42:/mipmap-xxhdpi/lifestyle_round.png"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/mipmap-xhdpi_image2_round.png.flat",
+        "source": "com.example.harmony.app-main-42:/mipmap-xhdpi/image2_round.png"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/mipmap-xhdpi_harmony_foreground.png.flat",
+        "source": "com.example.harmony.app-main-42:/mipmap-xhdpi/harmony_foreground.png"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/mipmap-hdpi_lifestyle_round.png.flat",
+        "source": "com.example.harmony.app-main-42:/mipmap-hdpi/lifestyle_round.png"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/drawable-hdpi_image3_background.xml.flat",
+        "source": "com.example.harmony.app-main-42:/drawable-hdpi/image3_background.xml"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/mipmap-mdpi_info_round.png.flat",
+        "source": "com.example.harmony.app-main-42:/mipmap-mdpi/info_round.png"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/mipmap-anydpi-v26_info.xml.flat",
+        "source": "com.example.harmony.app-main-42:/mipmap-anydpi-v26/info.xml"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/mipmap-xhdpi_info_foreground.png.flat",
+        "source": "com.example.harmony.app-main-42:/mipmap-xhdpi/info_foreground.png"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/mipmap-xxhdpi_info.png.flat",
+        "source": "com.example.harmony.app-main-42:/mipmap-xxhdpi/info.png"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/mipmap-hdpi_info_round.png.flat",
+        "source": "com.example.harmony.app-main-42:/mipmap-hdpi/info_round.png"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/mipmap-mdpi_image3_foreground.png.flat",
+        "source": "com.example.harmony.app-main-42:/mipmap-mdpi/image3_foreground.png"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/layout_account.xml.flat",
+        "source": "com.example.harmony.app-main-42:/layout/account.xml"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/mipmap-mdpi_info_foreground.png.flat",
+        "source": "com.example.harmony.app-main-42:/mipmap-mdpi/info_foreground.png"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/mipmap-hdpi_opening_round.png.flat",
+        "source": "com.example.harmony.app-main-42:/mipmap-hdpi/opening_round.png"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/mipmap-xhdpi_image3.png.flat",
+        "source": "com.example.harmony.app-main-42:/mipmap-xhdpi/image3.png"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/mipmap-xhdpi_lifestyle_foreground.png.flat",
+        "source": "com.example.harmony.app-main-42:/mipmap-xhdpi/lifestyle_foreground.png"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/drawable-hdpi_ic_settings.xml.flat",
+        "source": "com.example.harmony.app-main-42:/drawable-hdpi/ic_settings.xml"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/navigation_navigation.xml.flat",
+        "source": "com.example.harmony.app-main-42:/navigation/navigation.xml"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/mipmap-xhdpi_info.png.flat",
+        "source": "com.example.harmony.app-main-42:/mipmap-xhdpi/info.png"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/mipmap-mdpi_opening_foreground.png.flat",
+        "source": "com.example.harmony.app-main-42:/mipmap-mdpi/opening_foreground.png"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/mipmap-anydpi-v26_image2_round.xml.flat",
+        "source": "com.example.harmony.app-main-42:/mipmap-anydpi-v26/image2_round.xml"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/mipmap-xhdpi_image3_round.png.flat",
+        "source": "com.example.harmony.app-main-42:/mipmap-xhdpi/image3_round.png"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/layout_fragment_payment.xml.flat",
+        "source": "com.example.harmony.app-main-42:/layout/fragment_payment.xml"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/mipmap-mdpi_image2_foreground.png.flat",
+        "source": "com.example.harmony.app-main-42:/mipmap-mdpi/image2_foreground.png"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/drawable-hdpi_image4_background.xml.flat",
+        "source": "com.example.harmony.app-main-42:/drawable-hdpi/image4_background.xml"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/layout_fragment_my_cart.xml.flat",
+        "source": "com.example.harmony.app-main-42:/layout/fragment_my_cart.xml"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/drawable-xxhdpi_round_border.xml.flat",
+        "source": "com.example.harmony.app-main-42:/drawable-xxhdpi/round_border.xml"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/mipmap-xhdpi_image2.png.flat",
+        "source": "com.example.harmony.app-main-42:/mipmap-xhdpi/image2.png"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/mipmap-xxxhdpi_harmony.png.flat",
+        "source": "com.example.harmony.app-main-42:/mipmap-xxxhdpi/harmony.png"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/mipmap-mdpi_image3_round.png.flat",
+        "source": "com.example.harmony.app-main-42:/mipmap-mdpi/image3_round.png"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/drawable-hdpi_ic_locations.xml.flat",
+        "source": "com.example.harmony.app-main-42:/drawable-hdpi/ic_locations.xml"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/mipmap-xxxhdpi_image4_foreground.png.flat",
+        "source": "com.example.harmony.app-main-42:/mipmap-xxxhdpi/image4_foreground.png"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/drawable-hdpi_ic_moves.xml.flat",
+        "source": "com.example.harmony.app-main-42:/drawable-hdpi/ic_moves.xml"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/mipmap-xxhdpi_harmony.png.flat",
+        "source": "com.example.harmony.app-main-42:/mipmap-xxhdpi/harmony.png"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/drawable-mdpi_facebook.png.flat",
+        "source": "com.example.harmony.app-main-42:/drawable-mdpi/facebook.png"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/mipmap-anydpi-v26_opening.xml.flat",
+        "source": "com.example.harmony.app-main-42:/mipmap-anydpi-v26/opening.xml"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/layout_fragment_register.xml.flat",
+        "source": "com.example.harmony.app-main-42:/layout/fragment_register.xml"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/mipmap-hdpi_lifestyle.png.flat",
+        "source": "com.example.harmony.app-main-42:/mipmap-hdpi/lifestyle.png"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/mipmap-hdpi_image4_foreground.png.flat",
+        "source": "com.example.harmony.app-main-42:/mipmap-hdpi/image4_foreground.png"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/layout_fragment_before_checkout_page.xml.flat",
+        "source": "com.example.harmony.app-main-42:/layout/fragment_before_checkout_page.xml"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/mipmap-anydpi-v26_lifestyle_round.xml.flat",
+        "source": "com.example.harmony.app-main-42:/mipmap-anydpi-v26/lifestyle_round.xml"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/drawable-hdpi_image1_background.xml.flat",
+        "source": "com.example.harmony.app-main-42:/drawable-hdpi/image1_background.xml"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/mipmap-xhdpi_harmony.png.flat",
+        "source": "com.example.harmony.app-main-42:/mipmap-xhdpi/harmony.png"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/mipmap-xxxhdpi_image3_round.png.flat",
+        "source": "com.example.harmony.app-main-42:/mipmap-xxxhdpi/image3_round.png"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/layout_fragment_subscriptions.xml.flat",
+        "source": "com.example.harmony.app-main-42:/layout/fragment_subscriptions.xml"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/drawable-hdpi_ic_abilities.xml.flat",
+        "source": "com.example.harmony.app-main-42:/drawable-hdpi/ic_abilities.xml"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.example.harmony.app-main-42:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/drawable-hdpi_image2_background.xml.flat",
+        "source": "com.example.harmony.app-main-42:/drawable-hdpi/image2_background.xml"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/mipmap-xxhdpi_opening_foreground.png.flat",
+        "source": "com.example.harmony.app-main-42:/mipmap-xxhdpi/opening_foreground.png"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/mipmap-mdpi_harmony_round.png.flat",
+        "source": "com.example.harmony.app-main-42:/mipmap-mdpi/harmony_round.png"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/mipmap-mdpi_image1_foreground.png.flat",
+        "source": "com.example.harmony.app-main-42:/mipmap-mdpi/image1_foreground.png"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/layout_fragment_about_us.xml.flat",
+        "source": "com.example.harmony.app-main-42:/layout/fragment_about_us.xml"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/mipmap-hdpi_image3_foreground.png.flat",
+        "source": "com.example.harmony.app-main-42:/mipmap-hdpi/image3_foreground.png"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/mipmap-mdpi_harmony.png.flat",
+        "source": "com.example.harmony.app-main-42:/mipmap-mdpi/harmony.png"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/drawable-hdpi_lifestyle_background.xml.flat",
+        "source": "com.example.harmony.app-main-42:/drawable-hdpi/lifestyle_background.xml"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/mipmap-hdpi_lifestyle_foreground.png.flat",
+        "source": "com.example.harmony.app-main-42:/mipmap-hdpi/lifestyle_foreground.png"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/mipmap-hdpi_harmony_foreground.png.flat",
+        "source": "com.example.harmony.app-main-42:/mipmap-hdpi/harmony_foreground.png"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/mipmap-xxhdpi_lifestyle.png.flat",
+        "source": "com.example.harmony.app-main-42:/mipmap-xxhdpi/lifestyle.png"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/layout_fragment_first_page.xml.flat",
+        "source": "com.example.harmony.app-main-42:/layout/fragment_first_page.xml"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/mipmap-mdpi_image1.png.flat",
+        "source": "com.example.harmony.app-main-42:/mipmap-mdpi/image1.png"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/mipmap-anydpi-v26_image4.xml.flat",
+        "source": "com.example.harmony.app-main-42:/mipmap-anydpi-v26/image4.xml"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/mipmap-anydpi-v26_image4_round.xml.flat",
+        "source": "com.example.harmony.app-main-42:/mipmap-anydpi-v26/image4_round.xml"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/mipmap-anydpi-v26_image1_round.xml.flat",
+        "source": "com.example.harmony.app-main-42:/mipmap-anydpi-v26/image1_round.xml"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/mipmap-xxxhdpi_harmony_foreground.png.flat",
+        "source": "com.example.harmony.app-main-42:/mipmap-xxxhdpi/harmony_foreground.png"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/drawable-xxxhdpi_ic_action_name.png.flat",
+        "source": "com.example.harmony.app-main-42:/drawable-xxxhdpi/ic_action_name.png"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.example.harmony.app-main-42:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/layout_item_recommendation.xml.flat",
+        "source": "com.example.harmony.app-main-42:/layout/item_recommendation.xml"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/mipmap-hdpi_image2_round.png.flat",
+        "source": "com.example.harmony.app-main-42:/mipmap-hdpi/image2_round.png"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/layout_item_review.xml.flat",
+        "source": "com.example.harmony.app-main-42:/layout/item_review.xml"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/mipmap-mdpi_lifestyle.png.flat",
+        "source": "com.example.harmony.app-main-42:/mipmap-mdpi/lifestyle.png"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/drawable-xhdpi_facebook.png.flat",
+        "source": "com.example.harmony.app-main-42:/drawable-xhdpi/facebook.png"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/layout_personinformation.xml.flat",
+        "source": "com.example.harmony.app-main-42:/layout/personinformation.xml"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/drawable-xxhdpi_ic_action_name.png.flat",
+        "source": "com.example.harmony.app-main-42:/drawable-xxhdpi/ic_action_name.png"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/mipmap-xxxhdpi_lifestyle_round.png.flat",
+        "source": "com.example.harmony.app-main-42:/mipmap-xxxhdpi/lifestyle_round.png"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/layout_fragment_add_reviews.xml.flat",
+        "source": "com.example.harmony.app-main-42:/layout/fragment_add_reviews.xml"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/mipmap-hdpi_image4.png.flat",
+        "source": "com.example.harmony.app-main-42:/mipmap-hdpi/image4.png"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/mipmap-hdpi_image1_foreground.png.flat",
+        "source": "com.example.harmony.app-main-42:/mipmap-hdpi/image1_foreground.png"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.example.harmony.app-main-42:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/mipmap-xxhdpi_image2_foreground.png.flat",
+        "source": "com.example.harmony.app-main-42:/mipmap-xxhdpi/image2_foreground.png"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/mipmap-mdpi_info.png.flat",
+        "source": "com.example.harmony.app-main-42:/mipmap-mdpi/info.png"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.harmony.app-pngs-35:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/layout_activity_forget_password_confirm.xml.flat",
+        "source": "com.example.harmony.app-main-42:/layout/activity_forget_password_confirm.xml"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/drawable-xxxhdpi_facebook.png.flat",
+        "source": "com.example.harmony.app-main-42:/drawable-xxxhdpi/facebook.png"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/layout_fragment_reviews.xml.flat",
+        "source": "com.example.harmony.app-main-42:/layout/fragment_reviews.xml"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.harmony.app-main-42:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/mipmap-mdpi_image2_round.png.flat",
+        "source": "com.example.harmony.app-main-42:/mipmap-mdpi/image2_round.png"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/mipmap-xxhdpi_opening.png.flat",
+        "source": "com.example.harmony.app-main-42:/mipmap-xxhdpi/opening.png"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/drawable-xxhdpi_ic_account.xml.flat",
+        "source": "com.example.harmony.app-main-42:/drawable-xxhdpi/ic_account.xml"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/mipmap-xxxhdpi_info_round.png.flat",
+        "source": "com.example.harmony.app-main-42:/mipmap-xxxhdpi/info_round.png"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/mipmap-xxxhdpi_harmony_round.png.flat",
+        "source": "com.example.harmony.app-main-42:/mipmap-xxxhdpi/harmony_round.png"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/layout_forgetpassword.xml.flat",
+        "source": "com.example.harmony.app-main-42:/layout/forgetpassword.xml"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/mipmap-mdpi_image4_foreground.png.flat",
+        "source": "com.example.harmony.app-main-42:/mipmap-mdpi/image4_foreground.png"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/mipmap-xxxhdpi_info.png.flat",
+        "source": "com.example.harmony.app-main-42:/mipmap-xxxhdpi/info.png"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/mipmap-xhdpi_image2_foreground.png.flat",
+        "source": "com.example.harmony.app-main-42:/mipmap-xhdpi/image2_foreground.png"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/mipmap-xxxhdpi_lifestyle.png.flat",
+        "source": "com.example.harmony.app-main-42:/mipmap-xxxhdpi/lifestyle.png"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/drawable-hdpi_harmony_background.xml.flat",
+        "source": "com.example.harmony.app-main-42:/drawable-hdpi/harmony_background.xml"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/mipmap-xxhdpi_image4_foreground.png.flat",
+        "source": "com.example.harmony.app-main-42:/mipmap-xxhdpi/image4_foreground.png"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/mipmap-xhdpi_opening.png.flat",
+        "source": "com.example.harmony.app-main-42:/mipmap-xhdpi/opening.png"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/drawable-hdpi_background_side_nav_bar.xml.flat",
+        "source": "com.example.harmony.app-main-42:/drawable-hdpi/background_side_nav_bar.xml"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/layout_fragment_f_a_q.xml.flat",
+        "source": "com.example.harmony.app-main-42:/layout/fragment_f_a_q.xml"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/mipmap-xxxhdpi_image2_foreground.png.flat",
+        "source": "com.example.harmony.app-main-42:/mipmap-xxxhdpi/image2_foreground.png"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/mipmap-xhdpi_image4.png.flat",
+        "source": "com.example.harmony.app-main-42:/mipmap-xhdpi/image4.png"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/mipmap-xhdpi_lifestyle.png.flat",
+        "source": "com.example.harmony.app-main-42:/mipmap-xhdpi/lifestyle.png"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/mipmap-xxhdpi_image4_round.png.flat",
+        "source": "com.example.harmony.app-main-42:/mipmap-xxhdpi/image4_round.png"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/mipmap-mdpi_opening_round.png.flat",
+        "source": "com.example.harmony.app-main-42:/mipmap-mdpi/opening_round.png"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/drawable-hdpi_ic_items.xml.flat",
+        "source": "com.example.harmony.app-main-42:/drawable-hdpi/ic_items.xml"
+    },
+    {
+        "merged": "com.example.harmony.app-merged_res-40:/mipmap-xxhdpi_image1_round.png.flat",
+        "source": "com.example.harmony.app-main-42:/mipmap-xxhdpi/image1_round.png"
+    }
+]
