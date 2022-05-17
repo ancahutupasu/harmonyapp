@@ -1,0 +1,110 @@
+[
+    {
+        "merged": "com.example.harmony.app-mergeDebugResources-39:/layout/fragment_offers.xml",
+        "source": "com.example.harmony.app-main-42:/layout/fragment_offers.xml"
+    },
+    {
+        "merged": "com.example.harmony.app-mergeDebugResources-39:/layout/navigation_drawer_header.xml",
+        "source": "com.example.harmony.app-main-42:/layout/navigation_drawer_header.xml"
+    },
+    {
+        "merged": "com.example.harmony.app-mergeDebugResources-39:/layout/fragment_my_cart.xml",
+        "source": "com.example.harmony.app-main-42:/layout/fragment_my_cart.xml"
+    },
+    {
+        "merged": "com.example.harmony.app-mergeDebugResources-39:/layout/fragment_thank_you.xml",
+        "source": "com.example.harmony.app-main-42:/layout/fragment_thank_you.xml"
+    },
+    {
+        "merged": "com.example.harmony.app-mergeDebugResources-39:/layout/personinformation.xml",
+        "source": "com.example.harmony.app-main-42:/layout/personinformation.xml"
+    },
+    {
+        "merged": "com.example.harmony.app-mergeDebugResources-39:/layout/activity_main.xml",
+        "source": "com.example.harmony.app-main-42:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.harmony.app-mergeDebugResources-39:/layout/fragment_services.xml",
+        "source": "com.example.harmony.app-main-42:/layout/fragment_services.xml"
+    },
+    {
+        "merged": "com.example.harmony.app-mergeDebugResources-39:/layout/item_review.xml",
+        "source": "com.example.harmony.app-main-42:/layout/item_review.xml"
+    },
+    {
+        "merged": "com.example.harmony.app-mergeDebugResources-39:/layout/account.xml",
+        "source": "com.example.harmony.app-main-42:/layout/account.xml"
+    },
+    {
+        "merged": "com.example.harmony.app-mergeDebugResources-39:/layout/fragment_lifestyle_tips.xml",
+        "source": "com.example.harmony.app-main-42:/layout/fragment_lifestyle_tips.xml"
+    },
+    {
+        "merged": "com.example.harmony.app-mergeDebugResources-39:/layout/fragment_about_us.xml",
+        "source": "com.example.harmony.app-main-42:/layout/fragment_about_us.xml"
+    },
+    {
+        "merged": "com.example.harmony.app-mergeDebugResources-39:/layout/fragment_login.xml",
+        "source": "com.example.harmony.app-main-42:/layout/fragment_login.xml"
+    },
+    {
+        "merged": "com.example.harmony.app-mergeDebugResources-39:/layout/fragment_services_fragment2.xml",
+        "source": "com.example.harmony.app-main-42:/layout/fragment_services_fragment2.xml"
+    },
+    {
+        "merged": "com.example.harmony.app-mergeDebugResources-39:/layout/fragment_add_reviews.xml",
+        "source": "com.example.harmony.app-main-42:/layout/fragment_add_reviews.xml"
+    },
+    {
+        "merged": "com.example.harmony.app-mergeDebugResources-39:/layout/fragment_reviews.xml",
+        "source": "com.example.harmony.app-main-42:/layout/fragment_reviews.xml"
+    },
+    {
+        "merged": "com.example.harmony.app-mergeDebugResources-39:/layout/forgetpassword.xml",
+        "source": "com.example.harmony.app-main-42:/layout/forgetpassword.xml"
+    },
+    {
+        "merged": "com.example.harmony.app-mergeDebugResources-39:/layout/item_recommendation.xml",
+        "source": "com.example.harmony.app-main-42:/layout/item_recommendation.xml"
+    },
+    {
+        "merged": "com.example.harmony.app-mergeDebugResources-39:/layout/mypoints.xml",
+        "source": "com.example.harmony.app-main-42:/layout/mypoints.xml"
+    },
+    {
+        "merged": "com.example.harmony.app-mergeDebugResources-39:/layout/fragment_home.xml",
+        "source": "com.example.harmony.app-main-42:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.example.harmony.app-mergeDebugResources-39:/layout/fragment_register.xml",
+        "source": "com.example.harmony.app-main-42:/layout/fragment_register.xml"
+    },
+    {
+        "merged": "com.example.harmony.app-mergeDebugResources-39:/layout/fragment_first_page.xml",
+        "source": "com.example.harmony.app-main-42:/layout/fragment_first_page.xml"
+    },
+    {
+        "merged": "com.example.harmony.app-mergeDebugResources-39:/layout/fragment_f_a_q.xml",
+        "source": "com.example.harmony.app-main-42:/layout/fragment_f_a_q.xml"
+    },
+    {
+        "merged": "com.example.harmony.app-mergeDebugResources-39:/layout/fragment_contact_us.xml",
+        "source": "com.example.harmony.app-main-42:/layout/fragment_contact_us.xml"
+    },
+    {
+        "merged": "com.example.harmony.app-mergeDebugResources-39:/layout/fragment_before_checkout_page.xml",
+        "source": "com.example.harmony.app-main-42:/layout/fragment_before_checkout_page.xml"
+    },
+    {
+        "merged": "com.example.harmony.app-mergeDebugResources-39:/layout/activity_forget_password_confirm.xml",
+        "source": "com.example.harmony.app-main-42:/layout/activity_forget_password_confirm.xml"
+    },
+    {
+        "merged": "com.example.harmony.app-mergeDebugResources-39:/layout/fragment_payment.xml",
+        "source": "com.example.harmony.app-main-42:/layout/fragment_payment.xml"
+    },
+    {
+        "merged": "com.example.harmony.app-mergeDebugResources-39:/layout/fragment_subscriptions.xml",
+        "source": "com.example.harmony.app-main-42:/layout/fragment_subscriptions.xml"
+    }
+]

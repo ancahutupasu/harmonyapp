@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_pokedex">
+
+    <fragment
+        android:id="@+id/nav_pokedex"
+        android:name="com.example.harmony.ui.firstPage.FirstPageFragment"
+        android:label="Harmony"
+        tools:layout="@layout/fragment_first_page" />
+
+
+
+    <fragment
+        android:id="@+id/nav_moves"
+        android:name="com.example.harmony.ui.home.HomeFragment"
+        android:label="Home"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/nav_abilities"
+        android:name="com.example.harmony.ui.aboutUs.AboutUsFragment"
+        android:label="About us"
+        tools:layout="@layout/fragment_about_us" />
+
+    <fragment
+        android:id="@+id/nav_items"
+        android:name="com.example.harmony.ui.services.servicesFragment"
+        android:label="Services"
+        tools:layout="@layout/fragment_services" />
+
+    <fragment
+        android:id="@+id/nav_locations"
+        android:name="com.example.harmony.ui.offers.OffersFragment"
+        android:label="Offers/Packages"
+        tools:layout="@layout/fragment_offers" />
+
+    <!-- <fragment
+        android:id="@+id/nav_natures"
+        android:name="io.github.kasperknop.pokedb.LifestyleFragment"
+        android:label="Lifestyle tricks"
+        tools:layout="@layout/fragment_lifestyle" /> -->
+
+    <fragment
+        android:id="@+id/nav_type_chart"
+        android:name="com.example.harmony.ui.reviews.ReviewsFragment"
+        android:label="Reviews"
+        tools:layout="@layout/fragment_reviews" />
+<!--
+    <fragment
+        android:id="@+id/nav_iv_calculator"
+        android:name="io.github.kasperknop.pokedb.ContactUsFragment"
+        android:label="Contact us"
+        tools:layout="@layout/fragment_contact_us" />
+
+
+
+    <fragment
+        android:id="@+id/nav_help_and_feedback"
+        android:name="io.github.kasperknop.pokedb.HelpFragment"
+        android:label="Help and questions"
+        tools:layout="@layout/fragment_help" /> -->
+
+    <fragment
+        android:id="@+id/nav_settings"
+        android:name="com.example.harmony.ui.login.LoginFragment"
+        android:label="Login"
+        tools:layout="@layout/fragment_login" />
+
+</navigation>
