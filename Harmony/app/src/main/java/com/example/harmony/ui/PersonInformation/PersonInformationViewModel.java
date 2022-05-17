@@ -1,4 +1,4 @@
-package com.example.harmony.ui.PersonInformation;
+/*package com.example.harmony.ui.PersonInformation;
 
 import androidx.lifecycle.LiveData;
 import androidx.lifecycle.MutableLiveData;
@@ -16,4 +16,4 @@ public class PersonInformationViewModel extends ViewModel {
     public LiveData<CharSequence>getText(){
         return text;
     }
-}
+}*/

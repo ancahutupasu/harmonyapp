@@ -2,11 +2,12 @@ package com.example.harmony;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.accounts.Account;
 import android.content.Intent;
 import android.os.Bundle;
 import android.widget.Button;
 
-import com.example.harmony.ui.MyAccount.Account;
+
 
 public class PersonInformation extends AppCompatActivity {
 

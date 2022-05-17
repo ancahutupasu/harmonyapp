@@ -1,4 +1,4 @@
-package com.example.harmony.ui.MyAccount;
+/*package com.example.harmony.ui.MyAccount;
 
 import androidx.fragment.app.FragmentTransaction;
 
@@ -108,4 +108,4 @@ public class Account extends Fragment {
     }
 
 }
-
+*/

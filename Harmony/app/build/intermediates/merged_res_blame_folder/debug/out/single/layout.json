@@ -16,6 +16,10 @@
         "source": "com.example.harmony.app-main-42:/layout/activity_services.xml"
     },
     {
+        "merged": "com.example.harmony.app-mergeDebugResources-39:/layout/item_review.xml",
+        "source": "com.example.harmony.app-main-42:/layout/item_review.xml"
+    },
+    {
         "merged": "com.example.harmony.app-mergeDebugResources-39:/layout/account.xml",
         "source": "com.example.harmony.app-main-42:/layout/account.xml"
     },
@@ -34,10 +38,6 @@
     {
         "merged": "com.example.harmony.app-mergeDebugResources-39:/layout/activity_person_information.xml",
         "source": "com.example.harmony.app-main-42:/layout/activity_person_information.xml"
-    },
-    {
-        "merged": "com.example.harmony.app-mergeDebugResources-39:/layout/register.xml",
-        "source": "com.example.harmony.app-main-42:/layout/register.xml"
     },
     {
         "merged": "com.example.harmony.app-mergeDebugResources-39:/layout/fragment_login.xml",
@@ -60,12 +60,12 @@
         "source": "com.example.harmony.app-main-42:/layout/activity_package2.xml"
     },
     {
-        "merged": "com.example.harmony.app-mergeDebugResources-39:/layout/mypoints.xml",
-        "source": "com.example.harmony.app-main-42:/layout/mypoints.xml"
+        "merged": "com.example.harmony.app-mergeDebugResources-39:/layout/item_recommendation.xml",
+        "source": "com.example.harmony.app-main-42:/layout/item_recommendation.xml"
     },
     {
-        "merged": "com.example.harmony.app-mergeDebugResources-39:/layout/fragment_register.xml",
-        "source": "com.example.harmony.app-main-42:/layout/fragment_register.xml"
+        "merged": "com.example.harmony.app-mergeDebugResources-39:/layout/mypoints.xml",
+        "source": "com.example.harmony.app-main-42:/layout/mypoints.xml"
     },
     {
         "merged": "com.example.harmony.app-mergeDebugResources-39:/layout/fragment_before_checkout_page.xml",

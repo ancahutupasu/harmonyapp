@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a1f926f4-fe09-4c4c-8de8-b7a9350f5db7" name="Default Changelist" comment="my stuff">
-      <change beforePath="$PROJECT_DIR$/Harmony/app/src/main/java/com/example/harmony/ui/Register/RegisterViewModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/Harmony/app/src/main/java/com/example/harmony/ui/Register/RegisterViewModel.java" afterDir="false" />
-    </list>
+    <list default="true" id="a1f926f4-fe09-4c4c-8de8-b7a9350f5db7" name="Default Changelist" comment="my stuff" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
