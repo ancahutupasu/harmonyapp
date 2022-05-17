@@ -73,7 +73,7 @@ Working
 
 
 
-#Brief description:
+# Brief description:
 - our app it is for an existing bussines, which offers body treatments (massage) in Horsens;
 - the owner asked for our help in making the application;
 - the app will be used by the owner of the bussiness, to make her life and customers easier;
@@ -81,9 +81,9 @@ Working
 - not everyone want to browse for the website or facebook page to get more information, make bookings - with the application everything is in one place.
 
 
-#References
+# References
 Firebase: https://www.youtube.com/watch?v=wa8OrQ_e76M
 Profile UI: https://www.youtube.com/watch?v=BCZUdl3CXKM&t=25s
 
 #Issues
--During a lot of git merge issues and the restart the of application files were losts which caused the code to collaps on itself, including the firebase connection.
+During a lot of git merge issues and the restart the of application files were losts which caused the code to collaps on itself, including the firebase connection.
