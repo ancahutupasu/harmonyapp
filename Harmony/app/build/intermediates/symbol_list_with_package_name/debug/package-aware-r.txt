@@ -2970,7 +2970,6 @@ id Subscriptions
 id TOP_END
 id TOP_START
 id ThankYou
-id TitleMyCart
 id accelerate
 id accessibility_action_clickable_span
 id accessibility_custom_action_0
@@ -3694,6 +3693,7 @@ id thursday
 id ticker
 id time
 id title
+id titleCard
 id titleDividerNoCustom
 id title_template
 id toggle
@@ -3879,9 +3879,6 @@ layout fragment_f_a_q
 layout fragment_login
 layout fragment_my_cart
 layout fragment_payment
-layout fragment_person_information
-layout fragment_person_information2
-layout fragment_person_information3
 layout fragment_register
 layout fragment_reviews
 layout fragment_subscriptions

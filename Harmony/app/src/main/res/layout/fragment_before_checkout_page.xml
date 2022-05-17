@@ -85,19 +85,15 @@
             android:layout_height="match_parent"
             android:orientation="horizontal">
 
-            <TextView
-                android:id="@+id/textView17"
-                android:layout_width="62dp"
-                android:layout_height="68dp"
-                android:text="Name"
-                android:textSize="18sp" />
-
             <EditText
                 android:id="@+id/editTextTextPersonName9"
                 android:layout_width="283dp"
-                android:layout_height="match_parent"
+                android:layout_height="64dp"
                 android:layout_weight="1"
+                android:background="@drawable/round_border"
+                android:drawableStart="@drawable/ic_account"
                 android:ems="10"
+                android:hint="Name"
                 android:inputType="textPersonName"
                 tools:ignore="SpeakableTextPresentCheck" />
 
@@ -121,20 +117,15 @@
             android:layout_height="wrap_content"
             android:orientation="horizontal">
 
-            <TextView
-                android:id="@+id/textView18"
-                android:layout_width="60dp"
-                android:layout_height="68dp"
-                android:layout_weight="1"
-                android:text="Phone"
-                android:textSize="18sp" />
-
             <EditText
                 android:id="@+id/editTextPhone3"
-                android:layout_width="282dp"
-                android:layout_height="match_parent"
+                android:layout_width="283dp"
+                android:layout_height="61dp"
                 android:layout_weight="1"
+                android:background="@drawable/round_border"
+                android:drawableStart="@android:drawable/ic_menu_call"
                 android:ems="10"
+                android:hint="Phone"
                 android:inputType="phone"
                 tools:ignore="TouchTargetSizeCheck,SpeakableTextPresentCheck" />
 
@@ -158,20 +149,15 @@
             android:layout_height="match_parent"
             android:orientation="horizontal">
 
-            <TextView
-                android:id="@+id/textView19"
-                android:layout_width="60dp"
-                android:layout_height="68dp"
-                android:layout_weight="1"
-                android:text="E-mail"
-                android:textSize="18sp" />
-
             <EditText
                 android:id="@+id/editTextTextEmailAddress2"
-                android:layout_width="281dp"
-                android:layout_height="71dp"
+                android:layout_width="283dp"
+                android:layout_height="59dp"
                 android:layout_weight="1"
+                android:background="@drawable/round_border"
+                android:drawableStart="@drawable/ic_email"
                 android:ems="10"
+                android:hint="Email"
                 android:inputType="textEmailAddress"
                 tools:ignore="SpeakableTextPresentCheck" />
 

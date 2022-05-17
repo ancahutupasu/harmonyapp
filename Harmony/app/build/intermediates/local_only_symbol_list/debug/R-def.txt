@@ -42,7 +42,6 @@ id Reviews
 id Submit
 id Subscriptions
 id ThankYou
-id TitleMyCart
 id addReviewButton
 id add_review
 id beforeCheckout
@@ -223,6 +222,7 @@ id textViewPrice
 id textViewTitle
 id thank
 id thursday
+id titleCard
 id toolbar2
 id tuesday
 id txtCounter
@@ -250,9 +250,6 @@ layout fragment_f_a_q
 layout fragment_login
 layout fragment_my_cart
 layout fragment_payment
-layout fragment_person_information
-layout fragment_person_information2
-layout fragment_person_information3
 layout fragment_register
 layout fragment_reviews
 layout fragment_subscriptions

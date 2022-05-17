@@ -24,9 +24,6 @@ public final class FragmentMyCartBinding implements ViewBinding {
   private final ConstraintLayout rootView;
 
   @NonNull
-  public final TextView TitleMyCart;
-
-  @NonNull
   public final Button buttonAddMyCart;
 
   @NonNull
@@ -62,15 +59,17 @@ public final class FragmentMyCartBinding implements ViewBinding {
   @NonNull
   public final TextView textViewPrice;
 
-  private FragmentMyCartBinding(@NonNull ConstraintLayout rootView, @NonNull TextView TitleMyCart,
-      @NonNull Button buttonAddMyCart, @NonNull Button buttonCheckout,
-      @NonNull Button buttonDeleteMyItemCard, @NonNull ImageView imageView8,
-      @NonNull LinearLayout linearLayout14, @NonNull LinearLayout linearLayout16,
-      @NonNull LinearLayout linearLayout17, @NonNull LinearLayout linearLayout18,
-      @NonNull ConstraintLayout myCart, @NonNull RadioButton radioButtonGiftCard,
-      @NonNull TextView textView14, @NonNull TextView textViewPrice) {
+  @NonNull
+  public final TextView titleCard;
+
+  private FragmentMyCartBinding(@NonNull ConstraintLayout rootView, @NonNull Button buttonAddMyCart,
+      @NonNull Button buttonCheckout, @NonNull Button buttonDeleteMyItemCard,
+      @NonNull ImageView imageView8, @NonNull LinearLayout linearLayout14,
+      @NonNull LinearLayout linearLayout16, @NonNull LinearLayout linearLayout17,
+      @NonNull LinearLayout linearLayout18, @NonNull ConstraintLayout myCart,
+      @NonNull RadioButton radioButtonGiftCard, @NonNull TextView textView14,
+      @NonNull TextView textViewPrice, @NonNull TextView titleCard) {
     this.rootView = rootView;
-    this.TitleMyCart = TitleMyCart;
     this.buttonAddMyCart = buttonAddMyCart;
     this.buttonCheckout = buttonCheckout;
     this.buttonDeleteMyItemCard = buttonDeleteMyItemCard;
@@ -83,6 +82,7 @@ public final class FragmentMyCartBinding implements ViewBinding {
     this.radioButtonGiftCard = radioButtonGiftCard;
     this.textView14 = textView14;
     this.textViewPrice = textViewPrice;
+    this.titleCard = titleCard;
   }
 
   @Override
@@ -112,12 +112,6 @@ public final class FragmentMyCartBinding implements ViewBinding {
     // This is done to optimize the compiled bytecode for size and performance.
     int id;
     missingId: {
-      id = R.id.TitleMyCart;
-      TextView TitleMyCart = ViewBindings.findChildViewById(rootView, id);
-      if (TitleMyCart == null) {
-        break missingId;
-      }
-
       id = R.id.buttonAddMyCart;
       Button buttonAddMyCart = ViewBindings.findChildViewById(rootView, id);
       if (buttonAddMyCart == null) {
@@ -186,9 +180,15 @@ public final class FragmentMyCartBinding implements ViewBinding {
         break missingId;
       }
 
-      return new FragmentMyCartBinding((ConstraintLayout) rootView, TitleMyCart, buttonAddMyCart,
-          buttonCheckout, buttonDeleteMyItemCard, imageView8, linearLayout14, linearLayout16,
-          linearLayout17, linearLayout18, myCart, radioButtonGiftCard, textView14, textViewPrice);
+      id = R.id.titleCard;
+      TextView titleCard = ViewBindings.findChildViewById(rootView, id);
+      if (titleCard == null) {
+        break missingId;
+      }
+
+      return new FragmentMyCartBinding((ConstraintLayout) rootView, buttonAddMyCart, buttonCheckout,
+          buttonDeleteMyItemCard, imageView8, linearLayout14, linearLayout16, linearLayout17,
+          linearLayout18, myCart, radioButtonGiftCard, textView14, textViewPrice, titleCard);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));
