@@ -49,4 +49,5 @@
     <string name="confirm">Confirm</string>
     <string name="action_settings">action_settings</string>
     <string name="title_teams">teams</string>
+    <string name="title_Account">Account</string>
 </resources>

@@ -2703,6 +2703,7 @@ drawable ic_account
 drawable ic_action_name
 drawable ic_audiotrack_dark
 drawable ic_audiotrack_light
+drawable ic_baseline_account_circle_24
 drawable ic_checked_checkbox
 drawable ic_clock_black_24dp
 drawable ic_dialog_close_dark
@@ -2985,6 +2986,7 @@ drawable test_level_drawable
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
 id ALT
+id Account
 id Allergies
 id BOTTOM_END
 id BOTTOM_START
@@ -4419,6 +4421,7 @@ string status_bar_notification_info_overflow
 string submit
 string subscriptions
 string text
+string title_Account
 string title_teams
 string username
 string welcome

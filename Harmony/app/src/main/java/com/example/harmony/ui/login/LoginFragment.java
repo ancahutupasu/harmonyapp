@@ -19,7 +19,9 @@ import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import com.example.harmony.MainActivity;
 import com.example.harmony.R;
+import com.example.harmony.ui.MyAccount.Account;
 import com.google.android.gms.auth.api.signin.GoogleSignIn;
 import com.google.android.gms.auth.api.signin.GoogleSignInAccount;
 import com.google.android.gms.auth.api.signin.GoogleSignInClient;
@@ -59,6 +61,7 @@ public class LoginFragment extends Fragment {
         createRequestGoogle();
 
         return view;
+
     }
 
     @Override

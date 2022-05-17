@@ -54,5 +54,10 @@
             android:id="@+id/nav_help_and_feedback"
             android:icon="@drawable/ic_feedback"
             android:title="FAQ" />
+
+        <item
+            android:id="@+id/Account"
+            android:icon="@drawable/ic_account"
+            android:title="Account" />
     </group>
 </menu>

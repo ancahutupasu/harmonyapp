@@ -49,7 +49,7 @@ public class ContactUsFragment extends Fragment {
         return new ContactUsFragment();
     }
 
-    @Override
+   /* @Override
     public View onCreateView(@NonNull LayoutInflater inflater, @Nullable ViewGroup container,
                              @Nullable Bundle savedInstanceState) {
          View view = inflater.inflate(R.layout.fragment_contact_us, container, false);
@@ -118,6 +118,6 @@ public class ContactUsFragment extends Fragment {
         }));
 
 
-    }
+    }*/
 
 }
