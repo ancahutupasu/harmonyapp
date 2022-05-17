@@ -2947,7 +2947,6 @@ id Email
 id FAQ
 id FUNCTION
 id Go
-id Home
 id Id
 id Logout
 id META
@@ -3662,9 +3661,6 @@ id textTop
 id textView
 id textView13
 id textView14
-id textView17
-id textView18
-id textView19
 id textView2
 id textView20
 id textView21

@@ -4,7 +4,6 @@ package com.example.harmony.databinding;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.Button;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 import androidx.annotation.NonNull;
@@ -23,9 +22,6 @@ public final class FragmentFAQBinding implements ViewBinding {
 
   @NonNull
   public final ConstraintLayout FAQ;
-
-  @NonNull
-  public final Button Home;
 
   @NonNull
   public final TextView cancel;
@@ -82,7 +78,7 @@ public final class FragmentFAQBinding implements ViewBinding {
   public final TextView students;
 
   private FragmentFAQBinding(@NonNull ConstraintLayout rootView, @NonNull ConstraintLayout FAQ,
-      @NonNull Button Home, @NonNull TextView cancel, @NonNull TextView faq, @NonNull TextView gift,
+      @NonNull TextView cancel, @NonNull TextView faq, @NonNull TextView gift,
       @NonNull LinearLayout linearLayout37, @NonNull LinearLayout linearLayout38,
       @NonNull TextView offer, @NonNull TextView park, @NonNull TextView parking,
       @NonNull TextView pillow, @NonNull TextView policy, @NonNull TextView pregnant,
@@ -91,7 +87,6 @@ public final class FragmentFAQBinding implements ViewBinding {
       @NonNull TextView students) {
     this.rootView = rootView;
     this.FAQ = FAQ;
-    this.Home = Home;
     this.cancel = cancel;
     this.faq = faq;
     this.gift = gift;
@@ -140,12 +135,6 @@ public final class FragmentFAQBinding implements ViewBinding {
     int id;
     missingId: {
       ConstraintLayout FAQ = (ConstraintLayout) rootView;
-
-      id = R.id.Home;
-      Button Home = ViewBindings.findChildViewById(rootView, id);
-      if (Home == null) {
-        break missingId;
-      }
 
       id = R.id.cancel;
       TextView cancel = ViewBindings.findChildViewById(rootView, id);
@@ -255,7 +244,7 @@ public final class FragmentFAQBinding implements ViewBinding {
         break missingId;
       }
 
-      return new FragmentFAQBinding((ConstraintLayout) rootView, FAQ, Home, cancel, faq, gift,
+      return new FragmentFAQBinding((ConstraintLayout) rootView, FAQ, cancel, faq, gift,
           linearLayout37, linearLayout38, offer, park, parking, pillow, policy, pregnant, rules,
           rules1, rules2, rules3, rules4, stud, students);
     }

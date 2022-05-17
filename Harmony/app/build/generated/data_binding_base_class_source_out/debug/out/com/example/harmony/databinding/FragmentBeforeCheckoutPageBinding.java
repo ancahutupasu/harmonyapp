@@ -72,15 +72,6 @@ public final class FragmentBeforeCheckoutPageBinding implements ViewBinding {
   public final LinearLayout linearLayout34;
 
   @NonNull
-  public final TextView textView17;
-
-  @NonNull
-  public final TextView textView18;
-
-  @NonNull
-  public final TextView textView19;
-
-  @NonNull
   public final TextView textView20;
 
   @NonNull
@@ -94,7 +85,6 @@ public final class FragmentBeforeCheckoutPageBinding implements ViewBinding {
       @NonNull LinearLayout linearLayout29, @NonNull LinearLayout linearLayout30,
       @NonNull LinearLayout linearLayout31, @NonNull LinearLayout linearLayout32,
       @NonNull LinearLayout linearLayout33, @NonNull LinearLayout linearLayout34,
-      @NonNull TextView textView17, @NonNull TextView textView18, @NonNull TextView textView19,
       @NonNull TextView textView20, @NonNull TextView textView21) {
     this.rootView = rootView;
     this.beforeCheckout = beforeCheckout;
@@ -113,9 +103,6 @@ public final class FragmentBeforeCheckoutPageBinding implements ViewBinding {
     this.linearLayout32 = linearLayout32;
     this.linearLayout33 = linearLayout33;
     this.linearLayout34 = linearLayout34;
-    this.textView17 = textView17;
-    this.textView18 = textView18;
-    this.textView19 = textView19;
     this.textView20 = textView20;
     this.textView21 = textView21;
   }
@@ -239,24 +226,6 @@ public final class FragmentBeforeCheckoutPageBinding implements ViewBinding {
         break missingId;
       }
 
-      id = R.id.textView17;
-      TextView textView17 = ViewBindings.findChildViewById(rootView, id);
-      if (textView17 == null) {
-        break missingId;
-      }
-
-      id = R.id.textView18;
-      TextView textView18 = ViewBindings.findChildViewById(rootView, id);
-      if (textView18 == null) {
-        break missingId;
-      }
-
-      id = R.id.textView19;
-      TextView textView19 = ViewBindings.findChildViewById(rootView, id);
-      if (textView19 == null) {
-        break missingId;
-      }
-
       id = R.id.textView20;
       TextView textView20 = ViewBindings.findChildViewById(rootView, id);
       if (textView20 == null) {
@@ -272,8 +241,7 @@ public final class FragmentBeforeCheckoutPageBinding implements ViewBinding {
       return new FragmentBeforeCheckoutPageBinding((ConstraintLayout) rootView, beforeCheckout,
           button6, buttonLog, buttonSignup, checkBox, editTextPhone3, editTextTextEmailAddress2,
           editTextTextPersonName9, linearLayout27, linearLayout28, linearLayout29, linearLayout30,
-          linearLayout31, linearLayout32, linearLayout33, linearLayout34, textView17, textView18,
-          textView19, textView20, textView21);
+          linearLayout31, linearLayout32, linearLayout33, linearLayout34, textView20, textView21);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));
