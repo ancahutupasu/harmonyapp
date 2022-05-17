@@ -88,6 +88,10 @@
         "source": "com.example.harmony.app-main-42:/layout/activity_forget_password_confirm.xml"
     },
     {
+        "merged": "com.example.harmony.app-mergeDebugResources-39:/layout/fragment_payment.xml",
+        "source": "com.example.harmony.app-main-42:/layout/fragment_payment.xml"
+    },
+    {
         "merged": "com.example.harmony.app-mergeDebugResources-39:/layout/activity_main_page.xml",
         "source": "com.example.harmony.app-main-42:/layout/activity_main_page.xml"
     },

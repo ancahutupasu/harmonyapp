@@ -17,8 +17,6 @@
         <entry key="..\:/Android project/harmonyapp/Harmony/app/src/main/res/layout/review_list_item.xml" value="0.23097826086956522" />
         <entry key="..\:/Users/Anca/AndroidStudioProjects/harmonyapp/Harmony/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
         <entry key="..\:/Users/Anca/AndroidStudioProjects/harmonyapp/Harmony/app/src/main/res/layout/contact_us.xml" value="0.25416666666666665" />
-        <entry key="..\:/Users/Anca/AndroidStudioProjects/harmonyapp/Harmony/app/src/main/res/layout/fragment_before_checkout_page.xml" value="0.358695652173913" />
-        <entry key="..\:/Users/Anca/AndroidStudioProjects/harmonyapp/Harmony/app/src/main/res/layout/fragment_my_cart.xml" value="0.358695652173913" />
         <entry key="..\:/Users/Anca/AndroidStudioProjects/harmonyapp/Harmony/app/src/main/res/layout/my_cart.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/Anca/AndroidStudioProjects/harmonyapp/Harmony/app/src/main/res/layout/payment_method.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/Anca/AndroidStudioProjects/harmonyapp/Harmony/app/src/main/res/layout/person_info.xml" value="0.25416666666666665" />
@@ -48,6 +46,7 @@
         <entry key="..\:/Users/alina/AndroidStudioProjects/harmonyApp2/Harmony/app/src/main/res/menu/main_page.xml" value="0.1" />
         <entry key="..\:/Users/alina/AndroidStudioProjects/harmonyApp2/Harmony/app/src/main/res/menu/navigation_menu.xml" value="0.17239583333333333" />
         <entry key="..\:/Users/ravne/AndroidStudioProjects/harmonyapp1/Harmony/app/src/main/res/layout/account.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/account.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_about_us.xml" value="0.2947916666666667" />
         <entry key="app/src/main/res/layout/activity_forget_password_confirm.xml" value="0.2947916666666667" />
         <entry key="app/src/main/res/layout/activity_login.xml" value="0.15520833333333334" />
@@ -60,7 +59,7 @@
         <entry key="app/src/main/res/layout/fragment_add_reviews.xml" value="0.15520833333333334" />
         <entry key="app/src/main/res/layout/fragment_login.xml" value="0.3098958333333333" />
         <entry key="app/src/main/res/layout/fragment_personinformationfragment.xml" value="0.3098958333333333" />
-        <entry key="app/src/main/res/layout/fragment_register.xml" value="0.3098958333333333" />
+        <entry key="app/src/main/res/layout/fragment_register.xml" value="0.25" />
         <entry key="app/src/main/res/layout/fragment_reviews.xml" value="0.16893115942028986" />
         <entry key="app/src/main/res/layout/fragment_subscriptions.xml" value="0.3098958333333333" />
         <entry key="app/src/main/res/layout/item.xml" value="0.3098958333333333" />
@@ -73,6 +72,8 @@
         <entry key="app/src/main/res/layout/review_list_item.xml" value="0.3098958333333333" />
         <entry key="app/src/main/res/layout/reviews.xml" value="0.2953125" />
         <entry key="app/src/main/res/menu/navigation_menu.xml" value="0.2947916666666667" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
       </map>
     </option>
   </component>

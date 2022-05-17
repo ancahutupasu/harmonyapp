@@ -184,6 +184,7 @@ layout fragment_before_checkout_page
 layout fragment_bookings
 layout fragment_login
 layout fragment_my_cart
+layout fragment_payment
 layout fragment_reviews
 layout fragment_subscriptions
 layout item

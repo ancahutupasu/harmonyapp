@@ -88,6 +88,10 @@
         "source": "com.example.harmony.app-main-42:/drawable-xxhdpi/imag2.png"
     },
     {
+        "merged": "com.example.harmony.app-merged_res-40:/layout_fragment_payment.xml.flat",
+        "source": "com.example.harmony.app-main-42:/layout/fragment_payment.xml"
+    },
+    {
         "merged": "com.example.harmony.app-merged_res-40:/drawable-xxhdpi_ic_action_name.png.flat",
         "source": "com.example.harmony.app-main-42:/drawable-xxhdpi/ic_action_name.png"
     },
