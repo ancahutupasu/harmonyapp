@@ -85,5 +85,5 @@ Working
 Firebase: https://www.youtube.com/watch?v=wa8OrQ_e76M
 Profile UI: https://www.youtube.com/watch?v=BCZUdl3CXKM&t=25s
 
-#Issues
+# Issues
 During a lot of git merge issues and the restart the of application files were losts which caused the code to collaps on itself, including the firebase connection.
