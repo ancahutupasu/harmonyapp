@@ -1,7 +1,7 @@
 - As a visitor, I want to be able to create an account in order to become a customer.
-Working, customer can create an account by signing up
+  Working, customer can create an account by signing up
 - As a customer, I want to be able to login to my account, in order to view my account.
-Working, if the customer is already hav an access they can login any time.
+  Working, if the customer is already hav an access they can login any time.
 - As an administrator, I want to add services, in order to give to the customers more options for treatments.
 Working
 - As an administrator, I want to edit services, in order to give to the customers more options for treatments.
