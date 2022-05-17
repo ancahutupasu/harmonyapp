@@ -1,19 +1,18 @@
-/*package com.example.harmony.ui.PersonInformation;
+package com.example.harmony.ui.PersonInformation;
 
-import androidx.lifecycle.LiveData;
-import androidx.lifecycle.MutableLiveData;
 import androidx.lifecycle.ViewModel;
+
+import com.example.harmony.data.user.UserRepository;
 
 public class PersonInformationViewModel extends ViewModel {
 
-    private final MutableLiveData<CharSequence>text = new MutableLiveData<>();
+    private final UserRepository userRepository;
 
-
-
-    public void setText(CharSequence input){
-        text.setValue(input);
+    public PersonInformationViewModel(UserRepository userRepository) {
+        this.userRepository = userRepository;
     }
-    public LiveData<CharSequence>getText(){
-        return text;
+    public void setBackPressed(Boolean isBackInPressed) {
+        userRepository.setBackPressed(isBackInPressed);
     }
-}*/
+
+}

@@ -9,6 +9,8 @@
     <color name="white">#FFFFFFFF</color>
     <dimen name="fragment_horizontal_margin">16dp</dimen>
     <dimen name="fragment_vertical_margin">16dp</dimen>
+    <item name="container" type="id"/>
+    <string name="Email">email</string>
     <string name="New">New?</string>
     <string name="Password">password</string>
     <string name="add">add</string>
@@ -17,10 +19,13 @@
     <string name="bookings_history">Booking History</string>
     <string name="button">Button</string>
     <string name="cancel">Cancel</string>
+    <string name="confirm">Confirm</string>
     <string name="confirm_password">Confirm Password</string>
     <string name="done">Done</string>
     <string name="email">Email</string>
+    <string name="email1">email</string>
     <string name="existing_user">Already Have an Account?</string>
+    <string name="forget_password">Forget Password</string>
     <string name="forgot_password">Forgot Password?</string>
     <string name="hello">Hello</string>
     <string name="hello_world">Hello World</string>

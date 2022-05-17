@@ -23,7 +23,7 @@ public final class MypointsBinding implements ViewBinding {
   private final ConstraintLayout rootView;
 
   @NonNull
-  public final Button Click;
+  public final Button Points;
 
   @NonNull
   public final EditText editTextTextPersonName6;
@@ -40,12 +40,12 @@ public final class MypointsBinding implements ViewBinding {
   @NonNull
   public final TextView txtCounter;
 
-  private MypointsBinding(@NonNull ConstraintLayout rootView, @NonNull Button Click,
+  private MypointsBinding(@NonNull ConstraintLayout rootView, @NonNull Button Points,
       @NonNull EditText editTextTextPersonName6, @NonNull LinearLayout linearLayout26,
       @NonNull LinearLayout linearLayout27, @NonNull LinearLayout linearLayout28,
       @NonNull TextView txtCounter) {
     this.rootView = rootView;
-    this.Click = Click;
+    this.Points = Points;
     this.editTextTextPersonName6 = editTextTextPersonName6;
     this.linearLayout26 = linearLayout26;
     this.linearLayout27 = linearLayout27;
@@ -80,9 +80,9 @@ public final class MypointsBinding implements ViewBinding {
     // This is done to optimize the compiled bytecode for size and performance.
     int id;
     missingId: {
-      id = R.id.Click;
-      Button Click = ViewBindings.findChildViewById(rootView, id);
-      if (Click == null) {
+      id = R.id.Points;
+      Button Points = ViewBindings.findChildViewById(rootView, id);
+      if (Points == null) {
         break missingId;
       }
 
@@ -116,7 +116,7 @@ public final class MypointsBinding implements ViewBinding {
         break missingId;
       }
 
-      return new MypointsBinding((ConstraintLayout) rootView, Click, editTextTextPersonName6,
+      return new MypointsBinding((ConstraintLayout) rootView, Points, editTextTextPersonName6,
           linearLayout26, linearLayout27, linearLayout28, txtCounter);
     }
     String missingId = rootView.getResources().getResourceName(id);
